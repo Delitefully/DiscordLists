@@ -13,6 +13,7 @@ discord.gg/acherus
 discord.gg/achievementhunter
 discord.gg/adafruit
 discord.gg/admiralbulldog
+discord.gg/adnanbro
 discord.gg/adventuretime
 discord.gg/ae
 discord.gg/afiz
@@ -97,6 +98,7 @@ discord.gg/basscornbread
 discord.gg/batera
 discord.gg/batman
 discord.gg/battleborn
+discord.gg/battlefield
 discord.gg/battlefront
 discord.gg/battleroyale
 discord.gg/bb
@@ -191,6 +193,7 @@ discord.gg/classicoffensive
 discord.gg/classicwow
 discord.gg/clopoyaur
 discord.gg/clubtostadita
+discord.gg/cndblood
 discord.gg/cocfr
 discord.gg/coconutb
 discord.gg/code
@@ -256,6 +259,7 @@ discord.gg/deadlybossmods
 discord.gg/deadlyslob
 discord.gg/deadmau5
 discord.gg/deadmeat
+discord.gg/deltarune
 discord.gg/demize
 discord.gg/den
 discord.gg/destiny
@@ -427,6 +431,7 @@ discord.gg/gfinity
 discord.gg/gg
 discord.gg/ghostrecon
 discord.gg/gintama
+discord.gg/gizzy
 discord.gg/glamshatterskull
 discord.gg/glitchy
 discord.gg/globaloffensive
@@ -434,6 +439,7 @@ discord.gg/gloom
 discord.gg/goddess
 discord.gg/godofwar
 discord.gg/godsquadgaming
+discord.gg/goldensplit
 discord.gg/goldex
 discord.gg/goldglove
 discord.gg/goobermonk
@@ -461,6 +467,7 @@ discord.gg/gtaseries
 discord.gg/gtfobae
 discord.gg/gtimetv
 discord.gg/gtr
+discord.gg/guacjones
 discord.gg/guitarherostyles
 discord.gg/gungirl
 discord.gg/guns
@@ -733,6 +740,8 @@ discord.gg/moonducktv
 discord.gg/mortalkombat
 discord.gg/mortanos
 discord.gg/moto
+discord.gg/ms
+discord.gg/ms2
 discord.gg/mtggoldfish
 discord.gg/mumbojumbo
 discord.gg/muselk
@@ -758,6 +767,7 @@ discord.gg/neebsgaming
 discord.gg/needforspeed
 discord.gg/neko
 discord.gg/neomc
+discord.gg/nerdynetty
 discord.gg/nervarien
 discord.gg/nes
 discord.gg/net64
@@ -890,7 +900,6 @@ discord.gg/pyrocynical
 discord.gg/python
 discord.gg/qlabs
 discord.gg/qrew
-discord.gg/quackityhq
 discord.gg/quepaso
 discord.gg/quiff
 discord.gg/quikblend
@@ -983,6 +992,7 @@ discord.gg/scrub
 discord.gg/scullybb
 discord.gg/sdb
 discord.gg/seaofthieveses
+discord.gg/sekiro
 discord.gg/sequisha
 discord.gg/seriouslyclara
 discord.gg/sfe
@@ -1056,6 +1066,7 @@ discord.gg/spycakes
 discord.gg/spyro
 discord.gg/squallzera
 discord.gg/squatingdog
+discord.gg/sre
 discord.gg/st
 discord.gg/stackblitz
 discord.gg/stage
@@ -1070,6 +1081,7 @@ discord.gg/starship
 discord.gg/startrek
 discord.gg/starwars
 discord.gg/starwarshq
+discord.gg/starwarstheory
 discord.gg/steam
 discord.gg/stevenkiberton
 discord.gg/stonemountain64
@@ -1088,6 +1100,7 @@ discord.gg/sunlightblade
 discord.gg/supa
 discord.gg/super
 discord.gg/superow
+discord.gg/surrealentertainment
 discord.gg/surrendrsquad
 discord.gg/survive
 discord.gg/svtfoe
@@ -1263,6 +1276,7 @@ discord.gg/wrestling
 discord.gg/wrugb
 discord.gg/wtcn
 discord.gg/wtf
+discord.gg/wtfmoses
 discord.gg/xcodeh
 discord.gg/xd
 discord.gg/xisuma
