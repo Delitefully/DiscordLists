@@ -80,6 +80,7 @@ discord.gg/athena
 discord.gg/atlanticcraft
 discord.gg/aurace
 discord.gg/austria
+discord.gg/avalonstar
 discord.gg/aviela
 discord.gg/avocado
 discord.gg/avxry
@@ -109,6 +110,7 @@ discord.gg/beatsabermods
 discord.gg/bebo
 discord.gg/belgastv
 discord.gg/bestinclass
+discord.gg/bestmarmotte
 discord.gg/beta
 discord.gg/bg
 discord.gg/bigcheesekit
@@ -178,10 +180,12 @@ discord.gg/charm3r
 discord.gg/charmingcharlie
 discord.gg/chat
 discord.gg/cheatbanned
+discord.gg/cheesewiz
 discord.gg/chefjohnreed
 discord.gg/chessbrah
 discord.gg/chewiemelodies
 discord.gg/chinese
+discord.gg/chloegames
 discord.gg/chocotaco
 discord.gg/chris
 discord.gg/christian
@@ -209,6 +213,7 @@ discord.gg/conflictnerd
 discord.gg/confluence
 discord.gg/conor3d
 discord.gg/cookieninjashow
+discord.gg/cooterz
 discord.gg/coppercab
 discord.gg/core
 discord.gg/corobizar
@@ -222,6 +227,7 @@ discord.gg/cowsep
 discord.gg/crainer
 discord.gg/crazylilmonkey
 discord.gg/creators
+discord.gg/crimson
 discord.gg/crucibleradio
 discord.gg/crunchyeggrollzz
 discord.gg/cruxal
@@ -260,6 +266,7 @@ discord.gg/deadlyslob
 discord.gg/deadmau5
 discord.gg/deadmeat
 discord.gg/deltarune
+discord.gg/demigodkinglol
 discord.gg/demize
 discord.gg/den
 discord.gg/destiny
@@ -277,6 +284,7 @@ discord.gg/diatech
 discord.gg/dino
 discord.gg/dinu
 discord.gg/direwolf20
+discord.gg/dirty
 discord.gg/discord-api
 discord.gg/discord-linux
 discord.gg/diytech
@@ -393,6 +401,7 @@ discord.gg/forza
 discord.gg/fr1skcord
 discord.gg/frc
 discord.gg/frenchstallion
+discord.gg/fresh
 discord.gg/friskkcord
 discord.gg/frozenballz
 discord.gg/frozencrystal
@@ -496,6 +505,7 @@ discord.gg/hiko
 discord.gg/hiphop
 discord.gg/hitman
 discord.gg/hive
+discord.gg/hksmash
 discord.gg/hoboslayers
 discord.gg/homeautomation
 discord.gg/homestuck
@@ -519,6 +529,7 @@ discord.gg/imaqtpie
 discord.gg/imperialgrrl
 discord.gg/imperialjedi
 discord.gg/impulsesv
+discord.gg/inexpensivegamer
 discord.gg/inf
 discord.gg/inky
 discord.gg/inotorious
@@ -554,8 +565,10 @@ discord.gg/jelly
 discord.gg/jennajulien
 discord.gg/jenulot
 discord.gg/jericho
+discord.gg/jerseyrebox
 discord.gg/jeystron
 discord.gg/jhzer
+discord.gg/jimmyhere
 discord.gg/joblessgarrett
 discord.gg/joceplays
 discord.gg/jogau
@@ -563,6 +576,7 @@ discord.gg/joindota
 discord.gg/jokes
 discord.gg/joshog
 discord.gg/jotaguinsoo
+discord.gg/jovian
 discord.gg/jovirone
 discord.gg/juaum
 discord.gg/jukes
@@ -656,8 +670,10 @@ discord.gg/looney
 discord.gg/lordfern
 discord.gg/lorenalawliet
 discord.gg/lory
+discord.gg/lovindatacos
 discord.gg/lowco
 discord.gg/lowspec
+discord.gg/ltchicken
 discord.gg/ltt
 discord.gg/ltvictory
 discord.gg/lubatv
@@ -701,6 +717,7 @@ discord.gg/mckytv
 discord.gg/mechkeys
 discord.gg/meezoid
 discord.gg/megaman
+discord.gg/mekabear
 discord.gg/meloniemac
 discord.gg/memes
 discord.gg/menostrece
@@ -885,6 +902,7 @@ discord.gg/prisonarchitect
 discord.gg/programming
 discord.gg/propub
 discord.gg/proshotz
+discord.gg/protostar
 discord.gg/ps
 discord.gg/pso2
 discord.gg/pubgph
@@ -911,6 +929,7 @@ discord.gg/rage
 discord.gg/raider
 discord.gg/rainmeter
 discord.gg/rainway
+discord.gg/ramez05
 discord.gg/rammus53
 discord.gg/randomsurge
 discord.gg/randydeg
@@ -999,6 +1018,8 @@ discord.gg/sfe
 discord.gg/sfm
 discord.gg/sh0ts
 discord.gg/shaderaiders
+discord.gg/shadobass
+discord.gg/shadowevil
 discord.gg/shadowrealm
 discord.gg/shadowsurfer
 discord.gg/shammy
@@ -1131,19 +1152,25 @@ discord.gg/teamtruite
 discord.gg/technic
 discord.gg/teenagers
 discord.gg/tehmorag
+discord.gg/teldo
 discord.gg/tennis
 discord.gg/terraria
 discord.gg/teveelgevraagd
 discord.gg/texas
 discord.gg/tf2
 discord.gg/tfblade
+discord.gg/tfue
+discord.gg/tgadave
 discord.gg/thadrius
+discord.gg/theasgardians
 discord.gg/theclashersofficial
 discord.gg/theclubhouse
 discord.gg/thecrew
 discord.gg/thecult
 discord.gg/thedivision
 discord.gg/thedooo
+discord.gg/thedubrebellion
+discord.gg/thefirepit
 discord.gg/thegameguru
 discord.gg/thegodlynoob
 discord.gg/thehacksmith
@@ -1173,6 +1200,7 @@ discord.gg/toniclub
 discord.gg/toontown
 discord.gg/totalwar
 discord.gg/townofsalem
+discord.gg/toycat
 discord.gg/tp
 discord.gg/trade
 discord.gg/tradecentral
@@ -1284,6 +1312,7 @@ discord.gg/xlindsayjane
 discord.gg/xmeagol
 discord.gg/xop0
 discord.gg/xqcow
+discord.gg/xxxdesperadoxxx
 discord.gg/yarnpkg
 discord.gg/yetz
 discord.gg/ygopro-percy
@@ -1297,6 +1326,7 @@ discord.gg/zackscottgames
 discord.gg/zae
 discord.gg/zaitr0s
 discord.gg/zant
+discord.gg/zeenigami
 discord.gg/zelda
 discord.gg/zellendustserver
 discord.gg/zephplayz
