@@ -9,6 +9,7 @@ discord.gg/battlerite
 discord.gg/bts
 discord.gg/clashroyale
 discord.gg/cloud9
+discord.gg/coldcomfort
 discord.gg/complexity
 discord.gg/cookie
 discord.gg/corsair
@@ -22,8 +23,13 @@ discord.gg/descenders
 discord.gg/dignitas
 discord.gg/discjam
 discord.gg/doublemoose
+discord.gg/drone
 discord.gg/eagaming
+discord.gg/elixir
+discord.gg/fabraz
 discord.gg/facepunch
+discord.gg/fedora
+discord.gg/fellowtraveller
 discord.gg/fg
 discord.gg/fnpl
 discord.gg/fnru
@@ -33,12 +39,16 @@ discord.gg/fortnitede
 discord.gg/fortniteesp
 discord.gg/fortniteit
 discord.gg/fortnitetr
+discord.gg/gentoo
 discord.gg/geoxor
+discord.gg/giantmargarita
 discord.gg/giantssoftware
 discord.gg/gsr
 discord.gg/h1z1
 discord.gg/halo
 discord.gg/happywheels
+discord.gg/hopfrog
+discord.gg/jackboxgames
 discord.gg/kitfoxgames
 discord.gg/knucklecracker
 discord.gg/madmachines
@@ -52,7 +62,9 @@ discord.gg/nip
 discord.gg/north
 discord.gg/novaclashroyale
 discord.gg/nzxt
+discord.gg/obsidian
 discord.gg/obsproject
+discord.gg/opensuse
 discord.gg/osrs
 discord.gg/phoenixpoint
 discord.gg/piratesoftware
@@ -61,6 +73,7 @@ discord.gg/pixelcube
 discord.gg/playbreach
 discord.gg/playgwent
 discord.gg/playhyper
+discord.gg/polytopia
 discord.gg/powerhaus
 discord.gg/ppy
 discord.gg/punchplanet
@@ -98,5 +111,4 @@ discord.gg/whitepot
 discord.gg/worldsadrift
 discord.gg/xbox
 discord.gg/zombsroyale
-discord.gg/jackboxgames
 discord.gg/zorkian
