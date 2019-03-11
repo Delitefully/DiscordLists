@@ -47,6 +47,7 @@ dis.gd/natsukisel
 dis.gd/nexxuzworld
 dis.gd/nzxtpc
 dis.gd/oompavillebadnorth
+dis.gd/oj-minionmasters
 dis.gd/parkasaurustw
 dis.gd/partners
 dis.gd/pipepunkyt-lastyear
