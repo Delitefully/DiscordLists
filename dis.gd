@@ -9,6 +9,7 @@ dis.gd/bug_tool
 dis.gd/cohhcarnage
 dis.gd/contact
 dis.gd/cprog
+dis.gd/daithi-koth
 dis.gd/devovo
 dis.gd/dgtvcommunity
 dis.gd/disdevstorform
@@ -35,8 +36,8 @@ dis.gd/magikarpusedfly-ly
 dis.gd/magikarpusedfly-rr
 dis.gd/mattshea-badnorth
 dis.gd/molt
-dis.gd/mumbojumbo
 dis.gd/mrfruitatsundown
+dis.gd/mumbojumbo
 dis.gd/natsukisel
 dis.gd/nexxuzworld
 dis.gd/nzxtpc
@@ -53,6 +54,7 @@ dis.gd/siphano
 dis.gd/sp4zieyt-lastyear
 dis.gd/status
 dis.gd/store
+dis.gd/swag
 dis.gd/swaggersouls-lastyear
 dis.gd/teamchaos
 dis.gd/test
