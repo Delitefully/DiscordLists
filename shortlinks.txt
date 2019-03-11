@@ -30,6 +30,7 @@ dis.gd/jhzer
 dis.gd/jobs
 dis.gd/kingdoom49-yt
 dis.gd/koth
+dis.gd/kothdevblog
 dis.gd/lang-feedback
 dis.gd/magikarpusedfly
 dis.gd/magikarpusedfly-koth
