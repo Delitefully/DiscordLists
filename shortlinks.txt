@@ -20,6 +20,7 @@ dis.gd/events
 dis.gd/fodblog
 dis.gd/feedback
 dis.gd/fitz-lastyear
+dis.gd/FightingCowboyOS
 dis.gd/fruitnation
 dis.gd/guidelines
 dis.gd/holycrap
