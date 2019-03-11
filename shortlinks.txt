@@ -64,6 +64,7 @@ dis.gd/swaggersouls-lastyear
 dis.gd/teamchaos
 dis.gd/test
 dis.gd/testflight
+dis.gd/terms
 dis.gd/thinknoodlesbadnorth
 dis.gd/thnxcya
 dis.gd/tns2019
