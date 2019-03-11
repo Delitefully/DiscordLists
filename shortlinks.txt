@@ -17,6 +17,7 @@ dis.gd/disdevstorform
 dis.gd/doom49yt
 dis.gd/early_access
 dis.gd/events
+dis.gd/fodblog
 dis.gd/feedback
 dis.gd/fitz-lastyear
 dis.gd/fruitnation
