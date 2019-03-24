@@ -50,6 +50,7 @@ dis.gd/oj-minionmasters
 dis.gd/oompavillebadnorth
 dis.gd/parkasaurustw
 dis.gd/partners
+dis.gd/partnercoc
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/report
