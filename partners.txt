@@ -154,6 +154,7 @@ discord.gg/blep
 discord.gg/blitz
 discord.gg/bloodyfaster
 discord.gg/blue
+discord.gg/bluejays
 discord.gg/bn
 discord.gg/bnans
 discord.gg/bnsrecruitment
@@ -227,6 +228,7 @@ discord.gg/chloegames
 discord.gg/chocotaco
 discord.gg/chris
 discord.gg/christian
+discord.gg/chromeos
 discord.gg/chvsehub
 discord.gg/chysro
 discord.gg/cincinbear
@@ -248,6 +250,7 @@ discord.gg/cohhcarnage
 discord.gg/collegiate
 discord.gg/collinskosuke
 discord.gg/colo
+discord.gg/competitivehs
 discord.gg/competitiveow
 discord.gg/confach
 discord.gg/conflictnerd
@@ -522,6 +525,7 @@ discord.gg/goldglove
 discord.gg/goobermonk
 discord.gg/google
 discord.gg/googlepixel
+discord.gg/gophersvids
 discord.gg/gordox
 discord.gg/gorillaz
 discord.gg/gotaga
@@ -640,6 +644,7 @@ discord.gg/jb
 discord.gg/jcbackfire
 discord.gg/jd
 discord.gg/jdantastic
+discord.gg/jeditobiwan
 discord.gg/jelly
 discord.gg/jennajulien
 discord.gg/jenulot
@@ -893,6 +898,7 @@ discord.gg/musicproduction
 discord.gg/muzisyenler
 discord.gg/mydef
 discord.gg/myheroacademia
+discord.gg/myre
 discord.gg/myth
 discord.gg/mythicplusfriends
 discord.gg/n0thing
@@ -910,6 +916,7 @@ discord.gg/nba
 discord.gg/ncs
 discord.gg/neebsgaming
 discord.gg/needforspeed
+discord.gg/negaoryx
 discord.gg/neko
 discord.gg/nems
 discord.gg/neomc
@@ -967,6 +974,7 @@ discord.gg/overclock
 discord.gg/overwatch
 discord.gg/overwatchtxt
 discord.gg/ow
+discord.gg/owu
 discord.gg/oxhorn
 discord.gg/p4wnyhof
 discord.gg/paafm
@@ -1091,12 +1099,14 @@ discord.gg/rebelgaming
 discord.gg/red
 discord.gg/redditfinalfantasy
 discord.gg/reddithockey
+discord.gg/redditowl
 discord.gg/redditplaystation
 discord.gg/refl7ction
 discord.gg/respawn
 discord.gg/rex
 discord.gg/rexz
 discord.gg/reyhan
+discord.gg/rezero
 discord.gg/rfireemblem
 discord.gg/rgames
 discord.gg/rgd
@@ -1138,6 +1148,7 @@ discord.gg/runescape
 discord.gg/runescapewiki
 discord.gg/runitup
 discord.gg/runturned
+discord.gg/rvainglorygame
 discord.gg/rwby
 discord.gg/ryanx
 discord.gg/ryguyrocky
@@ -1475,6 +1486,7 @@ discord.gg/warcraftpriests
 discord.gg/warframe
 discord.gg/warframe-de
 discord.gg/wasabi
+discord.gg/watchdogs
 discord.gg/watercooling
 discord.gg/wawasbootcamp
 discord.gg/wearethevr
