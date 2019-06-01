@@ -10,7 +10,6 @@ dis.gd/bug_tool
 dis.gd/cohhcarnage
 dis.gd/contact
 dis.gd/cprog
-dis.gd/daithi-KOTH
 dis.gd/daithi-koth
 dis.gd/devovo
 dis.gd/dgtvcommunity
