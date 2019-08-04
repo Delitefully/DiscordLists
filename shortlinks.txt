@@ -27,6 +27,7 @@ dis.gd/guidelines
 dis.gd/holycrap
 dis.gd/howtoreport
 dis.gd/hypesquad
+dis.gd/install
 dis.gd/jake
 dis.gd/jelly-atsundown
 dis.gd/jhzer
