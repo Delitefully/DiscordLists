@@ -2,18 +2,19 @@
 
 Tracking servers in Discord's community programs.
 
-To check the features of a server via an invite, paste the server's invite code in the following URL: https://discordapp.com/api/invite/[invitecode] 
+To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discordapp.com/api/invite/[invitecode] 
 
-e.g.: https://discordapp.com/api/invite/events - the server's features are `VIP_REGIONS, BANNER, VERIFIED, VANITY_URL, INVITE_SPLASH`.
+e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIFIED, ANIMATED_ICON, INVITE_SPLASH, VIP_REGIONS, FEATURABLE, DISCOVERABLE, NEWS, BANNER, VANITY_URL`.
  
 ----
  
 #### partners.txt - Partnered servers (dis.gd/partners)
-* Features: **`PARTNERED,`**`VANITY_URL, VIP_REGIONS, INVITE_SPLASH`
+* Features: **`PARTNERED,`**`VANITY_URL, VIP_REGIONS, INVITE_SPLASH, NEWS`
 * The server owner will have the Partner badge.
+* Certain very old partnered guilds are missing the `PARTNERED` feature, but will have the other features 
 
 #### verified.txt - Verified servers (dis.gd/vfs)
-* Features: **`VERIFIED,`**`VANITY_URL, VIP_REGIONS, INVITE_SPLASH, FEATURABLE, DISCOVERABLE, LURKABLE, BANNER`
+* Features: **`VERIFIED,`**`VANITY_URL, VIP_REGIONS, INVITE_SPLASH, FEATURABLE, DISCOVERABLE, LURKABLE, BANNER, NEWS`
 
 #### hypesquad-events.txt - HypeSquad Event Organizer servers (dis.gd/hypesquad)
 * Features: `VANITY_URL, VIP_REGIONS, INVITE_SPLASH`
@@ -35,11 +36,11 @@ e.g.: https://discordapp.com/api/invite/events - the server's features are `VIP_
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
-* `LURKABLE` - Enables normal and guest [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode).
+* `LURKABLE` - Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery, feed links and linked game cards.
 
-* `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated). Not used in server boosting.
+* `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
-* `NEWS` - Ability to create and use [news channels](https://discordapp.com/developers/docs/game-and-server-management/special-channels#news-channels).
+* `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discordapp.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Annoucements analytics tab in the guild settings.
 
 * `PARTNERED` - Partner checkmark near the server name and in mutual server lists. 
 
@@ -47,7 +48,7 @@ e.g.: https://discordapp.com/api/invite/events - the server's features are `VIP_
 
 * `VERIFIED` - Verification checkmark near the server name and in mutual server lists. 
 
-* `VIP_REGIONS` - Ability to use special voice regions with a better stability: US East VIP, US West VIP and Amsterdam VIP.
+* `VIP_REGIONS` - ~~Ability to use special voice regions with a better stability: US East VIP, US West VIP and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate 
 
 ----
 
@@ -55,8 +56,8 @@ e.g.: https://discordapp.com/api/invite/events - the server's features are `VIP_
 
 | Community Program            | Vanity URL | Invite Splash | VIP Regions | Maximum Voice Bitrate | Server Owner Badge | Server Checkmark       | Extra Emoji Slots  | Animated Icon | Banner | Lurking | News Channels | Store Channels |
 |------------------------------|------------|---------------|-------------|-----------------------|--------------------|------------------------|--------------------|---------------|--------|---------|---------------|----------------|
-| Partner                      | ✓          | ✓             | ✓           | 128kbps               | Partner            | Partner Checkmark      |                    |               |        |         |               |                |
-| Verification                 | ✓          | ✓             | ✓           | 128kbps               |                    | Verification Checkmark |                    |               | ✓      | ✓       |               |                |
+| Partner                      | ✓          | ✓             | ✓           | 384kbps               | Partner            | Partner Checkmark      |                    |               |        |         |               |                |
+| Verification                 | ✓          | ✓             | ✓           | 384kbps               |                    | Verification Checkmark |                    |               | ✓      | ✓       |               |                |
 | HypeSquad Event Organizer    | ✓          |               | ✓           | 128kbps               | HypeSquad Events   |                        |                    |               |        |         |               |                |
 | Open Source                  | ✓          | ✓             |             |                       |                    |                        |                    |               |        |         |               |                |
 | Server boosting tier 1       |            | ✓             |             | 128kbps               |                    |                        | 50 (100 total)     | ✓             |        |         |               |                |
