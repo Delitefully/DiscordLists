@@ -102,6 +102,7 @@ discord.gg/assassinscreed
 discord.gg/athena
 discord.gg/atlanticcraft
 discord.gg/atlas
+discord.gg/attackontitan
 discord.gg/aurace
 discord.gg/austria
 discord.gg/av
@@ -242,6 +243,7 @@ discord.gg/chocotaco
 discord.gg/chris
 discord.gg/christian
 discord.gg/chromeos
+discord.gg/chronexia
 discord.gg/chvsehub
 discord.gg/chysro
 discord.gg/cincinbear
@@ -266,6 +268,7 @@ discord.gg/cohhcarnage
 discord.gg/collegiate
 discord.gg/collinskosuke
 discord.gg/colo
+discord.gg/comicbooks
 discord.gg/competitivehs
 discord.gg/competitiveow
 discord.gg/confach
@@ -328,6 +331,8 @@ discord.gg/dayz
 discord.gg/dbfz
 discord.gg/dblegends
 discord.gg/dbz
+discord.gg/dccomics
+discord.gg/dcfilms
 discord.gg/ddlc
 discord.gg/ddrjake
 discord.gg/deadbydaylight
@@ -371,6 +376,7 @@ discord.gg/dkdiamantes
 discord.gg/dncd
 discord.gg/dnd
 discord.gg/docgotgame
+discord.gg/doctorwho
 discord.gg/dog
 discord.gg/doge
 discord.gg/dogs
@@ -883,6 +889,7 @@ discord.gg/maggstor
 discord.gg/magic
 discord.gg/magikarpusedfly
 discord.gg/magnetron
+discord.gg/mahouka
 discord.gg/mailandwot
 discord.gg/makarimorph
 discord.gg/malcaide
@@ -890,6 +897,7 @@ discord.gg/malika
 discord.gg/maliuxul
 discord.gg/mallcopmilitia
 discord.gg/mallory
+discord.gg/manga
 discord.gg/maniacmec
 discord.gg/manucraft
 discord.gg/manvsgame
@@ -903,6 +911,7 @@ discord.gg/markilokurasy
 discord.gg/marvel
 discord.gg/marvelstudios
 discord.gg/marz
+discord.gg/masakox
 discord.gg/masseffect
 discord.gg/massi
 discord.gg/mathia
@@ -1170,6 +1179,7 @@ discord.gg/pulse
 discord.gg/purple
 discord.gg/pvptwitch
 discord.gg/pyrocynical
+discord.gg/pyrojoe
 discord.gg/python
 discord.gg/qlabs
 discord.gg/qrew
@@ -1182,7 +1192,6 @@ discord.gg/quikblend
 discord.gg/quitoooo
 discord.gg/qwerdy
 discord.gg/r-citiesskylines
-discord.gg/r-comicbooks
 discord.gg/r0j0
 discord.gg/radderss
 discord.gg/raedmoss
@@ -1251,7 +1260,6 @@ discord.gg/roblox
 discord.gg/robots
 discord.gg/rocketleague
 discord.gg/rocketleaguecentral
-discord.gg/rocketprices
 discord.gg/rocky
 discord.gg/roleplay
 discord.gg/rollexxx
@@ -1261,7 +1269,6 @@ discord.gg/rossboomsocks
 discord.gg/rovi23
 discord.gg/royal
 discord.gg/royalerecruit
-discord.gg/rsmite
 discord.gg/rswillmissit
 discord.gg/rtgame
 discord.gg/rubius
@@ -1316,7 +1323,6 @@ discord.gg/seriouslyclara
 discord.gg/sethimus
 discord.gg/setty
 discord.gg/sfe
-discord.gg/sfm
 discord.gg/sh0ts
 discord.gg/shaderaiders
 discord.gg/shadobass
@@ -1379,6 +1385,7 @@ discord.gg/smg4
 discord.gg/smilar
 discord.gg/smiles
 discord.gg/smirky
+discord.gg/smite
 discord.gg/smogon
 discord.gg/smospeedruns
 discord.gg/snake
@@ -1475,6 +1482,7 @@ discord.gg/sysadmin
 discord.gg/tabbes
 discord.gg/tacticalpotato
 discord.gg/taingysauce
+discord.gg/tales
 discord.gg/talonmains
 discord.gg/taptitans2
 discord.gg/target
@@ -1521,6 +1529,7 @@ discord.gg/thedooo
 discord.gg/thedragonprince
 discord.gg/thedubrebellion
 discord.gg/thefirepit
+discord.gg/theflash
 discord.gg/theflock
 discord.gg/thegameguru
 discord.gg/thegandalfshow
@@ -1535,6 +1544,7 @@ discord.gg/thelevelupnetwork
 discord.gg/thenetherlands
 discord.gg/theobjectivegg
 discord.gg/theorganization
+discord.gg/theorville
 discord.gg/therealkenzo
 discord.gg/thescience
 discord.gg/thesilphroad
@@ -1604,9 +1614,8 @@ discord.gg/typicalbot
 discord.gg/tyrodin
 discord.gg/tyt
 discord.gg/u4
-discord.gg/ucgc
 discord.gg/uck-tv
-discord.gg/ugctf2
+discord.gg/ugcleague
 discord.gg/uig
 discord.gg/ukogmonkey
 discord.gg/umcoc
@@ -1710,6 +1719,7 @@ discord.gg/xmeagol
 discord.gg/xop0
 discord.gg/xperts
 discord.gg/xqcow
+discord.gg/xtrill
 discord.gg/xxiblazze
 discord.gg/xxxdesperadoxxx
 discord.gg/yarnpkg
