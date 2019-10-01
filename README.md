@@ -14,7 +14,7 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 * Certain very old partnered guilds are missing the `PARTNERED` feature, but will have the other features 
 
 #### verified.txt - Verified servers (dis.gd/vfs)
-* Features: **`VERIFIED,`**`VANITY_URL, VIP_REGIONS, INVITE_SPLASH, FEATURABLE, DISCOVERABLE, LURKABLE, BANNER, NEWS`
+ * Features: **`VERIFIED,`**`VANITY_URL, VIP_REGIONS, INVITE_SPLASH, FEATURABLE, DISCOVERABLE, PUBLIC, BANNER, NEWS`
 
 #### hypesquad-events.txt - HypeSquad Event Organizer servers (dis.gd/hypesquad)
 * Features: `VANITY_URL, VIP_REGIONS, INVITE_SPLASH`
@@ -36,7 +36,7 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
-* `LURKABLE` - Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery, feed links and linked game cards.
+* `PUBLIC` - Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery, feed links and linked game cards.
 
 * `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
