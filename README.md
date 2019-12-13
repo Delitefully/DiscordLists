@@ -32,17 +32,25 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `DISCOVERABLE` - Visible in Server Discovery.
 
+* `ENABLED_DISCOVERABLE_BEFORE`
+
 * `FEATURABLE` - Makes the server featurable in the activity feed and other special promotions.
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
 * `PUBLIC` - Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery, feed links and linked game cards.
 
+* `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
+
 * `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
 * `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discordapp.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Annoucements analytics tab in the guild settings.
 
 * `PARTNERED` - Partner checkmark near the server name and in mutual server lists. 
+
+* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discordapp.com/hc/en-us/articles/360035969312-Public-Server-Guidelines)
+
+* `PUBLIC_DISABLED`
 
 * `VANITY_URL` - Ability to set a vanity URL (custom discord.gg invite link).
 
