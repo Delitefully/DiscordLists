@@ -19,6 +19,7 @@ dis.gd/early_access
 dis.gd/events
 dis.gd/feedback
 dis.gd/FightingCowboyOS
+dis.gd/findmyid
 dis.gd/fitz-lastyear
 dis.gd/fodblog
 dis.gd/fruitnation
