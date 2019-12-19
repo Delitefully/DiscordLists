@@ -19,6 +19,7 @@ dis.gd/early_access
 dis.gd/events
 dis.gd/feedback
 dis.gd/FightingCowboyOS
+dis.gd/findmyid
 dis.gd/fitz-lastyear
 dis.gd/fodblog
 dis.gd/fruitnation
@@ -27,6 +28,7 @@ dis.gd/guidelines
 dis.gd/holycrap
 dis.gd/howtoreport
 dis.gd/hypesquad
+dis.gd/instability
 dis.gd/install
 dis.gd/jake
 dis.gd/jelly-atsundown
