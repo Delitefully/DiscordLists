@@ -45,6 +45,7 @@ dis.gd/magikarpusedfly-koth
 dis.gd/magikarpusedfly-ly
 dis.gd/magikarpusedfly-rr
 dis.gd/mattshea-badnorth
+dis.gd/mod-channel-ss
 dis.gd/molt
 dis.gd/mrfruitatsundown
 dis.gd/mumbojumbo
