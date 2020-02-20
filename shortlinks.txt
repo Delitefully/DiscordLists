@@ -24,6 +24,7 @@ dis.gd/findmyid
 dis.gd/fitz-lastyear
 dis.gd/fodblog
 dis.gd/fruitnation
+dis.gd/funimation
 dis.gd/gamescomhs
 dis.gd/guidelines
 dis.gd/holycrap
@@ -61,6 +62,7 @@ dis.gd/partners
 dis.gd/paxwhs
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
+dis.gd/protectdata
 dis.gd/report
 dis.gd/request
 dis.gd/sarinha3
