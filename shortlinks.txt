@@ -32,6 +32,7 @@ dis.gd/howtoreport
 dis.gd/hypesquad
 dis.gd/instability
 dis.gd/install
+dis.gd/installfail
 dis.gd/jake
 dis.gd/jelly-atsundown
 dis.gd/jhzer
