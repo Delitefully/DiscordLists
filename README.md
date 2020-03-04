@@ -64,7 +64,7 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 | Community Program            | Vanity URL | Invite Splash | VIP Regions | Maximum Voice Bitrate | Server Owner Badge | Server Checkmark       | Extra Emoji Slots  | Animated Icon | Banner | Lurking | News Channels | Store Channels |
 |------------------------------|------------|---------------|-------------|-----------------------|--------------------|------------------------|--------------------|---------------|--------|---------|---------------|----------------|
-| Partner                      | ✓          | ✓             | ✓           | 384kbps               | Partner            | Partner Checkmark      |                    |               |        |         | ✓             |                |
+| Partner                      | ✓          | ✓             | ✓           | 384kbps               | Partner            | Partner Icon      |                    |               |        |         | ✓             |                |
 | Verification                 | ✓          | ✓             | ✓           | 384kbps               |                    | Verification Checkmark |                    |               | ✓      | ✓       | ✓             |                |
 | HypeSquad Event Organizer    | ✓          |               | ✓           | 128kbps               | HypeSquad Events   |                        |                    |               |        |         |               |                |
 | Open Source                  | ✓          | ✓             |             |                       |                    |                        |                    |               |        |         |               |                |
