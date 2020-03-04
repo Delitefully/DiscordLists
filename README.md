@@ -62,7 +62,7 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 #### Community program feature comparison 
 
-| Community Program            | Vanity URL | Invite Splash | VIP Regions | Maximum Voice Bitrate | Server Owner Badge | Server Checkmark       | Extra Emoji Slots  | Animated Icon | Banner | Lurking | News Channels | Store Channels |
+| Community Program            | Vanity URL | Invite Splash | VIP Regions | Maximum Voice Bitrate | Server Owner Badge | Server Badge       | Extra Emoji Slots  | Animated Icon | Banner | Lurking | News Channels | Store Channels |
 |------------------------------|------------|---------------|-------------|-----------------------|--------------------|------------------------|--------------------|---------------|--------|---------|---------------|----------------|
 | Partner                      | ✓          | ✓             | ✓           | 384kbps               | Partner            | Partner Icon      |                    |               |        |         | ✓             |                |
 | Verification                 | ✓          | ✓             | ✓           | 384kbps               |                    | Verification Checkmark |                    |               | ✓      | ✓       | ✓             |                |
