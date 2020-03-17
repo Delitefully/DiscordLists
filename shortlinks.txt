@@ -14,6 +14,7 @@ dis.gd/daithi-koth
 dis.gd/devovo
 dis.gd/devsupport
 dis.gd/dgtvcommunity
+dis.gd/Discord101
 dis.gd/disdevstorform
 dis.gd/doom49yt
 dis.gd/early_access
