@@ -7,6 +7,7 @@ dis.gd/billing
 dis.gd/BioShock
 dis.gd/bugs
 dis.gd/bug_tool
+dis.gd/classroom
 dis.gd/cohhcarnage
 dis.gd/contact
 dis.gd/cprog
