@@ -1,5 +1,6 @@
 dis.gd/alphaking
 dis.gd/alpharad-koth
+dis.gd/a11y
 dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/bday3
@@ -79,6 +80,7 @@ dis.gd/sp4zieyt-lastyear
 dis.gd/status
 dis.gd/store
 dis.gd/stream
+dis.gd/support
 dis.gd/swag
 dis.gd/swaggersouls-lastyear
 dis.gd/teamchaos
