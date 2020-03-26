@@ -46,17 +46,21 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discordapp.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Annoucements analytics tab in the guild settings.
 
-* `PARTNERED` - Partner checkmark near the server name and in mutual server lists. 
+* `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
 * `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discordapp.com/hc/en-us/articles/360035969312-Public-Server-Guidelines)
 
-* `PUBLIC_DISABLED`
+* `PUBLIC_DISABLED` - Banned by Trust & Safety from being a public server due to Terms of Service violations.
+
+* `RELAY_ENABLED` - Shards connections to the guild to different nodes that relay information between each other.
 
 * `VANITY_URL` - Ability to set a vanity URL (custom discord.gg invite link).
 
 * `VERIFIED` - Verification checkmark near the server name and in mutual server lists. 
 
 * `VIP_REGIONS` - ~~Ability to use special voice regions with a better stability: US East VIP, US West VIP and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate 
+
+* `WELCOME_SCREEN_ENABLED` - Guild has welcome screen enabled, a modal shown to new joiners that features different channels and a short description of the guild.
 
 ----
 
