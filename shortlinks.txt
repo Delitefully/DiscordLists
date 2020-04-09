@@ -10,6 +10,7 @@ dis.gd/bugs
 dis.gd/bug_tool
 dis.gd/classroom
 dis.gd/cohhcarnage
+dis.gd/communitystories
 dis.gd/contact
 dis.gd/cprog
 dis.gd/daithi-koth
