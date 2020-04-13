@@ -136,6 +136,7 @@ discord.gg/badger
 discord.gg/badlion
 discord.gg/baka
 discord.gg/banana
+discord.gg/bananabread
 discord.gg/bananagaming
 discord.gg/bandakucego
 discord.gg/bardians
@@ -635,6 +636,7 @@ discord.gg/gdn
 discord.gg/gdreddit
 discord.gg/gearsofwar
 discord.gg/geekylulu
+discord.gg/geersart
 discord.gg/gehab
 discord.gg/gendragogaming
 discord.gg/generalmcbadass
@@ -904,6 +906,7 @@ discord.gg/kml
 discord.gg/knekro
 discord.gg/knightcorps
 discord.gg/knobbelboy
+discord.gg/koil
 discord.gg/konoha
 discord.gg/koposova
 discord.gg/koroshi
@@ -1288,10 +1291,8 @@ discord.gg/pintipanda
 discord.gg/pixelatedapollo
 discord.gg/pixelpub
 discord.gg/pixeltv
-discord.gg/pixlnetworks
 discord.gg/pka
 discord.gg/planb
-discord.gg/planet
 discord.gg/planetcoaster
 discord.gg/play
 discord.gg/playdate
@@ -1542,6 +1543,7 @@ discord.gg/shikai
 discord.gg/shikigamixo
 discord.gg/shinysaffichu
 discord.gg/shiphtur
+discord.gg/shortyyguy
 discord.gg/shotbow
 discord.gg/shugi
 discord.gg/shul
@@ -1662,6 +1664,7 @@ discord.gg/streamersconnected
 discord.gg/streamninjagaming
 discord.gg/streamnshare
 discord.gg/streetwear
+discord.gg/strippin
 discord.gg/stronbol
 discord.gg/strwb
 discord.gg/stumpt
@@ -1792,6 +1795,7 @@ discord.gg/tifu
 discord.gg/tigrinum
 discord.gg/tilz
 discord.gg/timdubz
+discord.gg/timmac
 discord.gg/timthetatman
 discord.gg/tinny
 discord.gg/titan
