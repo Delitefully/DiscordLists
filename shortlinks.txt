@@ -98,5 +98,6 @@ dis.gd/verify
 dis.gd/vfqual
 dis.gd/vfs
 dis.gd/vsreqs
+dis.gd/website
 dis.gd/wumpusfundraiser
 dis.gd/whynot9010
