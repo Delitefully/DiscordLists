@@ -14,7 +14,7 @@
 | 2048   | 1<<11   |                            |                                                   |        |
 | 4096   | 1<<12   | SYSTEM                     | System User                                       | ✓      |
 | 8192   | 1<<13   | HAS_UNREAD_URGENT_MESSAGES | Has an unread system message                      |        |
-| 16384  | 1<<14   | BUG_HUNTER_LEVEL_2         | Bug Hunter Level 1                                | ✓      |
+| 16384  | 1<<14   | BUG_HUNTER_LEVEL_2         | Bug Hunter Level 2                                | ✓      |
 | 32768  | 1<<15   | UNDERAGE_DELETED           | Pending deletion for being underage in DOB prompt |        |
 | 65536  | 1<<16   | VERIFIED_BOT               | Verified Bot                                      | ✓      |
 | 131072 | 1<<16   | VERIFIED_DEVELOPER         | Verified Bot Developer                            | ✓      |
