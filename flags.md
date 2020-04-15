@@ -17,4 +17,4 @@
 | 16384  | 1<<14   | BUG_HUNTER_LEVEL_2         | Bug Hunter Level 2                                | ✓      |
 | 32768  | 1<<15   | UNDERAGE_DELETED           | Pending deletion for being underage in DOB prompt |        |
 | 65536  | 1<<16   | VERIFIED_BOT               | Verified Bot                                      | ✓      |
-| 131072 | 1<<16   | VERIFIED_DEVELOPER         | Verified Bot Developer                            | ✓      |
+| 131072 | 1<<17   | VERIFIED_DEVELOPER         | Verified Bot Developer                            | ✓      |
