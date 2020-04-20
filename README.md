@@ -32,13 +32,13 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `DISCOVERABLE` - Visible in Server Discovery.
 
-* `ENABLED_DISCOVERABLE_BEFORE`
+* `ENABLED_DISCOVERABLE_BEFORE` - Enabled Server Discovery before the Discovery Checklist launched.
 
 * `FEATURABLE` - Makes the server featurable in the activity feed and other special promotions.
 
-* `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
+* `FORCE_RELAY` - Shards connections to the guild to different nodes that relay information between each other. 
 
-* `LURKABLE` - Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery, feed links and linked game cards.
+* `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
 * `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
 
@@ -48,7 +48,7 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
-* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discordapp.com/hc/en-us/articles/360035969312-Public-Server-Guidelines)
+* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discordapp.com/hc/en-us/articles/360035969312-Public-Server-Guidelines). Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery and invites while logged out.
 
 * `PUBLIC_DISABLED` - Banned by Trust & Safety from being a public server due to Terms of Service violations.
 
