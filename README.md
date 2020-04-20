@@ -38,7 +38,7 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
-* `PUBLIC` - Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery, feed links and linked game cards.
+* `LURKABLE` - Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery, feed links and linked game cards.
 
 * `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
 
