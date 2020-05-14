@@ -129,6 +129,7 @@ dis.gd/request
 dis.gd/riotarmyos
 dis.gd/rtgame-sinneryt
 dis.gd/sarinha3
+dis.gd/sayhi2servideo
 dis.gd/scalingwithrust
 dis.gd/security
 dis.gd/serverboosting
