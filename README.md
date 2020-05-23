@@ -48,7 +48,7 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
-* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discordapp.com/hc/en-us/articles/360035969312-Public-Server-Guidelines). Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#special-channels-and-lurker-mode) via discovery and invites while logged out.
+* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discordapp.com/hc/en-us/articles/360035969312-Public-Server-Guidelines). Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#lurker-mode) via discovery and invites while logged out.
 
 * `PUBLIC_DISABLED` - Banned by Trust & Safety from being a public server due to Terms of Service violations.
 
