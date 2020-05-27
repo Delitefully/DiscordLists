@@ -12,7 +12,9 @@ dis.gd/billing
 dis.gd/bioshock
 dis.gd/bitethis
 dis.gd/blogcrawl
+dis.gd/boost
 dis.gd/bts-minionmasters
+dis.gd/bughunting
 dis.gd/bugs
 dis.gd/bug_tool
 dis.gd/buildyourkingdom
@@ -104,6 +106,7 @@ dis.gd/nauticalparty
 dis.gd/netneutrality
 dis.gd/nexxuzworld
 dis.gd/niscordditro
+dis.gd/nitro
 dis.gd/nitrochanges
 dis.gd/nitrotab
 dis.gd/noisecancellation
@@ -120,6 +123,7 @@ dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
 dis.gd/protectdata
+dis.gd/publicguidelines
 dis.gd/reactwoooo
 dis.gd/refund
 dis.gd/report
@@ -154,6 +158,7 @@ dis.gd/swag
 dis.gd/swaggersouls-lastyear
 dis.gd/systemtw
 dis.gd/teamchaos
+dis.gd/templates
 dis.gd/terms
 dis.gd/test
 dis.gd/testflight
