@@ -58,7 +58,6 @@ dis.gd/frostfangs-paladins
 dis.gd/frostpunk
 dis.gd/fruitnation
 dis.gd/funimation
-dis.gd/gamescomhs
 dis.gd/goldglove-zombsroyale.io
 dis.gd/golivescreenshare
 dis.gd/guidelines
@@ -117,7 +116,6 @@ dis.gd/parkasaurustw
 dis.gd/partnercoc
 dis.gd/partners
 dis.gd/password
-dis.gd/paxwhs
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
