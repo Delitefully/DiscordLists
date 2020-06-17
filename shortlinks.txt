@@ -178,4 +178,5 @@ dis.gd/viva_h-rt
 dis.gd/vsreqs
 dis.gd/website
 dis.gd/wumpusfundraiser
+dis.gd/Wumpus4Pride
 dis.gd/whynot9010
