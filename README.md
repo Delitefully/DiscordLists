@@ -2,9 +2,9 @@
 
 Tracking servers in Discord's community programs.
 
-To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discordapp.com/api/invite/[invitecode] 
+To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
 
-e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIFIED, ANIMATED_ICON, INVITE_SPLASH, VIP_REGIONS, FEATURABLE, DISCOVERABLE, NEWS, BANNER, VANITY_URL`.
+e.g.: https://discord.com/api/invite/discord-events - the guild's features are `INVITE_SPLASH", "NEWS", "DISCOVERABLE", "BANNER", "VERIFIED", "VANITY_URL", "ANIMATED_ICON", "PUBLIC", "FEATURABLE", "VIP_REGIONS", "COMMUNITY`.
  
 ----
  
@@ -26,9 +26,9 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `ANIMATED_ICON` - Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 
-* `BANNER` - Ability to set a [banner image](https://discordapp.com/developers/docs/game-and-server-management/vanity-perks#server-banner-background) that will display above the channel list.
+* `BANNER` - Ability to set a [banner image](https://discord.com/developers/docs/game-and-server-management/vanity-perks#server-banner-background) that will display above the channel list.
 
-* `COMMERCE` - Ability to create and use [store channels](https://discordapp.com/developers/docs/game-and-server-management/special-channels#store-channels).
+* `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 
 * `DISCOVERABLE` - Visible in Server Discovery.
 
@@ -44,11 +44,11 @@ e.g.: https://discordapp.com/api/invite/events - the guild's features are `VERIF
 
 * `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
-* `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discordapp.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Annoucements analytics tab in the guild settings.
+* `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Annoucements analytics tab in the guild settings.
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
-* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discordapp.com/hc/en-us/articles/360035969312-Public-Server-Guidelines). Enables [lurking](https://discordapp.com/developers/docs/game-and-server-management/special-channels#lurker-mode) via discovery and invites while logged out.
+* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines). Enables [lurking](https://discord.com/developers/docs/game-and-server-management/special-channels#lurker-mode) via discovery and invites while logged out.
 
 * `PUBLIC_DISABLED` - Banned by Trust & Safety from being a public server due to Terms of Service violations.
 
