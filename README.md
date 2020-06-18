@@ -50,9 +50,9 @@ e.g.: https://discord.com/api/invite/discord-events - the guild's features are `
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
-~~* `PUBLIC`~~ - Deprecated in favor of `COMMUNITY`
+* ~~`PUBLIC`~~ - Deprecated in favor of `COMMUNITY`
 
-~~* `PUBLIC_DISABLED`~~ - Deprecated in favor of `COMMUNITY`
+* ~~`PUBLIC_DISABLED`~~ - Deprecated in favor of `COMMUNITY`
 
 * `RELAY_ENABLED` - Shards connections to the guild to different nodes that relay information between each other.
 
