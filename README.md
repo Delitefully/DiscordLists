@@ -30,6 +30,8 @@ e.g.: https://discord.com/api/invite/discord-events - the guild's features are `
 
 * `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 
+* `COMMUNITY` - [Gain access to Server Discovery and Announcement Channels.](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines). Enables [lurking](https://discord.com/developers/docs/game-and-server-management/special-channels#lurker-mode) via discovery and invites while logged out, as well as from crossposted announcements from news channels. 
+
 * `DISCOVERABLE` - Visible in Server Discovery.
 
 * `ENABLED_DISCOVERABLE_BEFORE` - Enabled Server Discovery before the Discovery Checklist launched.
@@ -48,9 +50,9 @@ e.g.: https://discord.com/api/invite/discord-events - the guild's features are `
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
-* `PUBLIC` - [Gain access to Server Discovery and Announcement Channels.](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines). Enables [lurking](https://discord.com/developers/docs/game-and-server-management/special-channels#lurker-mode) via discovery and invites while logged out.
+~~* `PUBLIC`~~ - Deprecated in favor of `COMMUNITY`
 
-* `PUBLIC_DISABLED` - Banned by Trust & Safety from being a public server due to Terms of Service violations.
+~~* `PUBLIC_DISABLED`~~ - Deprecated in favor of `COMMUNITY`
 
 * `RELAY_ENABLED` - Shards connections to the guild to different nodes that relay information between each other.
 
@@ -76,4 +78,4 @@ e.g.: https://discord.com/api/invite/discord-events - the guild's features are `
 | Server boosting tier 2         |            | ✓             |             | 256kbps               |                    | Boost tier 2 icon      | 100 \(150 total\) | ✓             | ✓      |         |                       |                |                    |
 | Server boosting tier 3         | ✓          | ✓             |             | 384kbps               |                    | Boost tier 3 icon      | 200 \(250 total\) | ✓             | ✓      |         |                       |                |                    |
 | Commerce \(Developer License\) |            |               |             |                       |                    |                        |                   |               |        | ✓       | ✓                     | ✓              |                    |
-| Public                         |            |               |             |                       |                    |                        |                   |               |        | ✓       | ✓                     |                | Can apply          |
+| Community                         |            |               |             |                       |                    |                        |                   |               |        | ✓       | ✓                     |                | Can apply          |
