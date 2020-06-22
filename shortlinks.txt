@@ -78,6 +78,7 @@ dis.gd/jauz
 dis.gd/jelly-atsundown
 dis.gd/jhzer
 dis.gd/jobs
+dis.gd/juneteenth
 dis.gd/killerqueenb
 dis.gd/kingdoom49-yt
 dis.gd/koth
@@ -94,6 +95,7 @@ dis.gd/magikarpusedfly-ly
 dis.gd/magikarpusedfly-rr
 dis.gd/makepeoplehappy
 dis.gd/mattshea-badnorth
+dis.gd/mermaid
 dis.gd/messageid
 dis.gd/mmsnow18
 dis.gd/mod-channel-ss
