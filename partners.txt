@@ -62,6 +62,8 @@ discord.gg/alicorn
 discord.gg/alienware
 discord.gg/aline
 discord.gg/aliythia
+discord.gg/allenownz
+discord.gg/aloha
 discord.gg/alpha
 discord.gg/alphaconsole
 discord.gg/alphagaming
@@ -240,6 +242,7 @@ discord.gg/blender
 discord.gg/blessrng
 discord.gg/blitz
 discord.gg/blizzardguides
+discord.gg/blizzy
 discord.gg/blocksmc
 discord.gg/blondiepeach
 discord.gg/blondynkitezgraja
@@ -313,6 +316,7 @@ discord.gg/callofduty
 discord.gg/camp
 discord.gg/camper
 discord.gg/campnorman
+discord.gg/camronjk
 discord.gg/canalclashwar
 discord.gg/canaldoaj
 discord.gg/canko
@@ -337,6 +341,7 @@ discord.gg/cave-of-linguists
 discord.gg/cavemanfilms
 discord.gg/cb
 discord.gg/cedge
+discord.gg/ceelight
 discord.gg/ceesports
 discord.gg/ceice
 discord.gg/celerity
@@ -403,6 +408,7 @@ discord.gg/clintus
 discord.gg/clopoyaur
 discord.gg/clubd4w
 discord.gg/clubtostadita
+discord.gg/clue
 discord.gg/clutchmeister
 discord.gg/cndblood
 discord.gg/cocfr
@@ -523,6 +529,7 @@ discord.gg/deadlyslob
 discord.gg/deadmau5
 discord.gg/deadmeat
 discord.gg/deandraaditya
+discord.gg/deathlilly522
 discord.gg/debitor
 discord.gg/decayed
 discord.gg/decc
@@ -850,6 +857,7 @@ discord.gg/gamersclub
 discord.gg/gamersturk
 discord.gg/gamerzakh
 discord.gg/games
+discord.gg/gamesandtunes
 discord.gg/gamesdonequick
 discord.gg/gamesync
 discord.gg/gamewave
@@ -991,6 +999,7 @@ discord.gg/hellogreedo
 discord.gg/helpinghans
 discord.gg/helrig
 discord.gg/hemerald
+discord.gg/henley
 discord.gg/henwy
 discord.gg/heph
 discord.gg/hero
@@ -1018,6 +1027,7 @@ discord.gg/homestuck
 discord.gg/honk
 discord.gg/hoodie
 discord.gg/hoonmaru
+discord.gg/hoosierboy
 discord.gg/hope
 discord.gg/hordakonopa
 discord.gg/horizon
@@ -1134,7 +1144,6 @@ discord.gg/jessyquil
 discord.gg/jeystron
 discord.gg/jgpcg
 discord.gg/jhonsontv
-discord.gg/jhzer
 discord.gg/jimmyhere
 discord.gg/jmak
 discord.gg/jmwfilms
@@ -1149,14 +1158,14 @@ discord.gg/joindota
 discord.gg/jokerdtv
 discord.gg/jokes
 discord.gg/jontron
+discord.gg/joricsstormchasers
 discord.gg/joshog
 discord.gg/jotaguinsoo
 discord.gg/jovian
 discord.gg/jovirone
+discord.gg/jpkiwi
 discord.gg/jrokez
 discord.gg/jrpg
-discord.gg/js
-discord.gg/juaum
 discord.gg/juggernautjason
 discord.gg/juicebowl
 discord.gg/juicetra
@@ -1178,14 +1187,12 @@ discord.gg/k3llyart
 discord.gg/kaakmans
 discord.gg/kaanstyle
 discord.gg/kabaji
-discord.gg/kabbytv
 discord.gg/kacaktv
 discord.gg/kacperrro
 discord.gg/kairui-chan
 discord.gg/kaiserreich
 discord.gg/kalimdor
 discord.gg/kamo
-discord.gg/kamolrf
 discord.gg/kamppz
 discord.gg/kanjo
 discord.gg/kano
@@ -1202,10 +1209,10 @@ discord.gg/katie
 discord.gg/katiepetersplays
 discord.gg/katja
 discord.gg/katlink
-discord.gg/kawaii
 discord.gg/kawaiidesu
 discord.gg/kaya
 discord.gg/kayzeee
+discord.gg/kbb
 discord.gg/kds
 discord.gg/keitagaming
 discord.gg/keizaron
@@ -1225,7 +1232,6 @@ discord.gg/kiaa
 discord.gg/kidarkness
 discord.gg/kikisquad
 discord.gg/kilian
-discord.gg/killingfloor
 discord.gg/kindafunny
 discord.gg/kingbalor
 discord.gg/kingdom
@@ -1298,15 +1304,10 @@ discord.gg/laurenzside
 discord.gg/lazarbeam
 discord.gg/lazer1785
 discord.gg/lazyr1co
-discord.gg/lc
-discord.gg/ldt
 discord.gg/leafs
 discord.gg/league
-discord.gg/leagueoflegends
-discord.gg/leagueunion
 discord.gg/learncsgo
 discord.gg/leclumsyfox
-discord.gg/legacy
 discord.gg/legacysnation
 discord.gg/legendarylea
 discord.gg/legendofgamer
@@ -1323,7 +1324,6 @@ discord.gg/levo
 discord.gg/lexveldhuis
 discord.gg/lfd
 discord.gg/lfg
-discord.gg/lgbt
 discord.gg/lgbtq
 discord.gg/lia
 discord.gg/libralebron
@@ -1333,14 +1333,10 @@ discord.gg/likandoo
 discord.gg/lilblastyblast
 discord.gg/lillexi
 discord.gg/lilypichu
-discord.gg/limitless
-discord.gg/linkmob
 discord.gg/linuxgaming
 discord.gg/lirik
-discord.gg/litomatoma
 discord.gg/littlesiha
 discord.gg/liveinsaan
-discord.gg/liverpoolfc
 discord.gg/lizzrobinett
 discord.gg/loadingartist
 discord.gg/locklear
@@ -1370,9 +1366,7 @@ discord.gg/lowkotv
 discord.gg/lowspec
 discord.gg/lrr
 discord.gg/ltarmy
-discord.gg/ltchicken
 discord.gg/ltt
-discord.gg/ltvictory
 discord.gg/lubatv
 discord.gg/lucaas
 discord.gg/lucasclashon
@@ -1451,6 +1445,7 @@ discord.gg/mattmoniz
 discord.gg/mattzepol
 discord.gg/mau5cord
 discord.gg/maxbox
+discord.gg/maximusraeke
 discord.gg/maxpalaro
 discord.gg/maxylobes
 discord.gg/maymuslar
@@ -1642,6 +1637,7 @@ discord.gg/nicole
 discord.gg/niedaradek
 discord.gg/nightdev
 discord.gg/nighthawk
+discord.gg/nightsky
 discord.gg/nikatine
 discord.gg/nikkibrutal
 discord.gg/nimdom
@@ -1951,6 +1947,7 @@ discord.gg/readyup
 discord.gg/realmadrid
 discord.gg/realmgrinder
 discord.gg/realmroyalefr
+discord.gg/reanimateher
 discord.gg/rebelgaming
 discord.gg/rebl
 discord.gg/recu
@@ -2058,6 +2055,7 @@ discord.gg/rwby
 discord.gg/rxysurfchic
 discord.gg/ryanx
 discord.gg/ryguyrocky
+discord.gg/ryme
 discord.gg/ryoran
 discord.gg/ryukahr
 discord.gg/rzelda
@@ -2099,6 +2097,7 @@ discord.gg/scrapman
 discord.gg/scrimcentral
 discord.gg/script
 discord.gg/scrub
+discord.gg/scufii
 discord.gg/scullybb
 discord.gg/sdb
 discord.gg/se
@@ -2112,6 +2111,7 @@ discord.gg/sekirosdt
 discord.gg/semiwork
 discord.gg/senna
 discord.gg/senpai
+discord.gg/senseitaz
 discord.gg/senshudo
 discord.gg/sequisha
 discord.gg/seriouslyclara
@@ -2231,6 +2231,7 @@ discord.gg/socialanxiety
 discord.gg/sodapoppin
 discord.gg/sogaeon
 discord.gg/sonic
+discord.gg/sorryaboutyourcats
 discord.gg/soulboundleather
 discord.gg/sourceengine
 discord.gg/sovitia
@@ -2252,6 +2253,7 @@ discord.gg/spktr
 discord.gg/splatoon
 discord.gg/spliced
 discord.gg/splinxes
+discord.gg/sploom
 discord.gg/spookvooper
 discord.gg/spreeezy
 discord.gg/spycakes
@@ -2259,6 +2261,7 @@ discord.gg/spyro
 discord.gg/squallzera
 discord.gg/squatingdog
 discord.gg/squeezie
+discord.gg/squidarmy
 discord.gg/sre
 discord.gg/srten
 discord.gg/ssaab
@@ -2302,6 +2305,7 @@ discord.gg/storeddit
 discord.gg/strangerthings
 discord.gg/stratera
 discord.gg/stream
+discord.gg/streambritish
 discord.gg/streamerhouse
 discord.gg/streamersconnected
 discord.gg/streamninjagaming
@@ -2354,6 +2358,7 @@ discord.gg/swordartonline
 discord.gg/swordofpoke
 discord.gg/swordshield
 discord.gg/swtor
+discord.gg/sychosean
 discord.gg/sylon
 discord.gg/symfuhny
 discord.gg/syntac
@@ -2455,16 +2460,19 @@ discord.gg/thehive
 discord.gg/thehouse
 discord.gg/theinfographicsshow
 discord.gg/theivaneh
+discord.gg/thejammie
 discord.gg/thejocraft
 discord.gg/thekangdom
 discord.gg/thelastmage
 discord.gg/thelevelupnetwork
 discord.gg/thenetherlands
+discord.gg/theninjawolf
 discord.gg/thenormies
 discord.gg/theobjectivegg
 discord.gg/theonlyryann
 discord.gg/theorganization
 discord.gg/theorville
+discord.gg/thepolkawarlord
 discord.gg/thepoon
 discord.gg/theproperpeople
 discord.gg/therandy
@@ -2516,6 +2524,7 @@ discord.gg/tonyfps
 discord.gg/tonypizzaguy
 discord.gg/toonami
 discord.gg/toontown
+discord.gg/topictech
 discord.gg/totallynotrobots
 discord.gg/totalwar
 discord.gg/totalwarreddit
