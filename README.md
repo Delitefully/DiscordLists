@@ -4,7 +4,7 @@ Tracking servers in Discord's community programs.
 
 To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
 
-e.g.: https://discord.com/api/invite/discord-events - the guild's features are `INVITE_SPLASH", "NEWS", "DISCOVERABLE", "BANNER", "VERIFIED", "VANITY_URL", "ANIMATED_ICON", "PUBLIC", "FEATURABLE", "VIP_REGIONS", "COMMUNITY`.
+e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `INVITE_SPLASH", "NEWS", "DISCOVERABLE", "BANNER", "VERIFIED", "VANITY_URL", "ANIMATED_ICON", "PUBLIC", "FEATURABLE", "VIP_REGIONS", "COMMUNITY`.
  
 ----
  
