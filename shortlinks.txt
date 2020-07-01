@@ -159,6 +159,7 @@ dis.gd/support
 dis.gd/swag
 dis.gd/swaggersouls-lastyear
 dis.gd/systemtw
+dis.gd/talk
 dis.gd/teamchaos
 dis.gd/templates
 dis.gd/terms
