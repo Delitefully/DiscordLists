@@ -49,6 +49,7 @@ dis.gd/dr_horseyt-atsundown
 dis.gd/eaislive
 dis.gd/early_access
 dis.gd/events
+dis.gd/fancyfancyandroidthings
 dis.gd/feedback
 dis.gd/fightingcowboyos
 dis.gd/findmyid
