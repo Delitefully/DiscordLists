@@ -33,7 +33,6 @@ dis.gd/devfeedback
 dis.gd/devnewsletter
 dis.gd/devovo
 dis.gd/devstoreform
-dis.gd/devsupport
 dis.gd/dgtvcommunity
 dis.gd/discordswim4
 dis.gd/discord101
