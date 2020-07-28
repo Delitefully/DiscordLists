@@ -86,6 +86,7 @@ dis.gd/koth
 dis.gd/kothdevblog
 dis.gd/kothype
 dis.gd/kothtw
+dis.gd/krispmobile
 dis.gd/lang-feedback
 dis.gd/lastyeartw
 dis.gd/login
