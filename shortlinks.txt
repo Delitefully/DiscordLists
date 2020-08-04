@@ -25,6 +25,7 @@ dis.gd/communityservers
 dis.gd/communitystories
 dis.gd/contact
 dis.gd/cprog
+dis.gd/communityprograms
 dis.gd/crazysam-rt
 dis.gd/credit
 dis.gd/crosscodetw
