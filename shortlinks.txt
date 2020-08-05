@@ -1,6 +1,7 @@
 dis.gd/androidboogie
 dis.gd/alphaking
 dis.gd/alpharad-koth
+dis.gd/apps
 dis.gd/ar12
 dis.gd/atsundowntw
 dis.gd/a11y
@@ -137,6 +138,7 @@ dis.gd/report
 dis.gd/request
 dis.gd/riotarmyos
 dis.gd/rtgame-sinneryt
+dis.gd/safety
 dis.gd/sarinha3
 dis.gd/sayhi2servideo
 dis.gd/scalingwithrust
