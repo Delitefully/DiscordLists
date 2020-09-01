@@ -178,6 +178,7 @@ dis.gd/tidyingup
 dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
+dis.gd/transparency20
 dis.gd/userid
 dis.gd/vdaysale
 dis.gd/verification
