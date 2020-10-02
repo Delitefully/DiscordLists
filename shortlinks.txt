@@ -25,6 +25,7 @@ dis.gd/cohhcarnage
 dis.gd/communityservers
 dis.gd/communitystories
 dis.gd/contact
+dis.gd/coolplaylist
 dis.gd/cprog
 dis.gd/communityprograms
 dis.gd/crazysam-rt
