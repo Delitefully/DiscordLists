@@ -14,6 +14,7 @@ dis.gd/bioshock
 dis.gd/bitethis
 dis.gd/blogcrawl
 dis.gd/boost
+dis.gd/bot-verification
 dis.gd/bts-minionmasters
 dis.gd/bughunting
 dis.gd/bugs
