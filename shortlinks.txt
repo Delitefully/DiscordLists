@@ -1,3 +1,4 @@
+dis.gd/add-trickcordtreat
 dis.gd/androidboogie
 dis.gd/alphaking
 dis.gd/alpharad-koth
@@ -23,12 +24,12 @@ dis.gd/buildyourkingdom
 dis.gd/childsplaydiscordhype
 dis.gd/classroom
 dis.gd/cohhcarnage
+dis.gd/communityprograms
 dis.gd/communityservers
 dis.gd/communitystories
 dis.gd/contact
 dis.gd/coolplaylist
 dis.gd/cprog
-dis.gd/communityprograms
 dis.gd/crazysam-rt
 dis.gd/credit
 dis.gd/crosscodetw
@@ -68,13 +69,17 @@ dis.gd/fruitnation
 dis.gd/funimation
 dis.gd/goldglove-zombsroyale.io
 dis.gd/golivescreenshare
+dis.gd/googleplaystoreintegration
 dis.gd/guidelines
+dis.gd/gwupdate
 dis.gd/hackweek
 dis.gd/hackweekwinners
+dis.gd/halloweenbot
 dis.gd/holycrap
 dis.gd/howtoreport
 dis.gd/hypesquad
 dis.gd/imageproxy
+dis.gd/inbox
 dis.gd/instability
 dis.gd/install
 dis.gd/installfail
@@ -109,6 +114,7 @@ dis.gd/mobilegifpicker
 dis.gd/mod-channel-ss
 dis.gd/molt
 dis.gd/mrfruitatsundown
+dis.gd/multistream
 dis.gd/mumbojumbo
 dis.gd/mytickets
 dis.gd/natsukisel
@@ -132,6 +138,7 @@ dis.gd/password
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
+dis.gd/prideshowcase
 dis.gd/protectdata
 dis.gd/publicguidelines
 dis.gd/reactwoooo
@@ -158,6 +165,8 @@ dis.gd/starwarshq-darkforces
 dis.gd/starwarshq-jediknight
 dis.gd/starwarshq-kotor
 dis.gd/status
+dis.gd/stickersfaq
+dis.gd/stickerswhen
 dis.gd/stop
 dis.gd/store
 dis.gd/stream
@@ -181,7 +190,9 @@ dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
 dis.gd/transparency20
+dis.gd/trickcordtreat
 dis.gd/userid
+dis.gd/utdallas-blog
 dis.gd/vdaysale
 dis.gd/verification
 dis.gd/verify
@@ -189,8 +200,10 @@ dis.gd/vfqual
 dis.gd/vfs
 dis.gd/visagetw
 dis.gd/viva_h-rt
+dis.gd/vote2020
 dis.gd/vsreqs
 dis.gd/website
 dis.gd/wumpusfundraiser
-dis.gd/Wumpus4Pride
+dis.gd/wumpus4pride
 dis.gd/whynot9010
+dis.gd/xboxnitro2020
