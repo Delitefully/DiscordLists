@@ -14,11 +14,11 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * Certain very old partnered guilds are missing the `PARTNERED` feature, but will have the other features 
 
 #### verified.txt - Verified servers (dis.gd/vfs)
- * Features: **`VERIFIED,`**`VANITY_URL, DISCOVERABLE`
+ * Features: **`VERIFIED,`**`VANITY_URL, DISCOVERABLE, INVITE_SPLASH`
 
 #### hypesquad-events.txt - HypeSquad Event Organizer servers (dis.gd/hypesquad)
 * Features: `VANITY_URL, VIP_REGIONS, INVITE_SPLASH`
-* The server owner will have the HypeSquad events badge.
+* The server owner will have the HypeSquad Events badge.
 
 #### Community servers (dis.gd/communityservers)
 * Features: `COMMUNITY, NEWS`
@@ -49,7 +49,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
 
-*  `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
+* `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
 
 * `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
