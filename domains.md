@@ -1,17 +1,20 @@
 ## Core
+
 | Domain            | Description                              |
 |-------------------|------------------------------------------|
-| discordapp.com    | Old app, marketing website, and API; CDN |
-| discordapp.net    | Media Proxy                              |
-| discord.com       | New app, marketing website, API host     |
+| dis.gd            | Marketing URL shortner                   |
 | discord.co        | Admin panel, internal tools              |
-| discord.gg        | Invite shortlinks                        |
+| discord.com       | New app, marketing website, API host     |
+| discord.design    | Dribbble profile shortlink               |
 | discord.dev       | Developer site shortlinks                |
-| discord.new       | Template shortlinks                      |
+| discord.gg        | Invite shortlinks                        |
 | discord.gift      | Gift shortlinks                          |
 | discord.media     | Voice servers                            |
-| discord.design    | Dribbble profile shortlink               |
-| dis.gd            | Marketing URL shortner                   |
+| discord.new       | Template shortlinks                      |
+| discord.store     | Merch store                              |
+| discord.tools     | Internal tools                           |
+| discordapp.com    | Old app, marketing website, and API; CDN |
+| discordapp.net    | Media Proxy                              |
 | discordstatus.com | Status page                              |
 
 ## Other
