@@ -15,6 +15,7 @@
 | discord.tools     | Internal tools                           |
 | discordapp.com    | Old app, marketing website, and API; CDN |
 | discordapp.net    | Media Proxy                              |
+| discordmerch.com  | Merch store                              |
 | discordstatus.com | Status page                              |
 
 ## Other
