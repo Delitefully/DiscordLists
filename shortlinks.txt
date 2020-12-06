@@ -13,6 +13,7 @@ dis.gd/bday3
 dis.gd/billing
 dis.gd/bioshock
 dis.gd/bitethis
+dis.gd/blackfriday2020
 dis.gd/blogcrawl
 dis.gd/boost
 dis.gd/bot-verification
@@ -48,6 +49,7 @@ dis.gd/dispatch-error
 dis.gd/dnsswap
 dis.gd/docs
 dis.gd/donate
+dis.gd/donate-snowsgiving
 dis.gd/doom49yt
 dis.gd/doom49yt-h&gwwii
 dis.gd/dreamcommunity
@@ -107,6 +109,7 @@ dis.gd/magikarpusedfly-ly
 dis.gd/magikarpusedfly-rr
 dis.gd/makepeoplehappy
 dis.gd/mattshea-badnorth
+dis.gd/merch
 dis.gd/mermaid
 dis.gd/messageid
 dis.gd/mmsnow18
@@ -159,6 +162,7 @@ dis.gd/sinnertw
 dis.gd/siphano
 dis.gd/skyyart
 dis.gd/snowblog18
+dis.gd/snowsgiving
 dis.gd/sp4zieyt-lastyear
 dis.gd/sp4zie-warframe
 dis.gd/starwarshq-darkforces
@@ -207,3 +211,4 @@ dis.gd/wumpusfundraiser
 dis.gd/wumpus4pride
 dis.gd/whynot9010
 dis.gd/xboxnitro2020
+dis.gd/ypttartists
