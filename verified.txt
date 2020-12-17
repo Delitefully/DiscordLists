@@ -301,6 +301,7 @@ discord.gg/cryofall
 discord.gg/crysis
 discord.gg/crytivo
 discord.gg/cta
+discord.gg/cubecraft
 discord.gg/cuisineroyale
 discord.gg/cursed
 discord.gg/curseofthedeadgods
@@ -587,6 +588,7 @@ discord.gg/generationzero
 discord.gg/geneshift
 discord.gg/geng
 discord.gg/gentoo
+discord.gg/genshinimpact
 discord.gg/georifters
 discord.gg/geoxor
 discord.gg/germs
@@ -603,6 +605,7 @@ discord.gg/gibbous
 discord.gg/giikugames
 discord.gg/gitea
 discord.gg/gizer
+discord.gg/giveawaybot
 discord.gg/gladiabot
 discord.gg/gladiators
 discord.gg/gll
@@ -702,6 +705,7 @@ discord.gg/hyperbrawl
 discord.gg/hyperchargeunboxed
 discord.gg/hyperdrome
 discord.gg/hyperjam
+discord.gg/hypixel
 discord.gg/hypnospace
 discord.gg/iamhero
 discord.gg/ibuypower
@@ -758,6 +762,7 @@ discord.gg/jackhammer
 discord.gg/jam
 discord.gg/jameslandino
 discord.gg/jasonrossofficial
+discord.gg/jay3
 discord.gg/jazzgaming
 discord.gg/jc2mp
 discord.gg/jellyfishgames
@@ -786,6 +791,7 @@ discord.gg/kasedogames
 discord.gg/keenswh
 discord.gg/kennybeats
 discord.gg/keplerians
+discord.gg/kevzter
 discord.gg/killerqueenblack
 discord.gg/killingfloor
 discord.gg/killitwithfire
@@ -875,6 +881,7 @@ discord.gg/lostarkru
 discord.gg/lostcommunity
 discord.gg/lotusreverie
 discord.gg/loud
+discord.gg/ltt
 discord.gg/luckperms
 discord.gg/ludenio
 discord.gg/ludopium
@@ -1350,6 +1357,7 @@ discord.gg/shipbreakergame
 discord.gg/shockrods
 discord.gg/shoptitans
 discord.gg/shotgunfarmers
+discord.gg/shroud
 discord.gg/shroudoftheavatar
 discord.gg/sidequest
 discord.gg/siegefox
@@ -1779,4 +1787,5 @@ discord.gg/zombsroyale
 discord.gg/zotaccup
 discord.gg/zps
 discord.gg/zulaeurope
+discord.gg/zuhn
 discord.gg/zumba
