@@ -163,6 +163,7 @@ discord.gg/blessunleashed
 discord.gg/blobsonline
 discord.gg/bloodlines2
 discord.gg/bloodstained
+discord.gg/blue
 discord.gg/bluestacks
 discord.gg/bluestacks-ru
 discord.gg/bluestacksbrasil
@@ -179,13 +180,13 @@ discord.gg/bluestackstr
 discord.gg/bluestackstw
 discord.gg/bluestacksvn
 discord.gg/bluewizard
+discord.gg/bnans
 discord.gg/bnlofficial
 discord.gg/bohemiainteractive
 discord.gg/bombergrounds
 discord.gg/bombfest
 discord.gg/bookofdemons
 discord.gg/boomzap
-discord.gg/bop
 discord.gg/borderlands
 discord.gg/borealblade
 discord.gg/borgore
@@ -212,7 +213,6 @@ discord.gg/burning-sea
 discord.gg/butterroyale
 discord.gg/c418
 discord.gg/caffeine
-discord.gg/cake
 discord.gg/caliber
 discord.gg/camelotunchained
 discord.gg/canarigames
@@ -234,6 +234,7 @@ discord.gg/celestialcommand
 discord.gg/cellardoorgames
 discord.gg/celltosingularity
 discord.gg/centration
+discord.gg/cerso
 discord.gg/chainsawesome
 discord.gg/challengermode
 discord.gg/chaos
@@ -450,7 +451,6 @@ discord.gg/enemyonboard
 discord.gg/enginehub
 discord.gg/ensu
 discord.gg/envy
-discord.gg/epic
 discord.gg/epicsnails
 discord.gg/epicspace
 discord.gg/epictavern
@@ -579,7 +579,6 @@ discord.gg/gambrinous
 discord.gg/gamebattles
 discord.gg/gamecraft
 discord.gg/gamesdonequick
-discord.gg/gametv
 discord.gg/gamexpro
 discord.gg/gankstars
 discord.gg/gatsby
@@ -588,6 +587,7 @@ discord.gg/generationzero
 discord.gg/geneshift
 discord.gg/geng
 discord.gg/gentoo
+discord.gg/genshinimpact
 discord.gg/georifters
 discord.gg/geoxor
 discord.gg/germs
@@ -604,6 +604,7 @@ discord.gg/gibbous
 discord.gg/giikugames
 discord.gg/gitea
 discord.gg/gizer
+discord.gg/giveawaybot
 discord.gg/gladiabot
 discord.gg/gladiators
 discord.gg/gll
@@ -760,6 +761,7 @@ discord.gg/jackhammer
 discord.gg/jam
 discord.gg/jameslandino
 discord.gg/jasonrossofficial
+discord.gg/jay3
 discord.gg/jazzgaming
 discord.gg/jc2mp
 discord.gg/jellyfishgames
@@ -878,6 +880,7 @@ discord.gg/lostarkru
 discord.gg/lostcommunity
 discord.gg/lotusreverie
 discord.gg/loud
+discord.gg/ltt
 discord.gg/luckperms
 discord.gg/ludenio
 discord.gg/ludopium
@@ -921,7 +924,6 @@ discord.gg/mechanicus40k
 discord.gg/medivia
 discord.gg/mee6
 discord.gg/megacat
-discord.gg/merge
 discord.gg/messydesk
 discord.gg/metagames
 discord.gg/method
@@ -947,7 +949,6 @@ discord.gg/minionmasters
 discord.gg/miniworldblockart
 discord.gg/miscreated
 discord.gg/misfits
-discord.gg/mixer
 discord.gg/mixtvision
 discord.gg/mlh
 discord.gg/mmeg
@@ -1316,6 +1317,7 @@ discord.gg/salixgames
 discord.gg/samuraipunk
 discord.gg/sandboxes
 discord.gg/sansarofficial
+discord.gg/sasslyn
 discord.gg/satisfactory
 discord.gg/saveyournuts
 discord.gg/saviorcomplex
@@ -1769,6 +1771,7 @@ discord.gg/ylands
 discord.gg/yorg-io
 discord.gg/younghorses
 discord.gg/youngmulti
+discord.gg/youtubable
 discord.gg/ysbrydgames
 discord.gg/yur
 discord.gg/zaggames
@@ -1783,4 +1786,5 @@ discord.gg/zombsroyale
 discord.gg/zotaccup
 discord.gg/zps
 discord.gg/zulaeurope
+discord.gg/zuhn
 discord.gg/zumba
