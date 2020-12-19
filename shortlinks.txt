@@ -1,11 +1,11 @@
+dis.gd/a11y
 dis.gd/add-trickcordtreat
-dis.gd/androidboogie
 dis.gd/alphaking
 dis.gd/alpharad-koth
+dis.gd/androidboogie
 dis.gd/apps
 dis.gd/ar12
 dis.gd/atsundowntw
-dis.gd/a11y
 dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
@@ -15,6 +15,7 @@ dis.gd/bioshock
 dis.gd/bitethis
 dis.gd/blackfriday2020
 dis.gd/blogcrawl
+dis.gd/blurpletesla
 dis.gd/boost
 dis.gd/bot-verification
 dis.gd/bts-minionmasters
@@ -42,8 +43,8 @@ dis.gd/devovo
 dis.gd/devstoreform
 dis.gd/devsupport
 dis.gd/dgtvcommunity
-dis.gd/discordswim4
 dis.gd/discord101
+dis.gd/discordswim4
 dis.gd/disdevstorform
 dis.gd/dispatch-error
 dis.gd/dma103
@@ -58,7 +59,7 @@ dis.gd/dma302
 dis.gd/dma303
 dis.gd/dma310
 dis.gd/dma311
-dis.gs/dma321
+dis.gd/dma321
 dis.gd/dma323
 dis.gd/dma332
 dis.gd/dma333
@@ -96,6 +97,7 @@ dis.gd/frostfangs-paladins
 dis.gd/frostpunk
 dis.gd/fruitnation
 dis.gd/funimation
+dis.gd/gamepass
 dis.gd/goldglove-zombsroyale.io
 dis.gd/golivescreenshare
 dis.gd/googleplaystoreintegration
@@ -119,12 +121,13 @@ dis.gd/jelly-atsundown
 dis.gd/jhzer
 dis.gd/jobs
 dis.gd/juneteenth
+dis.gd/keyboardnav
 dis.gd/killerqueenb
 dis.gd/kingdoom49-yt
 dis.gd/koth
 dis.gd/kothdevblog
-dis.gd/kothype
 dis.gd/kothtw
+dis.gd/kothype
 dis.gd/krispmobile
 dis.gd/lang-feedback
 dis.gd/lastyeartw
@@ -142,6 +145,8 @@ dis.gd/messageid
 dis.gd/mmsnow18
 dis.gd/mobilegifpicker
 dis.gd/mod-channel-ss
+dis.gd/modacademy
+dis.gd/moderation
 dis.gd/molt
 dis.gd/mrfruitatsundown
 dis.gd/multistream
@@ -190,8 +195,8 @@ dis.gd/siphano
 dis.gd/skyyart
 dis.gd/snowblog18
 dis.gd/snowsgiving
-dis.gd/sp4zieyt-lastyear
 dis.gd/sp4zie-warframe
+dis.gd/sp4zieyt-lastyear
 dis.gd/starwarshq-darkforces
 dis.gd/starwarshq-jediknight
 dis.gd/starwarshq-kotor
@@ -235,8 +240,8 @@ dis.gd/viva_h-rt
 dis.gd/vote2020
 dis.gd/vsreqs
 dis.gd/website
-dis.gd/wumpusfundraiser
-dis.gd/wumpus4pride
 dis.gd/whynot9010
+dis.gd/wumpus4pride
+dis.gd/wumpusfundraiser
 dis.gd/xboxnitro2020
 dis.gd/ypttartists
