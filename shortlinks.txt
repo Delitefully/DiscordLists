@@ -16,6 +16,7 @@ dis.gd/bitethis
 dis.gd/blackfriday2020
 dis.gd/blogcrawl
 dis.gd/blurpletesla
+dis.gd/blurpletesla-ig
 dis.gd/boost
 dis.gd/bot-verification
 dis.gd/bts-minionmasters
@@ -144,6 +145,7 @@ dis.gd/mermaid
 dis.gd/messageid
 dis.gd/mmsnow18
 dis.gd/mobilegifpicker
+dis.gd/mobilescreenshare
 dis.gd/mod-channel-ss
 dis.gd/modacademy
 dis.gd/moderation
