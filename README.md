@@ -33,7 +33,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 
-* `COMMUNITY` - [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels.](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
+* `COMMUNITY` - [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 
 * `DISCOVERABLE` - Visible in Server Discovery.
 
