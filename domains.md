@@ -16,7 +16,8 @@
 | discordapp.com        | Old app, marketing website, and API; CDN |
 | discordapp.net        | Media Proxy                              |
 | discordmerch.com      | Merch store                              |
-| discordpartygames.com | Voice channel party game host            |
+| discordpartygames.com | Voice channel activity API host          |
+| discordsays.com       | Voice channel activity host              |
 | discordstatus.com     | Status page                              |
 
 ## Other
