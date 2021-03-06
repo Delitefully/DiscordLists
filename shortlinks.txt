@@ -117,6 +117,7 @@ dis.gd/instability
 dis.gd/install
 dis.gd/installfail
 dis.gd/iosgofast
+dis.gd/iwd
 dis.gd/jake
 dis.gd/jauz
 dis.gd/jelly-atsundown
