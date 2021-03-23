@@ -22,6 +22,7 @@ dis.gd/boost
 dis.gd/bot-verification
 dis.gd/bts-minionmasters
 dis.gd/bughunting
+dis.gd/bugreport
 dis.gd/bugs
 dis.gd/bug_tool
 dis.gd/buildyourkingdom
