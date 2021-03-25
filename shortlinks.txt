@@ -197,6 +197,7 @@ dis.gd/serverid
 dis.gd/servervideo
 dis.gd/sinnertw
 dis.gd/siphano
+dis.gd/slashcommands
 dis.gd/skyyart
 dis.gd/snowblog18
 dis.gd/snowsgiving
