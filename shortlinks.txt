@@ -11,6 +11,7 @@ dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
 dis.gd/bday3
+dis.gd/bhmcommunities
 dis.gd/billing
 dis.gd/bioshock
 dis.gd/bitethis
@@ -119,6 +120,7 @@ dis.gd/install
 dis.gd/installfail
 dis.gd/iosgofast
 dis.gd/iwd
+dis.gd/iwd-events
 dis.gd/jake
 dis.gd/jauz
 dis.gd/jelly-atsundown
@@ -201,8 +203,10 @@ dis.gd/slashcommands
 dis.gd/skyyart
 dis.gd/snowblog18
 dis.gd/snowsgiving
+dis.gd/soundpackfaq
 dis.gd/sp4zie-warframe
 dis.gd/sp4zieyt-lastyear
+dis.gd/stagesfaq
 dis.gd/starwarshq-darkforces
 dis.gd/starwarshq-jediknight
 dis.gd/starwarshq-kotor
