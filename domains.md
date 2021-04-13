@@ -1,25 +1,26 @@
 ## Core
 
-| Domain                | Description                              |
-|-----------------------|------------------------------------------|
-| dis.gd                | Marketing URL shortner                   |
-| discord.co            | Admin panel, internal tools              |
-| discord.com           | New app, marketing website, API host     |
-| discord.design        | Dribbble profile shortlink               |
-| discord.dev           | Developer site shortlinks                |
-| discord.gg            | Invite shortlinks                        |
-| discord.gift          | Gift shortlinks                          |
-| discord.media         | Voice servers                            |
-| discord.new           | Template shortlinks                      |
-| discord.store         | Merch store                              |
-| discord.tools         | Internal tools                           |
-| discordapp.com        | Old app, marketing website, and API; CDN |
-| discordapp.net        | Media Proxy                              |
-| discordmerch.com      | Merch store                              |
-| discordpartygames.com | Voice channel activity API host          |
-| discord-activities.com| Voice channel activity API host          |
-| discordsays.com       | Voice channel activity host              |
-| discordstatus.com     | Status page                              |
+| Domain                | Description                                |
+|-----------------------|--------------------------------------------|
+| dis.gd                | Marketing URL shortner                     |
+| discord.co            | Admin panel, internal tools                |
+| discord.com           | New app, marketing website, API host       |
+| discord.design        | Dribbble profile shortlink                 |
+| discord.dev           | Developer site shortlinks                  |
+| discord.gg            | Invite shortlinks                          |
+| discord.gift          | Gift shortlinks                            |
+| discord.media         | Voice servers                              |
+| discord.new           | Template shortlinks                        |
+| discord.store         | Merch store                                |
+| discord.tools         | Internal tools                             |
+| discordapp.com        | Old app, marketing website, and API; CDN   |
+| discordapp.net        | Media Proxy                                |
+| discordmerch.com      | Merch store                                |
+| discordpartygames.com | Voice channel activity API host            |
+| discord-activities.com| Voice channel activity API host            |
+| discordsays.com       | Voice channel activity host                |
+| discordstatus.com     | Status page                                |
+| my-cool-app.com       | Bot ToS and Privacy Policy URL placeholder |
 
 ## Other
 
