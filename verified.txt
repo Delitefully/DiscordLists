@@ -340,6 +340,7 @@ discord.gg/dbdmobile
 discord.gg/dc
 discord.gg/dcuo
 discord.gg/dd2
+discord.gg/ddeno
 discord.gg/deadbydaylight
 discord.gg/deadcells
 discord.gg/deadfrontier2
@@ -377,6 +378,7 @@ discord.gg/disorder
 discord.gg/disrupt
 discord.gg/distance
 discord.gg/dixiemech
+discord.gg/djs
 discord.gg/dmgincs
 discord.gg/dnd
 discord.gg/dndbeyond
@@ -391,6 +393,8 @@ discord.gg/doubledashstu
 discord.gg/doublefine
 discord.gg/doublekickheroes
 discord.gg/doublemoose
+discord.gg/dphp
+discord.gg/dpy
 discord.gg/dragoncity
 discord.gg/dragonfront
 discord.gg/dragonslumber
@@ -407,6 +411,7 @@ discord.gg/driftland
 discord.gg/driveahead
 discord.gg/drone
 discord.gg/dronestrikeforce
+discord.gg/dsharpplus
 discord.gg/dt
 discord.gg/dualuniverse
 discord.gg/duels
@@ -592,7 +597,6 @@ discord.gg/georifters
 discord.gg/geoxor
 discord.gg/germs
 discord.gg/gfuel
-discord.gg/gg
 discord.gg/gguruji
 discord.gg/ghostgaming
 discord.gg/ghostrecon
