@@ -18,3 +18,4 @@
 | 32768  | 1<<15   | UNDERAGE_DELETED           | Pending deletion for being underage in DOB prompt |        |
 | 65536  | 1<<16   | VERIFIED_BOT               | Verified Bot                                      | ✓      |
 | 131072 | 1<<17   | VERIFIED_DEVELOPER         | Early Verified Bot Developer                      | ✓      |
+| 262144 | 1<<18   | CERTIFIED_MODERATOR        | Discord Certified Moderator                       | ✓      |
