@@ -235,7 +235,7 @@ dis.gd/test
 dis.gd/testflight
 dis.gd/thinknoodlesbadnorth
 dis.gd/thnxcya
-dis.gd/threads
+dis.gd/threads-blog
 dis.gd/tidyingup
 dis.gd/tns2019
 dis.gd/tos
