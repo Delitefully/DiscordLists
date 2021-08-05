@@ -11,7 +11,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 #### partners.txt - Partnered servers (dis.gd/partners)
 * Features: **`PARTNERED,`**`VANITY_URL, VIP_REGIONS, INVITE_SPLASH, BANNER, ANIMATED_ICON`
 * The server owner will have the Partner badge.
-* Certain very old partnered guilds are missing the `PARTNERED` feature, but will have the other features 
+* Certain very old partnered guilds are missing the `PARTNERED` feature but will have the other features 
 
 #### verified.txt - Verified servers (dis.gd/vfs)
  * Features: **`VERIFIED,`**`VANITY_URL, DISCOVERABLE, INVITE_SPLASH`
@@ -37,15 +37,17 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `DISCOVERABLE` - Visible in Server Discovery.
 
-* `ENABLED_DISCOVERABLE_BEFORE` - Enabled Server Discovery before the Discovery Checklist launched.
-
 * `DISCOVERABLE_DISABLED` — Guild is permanently removed from Discovery by Discord.
+
+* `ENABLED_DISCOVERABLE_BEFORE` - Enabled Server Discovery before the Discovery Checklist launched.
 
 * ~~`FEATURABLE`~~ - Deprecated
 
-* ~~`LURKABLE`~~ - Deprecated in favor of `PREVIEW_ENABLED`
+* ~~`FORCE_RELAY`~~ — Shards connections to the guild to different nodes that relay information between each other.
 
-* ~~`FORCE_RELAY`~~ Deprecated in favor of `RELAY_ENABLED`
+* `HUB` — This feature exists but its features are not known and released yet.
+
+* ~~`LURKABLE`~~ - Deprecated in favor of `PREVIEW_ENABLED`
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
@@ -53,13 +55,19 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
 
+* `MONETIZATION_ENABLED` — Has ticketed stages enabled.
+
 * `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
-* `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Annoucements analytics tab in the guild settings.
+* `MORE_STICKERS` — Guild has 60 sticker slots no matter how many it had before. Not used in server boosting.
+
+* `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
 * `PREVIEW_ENABLED` - Enables [lurking](https://discord.com/developers/docs/game-and-server-management/special-channels#lurker-mode) via discovery and invites while logged out, as well as from crossposted announcements from news channels. 
+
+* `PRIVATE_THREADS` — Ability to create private threads
 
 * ~~`PUBLIC`~~ - Deprecated in favor of `COMMUNITY`
 
@@ -67,31 +75,24 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `RELAY_ENABLED` - Shards connections to the guild to different nodes that relay information between each other.
 
+* `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven-day archive time for threads.
+
+* `THREADS_ENABLED` — Enabled threads early access. 
+
+* `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. Also gives the premium thread features.
+
+* `THREE_DAY_THREAD_ARCHIVE` — Ability to use three-day archive time for threads.
+
+* `TICKETED_EVENTS_ENABLED`— Ability to view and manage ticketed events.
+
 * `VANITY_URL` - Ability to set a vanity URL (custom discord.gg invite link).
 
 * `VERIFIED` - Verification checkmark near the server name and in mutual server lists. 
 
-* `VIP_REGIONS` - ~~Ability to use special voice regions with a better stability: US East VIP, US West VIP and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate 
+* `VIP_REGIONS` - ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate 
 
-* `WELCOME_SCREEN_ENABLED` - Has welcome screen enabled, a modal shown to new joiners that features different channels and a short description of the guild.
+* `WELCOME_SCREEN_ENABLED` - Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
 
-* `TICKETED_EVENTS_ENABLED`— Ability to view and manage ticketed events.
-
-* `MONETIZATION_ENABLED` — Has ticketed stages enabled.
-
-* `MORE_STICKERS` — Sets the sticker slots to 60. Not used in server boosting.
-
-* `HUB` — Not released
-
-* `THREE_DAY_THREAD_ARCHIVE` — Ability to use three day archive time for threads.
-
-* `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven day archive time for threads.
-
-* `PRIVATE_THREADS` — Ability to create private threads
-
-* `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. Also gives the premium thread features.
-
-* `THREADS_ENABLED` — Enabled threads early acess. 
 ----
 
 #### Community program feature comparison 
