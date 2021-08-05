@@ -39,11 +39,13 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `ENABLED_DISCOVERABLE_BEFORE` - Enabled Server Discovery before the Discovery Checklist launched.
 
+* `DISCOVERABLE_DISABLED` — Guild is permanently removed from Discovery by Discord.
+
 * ~~`FEATURABLE`~~ - Deprecated
 
 * ~~`LURKABLE`~~ - Deprecated in favor of `PREVIEW_ENABLED`
 
-* `FORCE_RELAY` - Shards connections to the guild to different nodes that relay information between each other. 
+* ~~`FORCE_RELAY`~~ Deprecated in favor of `RELAY_ENABLED`
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
@@ -73,18 +75,36 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `WELCOME_SCREEN_ENABLED` - Has welcome screen enabled, a modal shown to new joiners that features different channels and a short description of the guild.
 
+* `TICKETED_EVENTS_ENABLED`— Ability to view and manage ticketed events.
+
+* `MONETIZATION_ENABLED` — Has ticketed stages enabled.
+
+* `MORE_STICKERS` — Sets the sticker slots to 60. Not used in server boosting.
+
+* `HUB` — Not released
+
+* `THREE_DAY_THREAD_ARCHIVE` — Ability to use three day archive time for threads.
+
+* `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven day archive time for threads.
+
+* `PRIVATE_THREADS` — Ability to create private threads
+
+* `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. Also gives the premium thread features.
+
+* `THREADS_ENABLED` — Enabled threads early acess. 
 ----
 
 #### Community program feature comparison 
 
-| Community Program              | Vanity URL | Invite Splash | VIP Regions | Maximum Voice Bitrate | Server Owner Badge | Server Badge           | Extra Emoji Slots | Animated Icon | Banner | Lurking | Announcement Channels | Store Channels | Discovery          |
-|--------------------------------|------------|---------------|-------------|-----------------------|--------------------|------------------------|-------------------|---------------|--------|---------|-----------------------|----------------|--------------------|
-| Partner                        | ✓          | ✓             | ✓           | 384kbps               | Partner            | Partner icon           |                   |               | ✓      |         | ✓                     |                |                    |
-| Verification                   | ✓          |               | ✓           | 384kbps               |                    | Verification Checkmark |                   |               |        | ✓       | ✓                     |                | Enabled by default |
-| HypeSquad Event Organizer      | ✓          |               | ✓           | 128kbps               | HypeSquad Events   |                        |                   |               |        |         |                       |                |                    |
-| Open Source                    | ✓          | ✓             |             |                       |                    |                        |                   |               |        |         |                       |                |                    |
-| Server boosting tier 1         |            | ✓             |             | 128kbps               |                    | Boost tier 1 icon      | 50 \(100 total\)  | ✓             |        |         |                       |                |                    |
-| Server boosting tier 2         |            | ✓             |             | 256kbps               |                    | Boost tier 2 icon      | 100 \(150 total\) | ✓             | ✓      |         |                       |                |                    |
-| Server boosting tier 3         | ✓          | ✓             |             | 384kbps               |                    | Boost tier 3 icon      | 200 \(250 total\) | ✓             | ✓      |         |                       |                |                    |
-| Commerce \(Developer License\) |            |               |             |                       |                    |                        |                   |               |        | ✓       | ✓                     | ✓              |                    |
-| Community                         |            |               |             |                       |                    |                        |                   |               |        | ✓       | ✓                     |                | Can apply          |
+| Community Program              | Vanity URL | Invite Splash | VIP Regions | Maximum Voice Bitrate | Server Owner Badge | Server Badge           | Extra Emoji Slots | Animated Icon | Banner | Lurking | Announcement Channels | Store Channels | Discovery          | Threads Extra Features   |
+|--------------------------------|------------|---------------|-------------|-----------------------|--------------------|------------------------|-------------------|---------------|--------|---------|-----------------------|----------------|--------------------|--------------------------|
+| Partner                        | ✓          | ✓             | ✓           | 384kbps               | Partner            | Partner icon           |                   |               | ✓      |         | ✓                     |                |                    |                          |
+| Verification                   | ✓          |               | ✓           | 384kbps               |                    | Verification Checkmark |                   |               |        | ✓       | ✓                     |                | Enabled by default |                          |
+by default |
+| HypeSquad Event Organizer      | ✓          |               | ✓           | 128kbps               | HypeSquad Events   |                        |                   |               |        |         |                       |                |                    |                          |
+| Open Source                    | ✓          | ✓             |             |                       |                    |                        |                   |               |        |         |                       |                |                    |                          |
+| Server boosting tier 1         |            | ✓             |             | 128kbps               |                    | Boost tier 1 icon      | 50 \(100 total\)  | ✓             |        |         |                       |                |                    | Three Day Thread Archive |
+| Server boosting tier 2         |            | ✓             |             | 256kbps               |                    | Boost tier 2 icon      | 100 \(150 total\) | ✓             | ✓      |         |                       |                |                    | Seven Day Thread Archive |
+| Server boosting tier 3         | ✓          | ✓             |             | 384kbps               |                    | Boost tier 3 icon      | 200 \(250 total\) | ✓             | ✓      |         |                       |                |                    | Private Threads          |
+| Commerce \(Developer License\) |            |               |             |                       |                    |                        |                   |               |        | ✓       | ✓                     | ✓              |                    |                          |
+| Community                      |            |               |             |                       |                    |                        |                   |               |        | ✓       | ✓                     |                | Can apply          |                          |
