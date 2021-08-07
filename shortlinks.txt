@@ -112,6 +112,7 @@ dis.gd/gwupdate
 dis.gd/hackweek
 dis.gd/hackweekwinners
 dis.gd/halloweenbot
+dis.gd/help
 dis.gd/holycrap
 dis.gd/howtoreport
 dis.gd/hypesquad
@@ -185,6 +186,7 @@ dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
 dis.gd/prideshowcase
+dis.gd/pride2021
 dis.gd/protectdata
 dis.gd/publicguidelines
 dis.gd/reactwoooo
