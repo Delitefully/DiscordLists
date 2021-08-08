@@ -45,7 +45,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * ~~`FORCE_RELAY`~~ — Shards connections to the guild to different nodes that relay information between each other.
 
-* `HUB` — This feature exists but its features are not known and released yet.
+* `HUB` — Hubs contain directory channels that let you find school-related, student-run servers.
 
 * ~~`LURKABLE`~~ - Deprecated in favor of `PREVIEW_ENABLED`
 
@@ -101,7 +101,6 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 |--------------------------------|------------|---------------|-------------|-----------------------|--------------------|------------------------|-------------------|---------------|--------|---------|-----------------------|----------------|--------------------|--------------------------|
 | Partner                        | ✓          | ✓             | ✓           | 384kbps               | Partner            | Partner icon           |                   |               | ✓      |         | ✓                     |                |                    |                          |
 | Verification                   | ✓          |               | ✓           | 384kbps               |                    | Verification Checkmark |                   |               |        | ✓       | ✓                     |                | Enabled by default |                          |
-by default |
 | HypeSquad Event Organizer      | ✓          |               | ✓           | 128kbps               | HypeSquad Events   |                        |                   |               |        |         |                       |                |                    |                          |
 | Open Source                    | ✓          | ✓             |             |                       |                    |                        |                   |               |        |         |                       |                |                    |                          |
 | Server boosting tier 1         |            | ✓             |             | 128kbps               |                    | Boost tier 1 icon      | 50 \(100 total\)  | ✓             |        |         |                       |                |                    | Three Day Thread Archive |
