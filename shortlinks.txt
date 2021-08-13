@@ -11,6 +11,7 @@ dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
 dis.gd/bday3
+dis.gd/beginnersguide
 dis.gd/bhmcommunities
 dis.gd/billing
 dis.gd/bioshock
@@ -103,6 +104,7 @@ dis.gd/frostpunk
 dis.gd/fruitnation
 dis.gd/funimation
 dis.gd/gamepass
+dis.gd/gettingstartedonmobile
 dis.gd/goldglove-zombsroyale.io
 dis.gd/golivescreenshare
 dis.gd/google
@@ -244,6 +246,7 @@ dis.gd/tos
 dis.gd/tosoct18
 dis.gd/transparency20
 dis.gd/trickcordtreat
+dis.gd/unsupportedbugs
 dis.gd/userid
 dis.gd/utdallas-blog
 dis.gd/vdaysale
@@ -262,3 +265,5 @@ dis.gd/wumpus4pride
 dis.gd/wumpusfundraiser
 dis.gd/xboxnitro2020
 dis.gd/ypttartists
+dis.gd/YouTube-Premium
+dis.gd/2fa
