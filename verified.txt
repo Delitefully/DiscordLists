@@ -1,28 +1,30 @@
-discord.gg/100thieves
-discord.gg/10tons
 discord.gg/1c-entertainment
 discord.gg/1manstudio
 discord.gg/1ne
-discord.gg/20xx
-discord.gg/22racingseries
-discord.gg/24kgoldn
 discord.gg/2awesomestudio
 discord.gg/2zombie
-discord.gg/347misfits
 discord.gg/3drealms
 discord.gg/3g
 discord.gg/4davidblue
 discord.gg/4for4
 discord.gg/4story
 discord.gg/4storyofficial
-discord.gg/505games
 discord.gg/5heroes
 discord.gg/6rba5
 discord.gg/7daystodie
+discord.gg/10tons
+discord.gg/20xx
+discord.gg/22racingseries
+discord.gg/24kgoldn
+discord.gg/42
+discord.gg/100thieves
+discord.gg/347misfits
+discord.gg/505games
 discord.gg/a44games-ashen
 discord.gg/aaero
 discord.gg/abandonship
 discord.gg/abcollegiate
+discord.gg/abdallah
 discord.gg/abi
 discord.gg/absolver
 discord.gg/absorber
@@ -37,6 +39,7 @@ discord.gg/adobelivede
 discord.gg/adventure
 discord.gg/aerialknightstudios
 discord.gg/aexitus
+discord.gg/aff
 discord.gg/affray
 discord.gg/afkarena
 discord.gg/afterburn
@@ -66,6 +69,7 @@ discord.gg/albinomoosegames
 discord.gg/albiononline
 discord.gg/alchemiccutie
 discord.gg/alchemystars
+discord.gg/algs
 discord.gg/alia
 discord.gg/aliensfireteam
 discord.gg/alienware
@@ -99,6 +103,7 @@ discord.gg/animalroyale
 discord.gg/anjuna
 discord.gg/annadeniz
 discord.gg/annapurnainteractive
+discord.gg/annemunition
 discord.gg/antisocial
 discord.gg/antlionaudio
 discord.gg/antworkshop
@@ -206,6 +211,7 @@ discord.gg/battlebreakers
 discord.gg/battlebreakersde
 discord.gg/battlebreakersesp
 discord.gg/battlebreakersfr
+discord.gg/battlechefbrigade
 discord.gg/battlecryoffreedom
 discord.gg/battlefield
 discord.gg/battleforwesnoth
@@ -214,6 +220,8 @@ discord.gg/battlegrounds
 discord.gg/battlelandsroyale
 discord.gg/battleprime
 discord.gg/battleracingstars
+discord.gg/battlerealms
+discord.gg/battlerite
 discord.gg/bb
 discord.gg/bbb
 discord.gg/bbi
@@ -239,6 +247,7 @@ discord.gg/betrayal
 discord.gg/betweenthestars
 discord.gg/beyond
 discord.gg/bgo
+discord.gg/big
 discord.gg/bigcheesestudio
 discord.gg/bigredplanet
 discord.gg/bigscreen
@@ -348,6 +357,7 @@ discord.gg/buttoncity
 discord.gg/butwhytho
 discord.gg/buygore
 discord.gg/bxblove
+discord.gg/c9u
 discord.gg/c418
 discord.gg/caffeine
 discord.gg/cajji
@@ -361,6 +371,7 @@ discord.gg/carryislive
 discord.gg/carteltycoon
 discord.gg/castleage
 discord.gg/castleclash
+discord.gg/castlestory
 discord.gg/catalystblack
 discord.gg/catanuniverse
 discord.gg/catnigiri
@@ -369,6 +380,7 @@ discord.gg/cavedigger
 discord.gg/cavemonsters
 discord.gg/cccp
 discord.gg/ccs
+discord.gg/cda
 discord.gg/cdofficial
 discord.gg/cea
 discord.gg/celestialcommand
@@ -377,6 +389,7 @@ discord.gg/cellbit
 discord.gg/celltosingularity
 discord.gg/centration
 discord.gg/cerso
+discord.gg/cg
 discord.gg/chainsawesome
 discord.gg/challengermode
 discord.gg/championstrike
@@ -387,9 +400,11 @@ discord.gg/chaosminds
 discord.gg/chaosreborn
 discord.gg/chapati
 discord.gg/chernobylite
+discord.gg/chessbrah
 discord.gg/chessroyalegame
 discord.gg/chessrush
 discord.gg/chibig
+discord.gg/chicagobulls
 discord.gg/chivalry2
 discord.gg/chkn
 discord.gg/chrissycostanza
@@ -462,6 +477,7 @@ discord.gg/crazydefenseheroes
 discord.gg/crazyfrog
 discord.gg/creamrealbetis
 discord.gg/create
+discord.gg/creativerse
 discord.gg/creygames
 discord.gg/criminalcase
 discord.gg/crimsondesert
@@ -494,6 +510,7 @@ discord.gg/cyberpowerpc
 discord.gg/cyberpunkgame
 discord.gg/cytoid
 discord.gg/cyubevr
+discord.gg/d4j
 discord.gg/d7oomy999
 discord.gg/dabinsanctuary
 discord.gg/dallasempire
@@ -501,6 +518,7 @@ discord.gg/dallasfuel
 discord.gg/damn
 discord.gg/dancingdragongames
 discord.gg/dangen
+discord.gg/danger
 discord.gg/dani
 discord.gg/danielmullinsgames
 discord.gg/daoc
@@ -540,6 +558,7 @@ discord.gg/deceit
 discord.gg/deeeepio
 discord.gg/deep-game
 discord.gg/deepestchamber
+discord.gg/defcon
 discord.gg/defendthenight
 discord.gg/defiant
 discord.gg/defjam
@@ -571,6 +590,7 @@ discord.gg/discjam
 discord.gg/discljord
 discord.gg/disclosure
 discord.gg/discoelysium
+discord.gg/discord-developers
 discord.gg/discord-testers
 discord.gg/discord-townhall
 discord.gg/disintegration
@@ -585,6 +605,8 @@ discord.gg/djs
 discord.gg/dmgincs
 discord.gg/dnd
 discord.gg/dndbeyond
+discord.gg/docusaurus
+discord.gg/dofustouch
 discord.gg/dog-airport-game
 discord.gg/dokomi
 discord.gg/dolmengame
@@ -593,6 +615,7 @@ discord.gg/domiandjdbeck
 discord.gg/dontstarvenewhome
 discord.gg/doom
 discord.gg/doorkickers
+discord.gg/dorriankarnett
 discord.gg/dortmund
 discord.gg/dotbigbang
 discord.gg/doubledashstu
@@ -603,6 +626,7 @@ discord.gg/dowhatsoundsgood
 discord.gg/dpadstudio
 discord.gg/dphp
 discord.gg/dpp
+discord.gg/dpy
 discord.gg/dragoncity
 discord.gg/dragoncon
 discord.gg/dragonfront
@@ -654,9 +678,11 @@ discord.gg/earthfall
 discord.gg/earussia
 discord.gg/easyrollerdice
 discord.gg/ebg
+discord.gg/ebi
 discord.gg/echodoggames
 discord.gg/eco
 discord.gg/ecs
+discord.gg/efc
 discord.gg/eft-official-rus
 discord.gg/egzod
 discord.gg/eir
@@ -681,6 +707,7 @@ discord.gg/em-8er
 discord.gg/emberjs
 discord.gg/emberknights
 discord.gg/embr
+discord.gg/eme
 discord.gg/emergenyc
 discord.gg/empyrion
 discord.gg/ence
@@ -696,6 +723,7 @@ discord.gg/epicspace
 discord.gg/epictavern
 discord.gg/era
 discord.gg/era-of-chaos
+discord.gg/ere
 discord.gg/erealityru
 discord.gg/erepublik
 discord.gg/ern
@@ -747,6 +775,7 @@ discord.gg/eternium
 discord.gg/etternaonline
 discord.gg/eunited
 discord.gg/evantube
+discord.gg/evc
 discord.gg/eveechoes
 discord.gg/everquestii
 discord.gg/evertile
@@ -792,6 +821,7 @@ discord.gg/fellowtraveller
 discord.gg/fenyxrising
 discord.gg/feral
 discord.gg/festivaltycoon
+discord.gg/ffr
 discord.gg/figment
 discord.gg/filamentpuzzle
 discord.gg/finaldays
@@ -845,6 +875,7 @@ discord.gg/fortnitekr
 discord.gg/fortniteme
 discord.gg/fortnitepl
 discord.gg/fortnitetr
+discord.gg/forwardassault
 discord.gg/forza
 discord.gg/foundation
 discord.gg/founderly
@@ -897,6 +928,7 @@ discord.gg/gameround
 discord.gg/gamescom
 discord.gg/gamesdonequick
 discord.gg/gamestack
+discord.gg/gamestop
 discord.gg/gametv-ru
 discord.gg/gametvbr
 discord.gg/gametvde
@@ -972,6 +1004,7 @@ discord.gg/godsent
 discord.gg/godsentmobile
 discord.gg/godsofboom
 discord.gg/godsunchained
+discord.gg/goe
 discord.gg/gofightfantastic
 discord.gg/goheroes
 discord.gg/goingmedieval
@@ -995,6 +1028,7 @@ discord.gg/grandfantasiafr
 discord.gg/grandfantasialat
 discord.gg/grandfantasiapt
 discord.gg/grapeapplesauce
+discord.gg/graphile
 discord.gg/graser
 discord.gg/graymount
 discord.gg/greenheartgames
@@ -1006,6 +1040,7 @@ discord.gg/gridironthegame
 discord.gg/grime
 discord.gg/grimsoul
 discord.gg/grip
+discord.gg/groovy
 discord.gg/groundedthegame
 discord.gg/growtopia
 discord.gg/gski
@@ -1025,6 +1060,8 @@ discord.gg/gustovow
 discord.gg/gutterarcade
 discord.gg/gyangaming
 discord.gg/gzcharge
+discord.gg/h1z1
+discord.gg/hacknet
 discord.gg/hacktoberfest
 discord.gg/hadesstar
 discord.gg/hairdash
@@ -1133,6 +1170,7 @@ discord.gg/idleminertycoon
 discord.gg/idleon
 discord.gg/idleskilling
 discord.gg/idlespace
+discord.gg/idu
 discord.gg/igda
 discord.gg/igdb
 discord.gg/igiorigins
@@ -1204,6 +1242,7 @@ discord.gg/jayy
 discord.gg/jazecinema
 discord.gg/jazzgaming
 discord.gg/jc2mp
+discord.gg/jda
 discord.gg/jellyfishgames
 discord.gg/jellypeanut
 discord.gg/jellyteam
@@ -1214,6 +1253,7 @@ discord.gg/jetlancer
 discord.gg/jetpackjoyride
 discord.gg/jie
 discord.gg/jigme
+discord.gg/jimyosef
 discord.gg/jinx
 discord.gg/jnigames
 discord.gg/joegame
@@ -1326,6 +1366,7 @@ discord.gg/latalena
 discord.gg/latinx
 discord.gg/laurum
 discord.gg/lawnmowingsim
+discord.gg/laz
 discord.gg/lazergrrl
 discord.gg/ldlc
 discord.gg/ldoe
@@ -1348,6 +1389,7 @@ discord.gg/lemur
 discord.gg/lenovolegion
 discord.gg/letsbuildazoo
 discord.gg/letsplaywebtoon
+discord.gg/librenms
 discord.gg/lienzo
 discord.gg/lifeafter
 discord.gg/lifeaftereu
@@ -1372,6 +1414,7 @@ discord.gg/liquidapex
 discord.gg/liquidation
 discord.gg/liquidplus
 discord.gg/liquipedia
+discord.gg/lis
 discord.gg/littlebigworkshop
 discord.gg/littlechicken
 discord.gg/littleorbit
@@ -1463,6 +1506,7 @@ discord.gg/matthewsantoro
 discord.gg/mattiaskrantz
 discord.gg/mattmoniz
 discord.gg/mattykay
+discord.gg/mavericks
 discord.gg/max-graham-cycles
 discord.gg/mayheminsinglevalley
 discord.gg/mayurgaming
@@ -1558,6 +1602,7 @@ discord.gg/mortalonline
 discord.gg/mortalshell
 discord.gg/mount
 discord.gg/moveordie
+discord.gg/mrbeast
 discord.gg/mrbeastgaming
 discord.gg/mrsuicidesheep
 discord.gg/msfs
@@ -1584,6 +1629,7 @@ discord.gg/naturalbornsoldier
 discord.gg/nbatopshot
 discord.gg/nd
 discord.gg/ndemic
+discord.gg/ndreams
 discord.gg/neatcorp
 discord.gg/nebulous
 discord.gg/necrobarista
@@ -1627,6 +1673,7 @@ discord.gg/nineparchments
 discord.gg/ninetofive
 discord.gg/ninetofiveru
 discord.gg/ninjakiwi
+discord.gg/nip
 discord.gg/nipgaming
 discord.gg/nisa
 discord.gg/nitorinc
@@ -1698,8 +1745,10 @@ discord.gg/orna
 discord.gg/osesports
 discord.gg/osfe
 discord.gg/osrs
+discord.gg/otaku
 discord.gg/otb
 discord.gg/otr
+discord.gg/otzdarva
 discord.gg/outcasters
 discord.gg/outerloopgames
 discord.gg/outlanders
@@ -1726,6 +1775,7 @@ discord.gg/paladinsgame
 discord.gg/palaze
 discord.gg/pallets
 discord.gg/panache
+discord.gg/pandaglobal
 discord.gg/pandemicexpress
 discord.gg/panoramik
 discord.gg/pantropy
@@ -1750,6 +1800,7 @@ discord.gg/paulscheer
 discord.gg/payday2
 discord.gg/pbzepetto
 discord.gg/pcbuildingsim
+discord.gg/pcgamer
 discord.gg/pcpartpicker
 discord.gg/pdxcon
 discord.gg/perfectworldmobile
@@ -1799,6 +1850,7 @@ discord.gg/playblankos
 discord.gg/playbtw
 discord.gg/playcraft
 discord.gg/playcrucible
+discord.gg/playdate
 discord.gg/playdigious
 discord.gg/playdoggo
 discord.gg/playeverland
@@ -1843,6 +1895,7 @@ discord.gg/poppyworks
 discord.gg/populationzero
 discord.gg/popupdungeon
 discord.gg/poq
+discord.gg/pornhub
 discord.gg/postscriptum
 discord.gg/powerbeatsvr
 discord.gg/powerhaus
@@ -1862,6 +1915,7 @@ discord.gg/prohenis
 discord.gg/projectarrhythmia
 discord.gg/projectcarsgame
 discord.gg/projectwinter
+discord.gg/proletariat
 discord.gg/pronation
 discord.gg/protoball
 discord.gg/proximauniverse
@@ -1949,10 +2003,12 @@ discord.gg/raygungadabout
 discord.gg/rayvolpe
 discord.gg/razer
 discord.gg/rbm
+discord.gg/realmroyale
 discord.gg/realmsbeyond
 discord.gg/realmserver
 discord.gg/realmwar
 discord.gg/reapermini
+discord.gg/reasonml
 discord.gg/rebellion
 discord.gg/rebelrabbit
 discord.gg/rebelracing
@@ -1989,7 +2045,9 @@ discord.gg/revealed
 discord.gg/revelationonline
 discord.gg/revhead
 discord.gg/rexcellent
+discord.gg/rf
 discord.gg/rfactor2
+discord.gg/rflutterdev
 discord.gg/rgs
 discord.gg/rhythmdr
 discord.gg/rhythmy
@@ -1997,6 +2055,7 @@ discord.gg/ridersrepublic
 discord.gg/riftfrigate
 discord.gg/rig
 discord.gg/rigsofrods
+discord.gg/rin
 discord.gg/ringofelysium
 discord.gg/ringofpain
 discord.gg/riotgamesdevrel
@@ -2016,10 +2075,12 @@ discord.gg/rival-and-cadmium
 discord.gg/rivalmegagun
 discord.gg/riverbond
 discord.gg/rizalmuk
+discord.gg/rk
 discord.gg/rng
 discord.gg/roa
 discord.gg/robeytech
 discord.gg/robleis
+discord.gg/robocraft
 discord.gg/roboquest
 discord.gg/robotality
 discord.gg/robotchampions
@@ -2038,10 +2099,12 @@ discord.gg/rok
 discord.gg/rokaplay
 discord.gg/rol
 discord.gg/rollerchampions
+discord.gg/rome
 discord.gg/romeogamer
 discord.gg/rongaming
 discord.gg/ronimo
 discord.gg/ronnie
+discord.gg/roo
 discord.gg/roomie
 discord.gg/roosterteeth
 discord.gg/rortos
@@ -2061,6 +2124,7 @@ discord.gg/rs2vietnam
 discord.gg/rtfkt
 discord.gg/rubenderonde
 discord.gg/rubi
+discord.gg/rubius
 discord.gg/rudebear
 discord.gg/ruggnar
 discord.gg/rulesofsurvival
@@ -2072,6 +2136,7 @@ discord.gg/runforcover
 discord.gg/runningwithrifles
 discord.gg/rushdownrevolt
 discord.gg/rust
+discord.gg/rust-lang
 discord.gg/rustylake
 discord.gg/rwbyamityarena
 discord.gg/rws
@@ -2158,6 +2223,7 @@ discord.gg/shroud
 discord.gg/shroudoftheavatar
 discord.gg/sidequest
 discord.gg/siegefox
+discord.gg/sigma
 discord.gg/signaldecay
 discord.gg/signalsimulator
 discord.gg/signatureedition
@@ -2274,6 +2340,7 @@ discord.gg/squidsfromspace
 discord.gg/squirrelbytes
 discord.gg/ssg
 discord.gg/ssp
+discord.gg/ssundee
 discord.gg/stackupdotorg
 discord.gg/stadia
 discord.gg/stairway
@@ -2282,6 +2349,8 @@ discord.gg/standoff2
 discord.gg/standuptocancer
 discord.gg/starbase
 discord.gg/starborne
+discord.gg/starcadearcade
+discord.gg/starcolt
 discord.gg/starcontrol
 discord.gg/stardock
 discord.gg/starform
@@ -2305,6 +2374,7 @@ discord.gg/stellarisofficial
 discord.gg/steveaoki
 discord.gg/stfc
 discord.gg/stickwar
+discord.gg/stjudeplaylive
 discord.gg/stonemountain64
 discord.gg/stoneshard
 discord.gg/storiesone
@@ -2364,6 +2434,7 @@ discord.gg/tabletop-playground
 discord.gg/tabletopsimulator
 discord.gg/tacticool
 discord.gg/taern
+discord.gg/tailwind
 discord.gg/takelings
 discord.gg/takoboystudios
 discord.gg/taleoftoast
@@ -2378,8 +2449,8 @@ discord.gg/tankwars
 discord.gg/tasharen
 discord.gg/tbull
 discord.gg/tdp4
-discord.gg/team-aaa
 discord.gg/team17
+discord.gg/team-aaa
 discord.gg/teamalliance
 discord.gg/teamfighttactics
 discord.gg/teamheretics
@@ -2388,6 +2459,7 @@ discord.gg/teamkano
 discord.gg/teamliquid
 discord.gg/teammeat
 discord.gg/teamquesogg
+discord.gg/teamreborn
 discord.gg/teamreciprocity
 discord.gg/teamrival
 discord.gg/teamsecret
@@ -2475,6 +2547,7 @@ discord.gg/tjf
 discord.gg/tkblackopscoldwar
 discord.gg/tkc
 discord.gg/tkfortnite
+discord.gg/tksplitgate
 discord.gg/tkvalheim
 discord.gg/tkwarzone
 discord.gg/tkwildrift
@@ -2495,6 +2568,7 @@ discord.gg/tokicrew
 discord.gg/tokio
 discord.gg/tol
 discord.gg/tomb-raider
+discord.gg/tomspander
 discord.gg/tontonfriends
 discord.gg/toonboom
 discord.gg/toplitz
@@ -2562,6 +2636,7 @@ discord.gg/turtlerockstudios
 discord.gg/twa
 discord.gg/twdrts
 discord.gg/tweakers
+discord.gg/twilight-rs
 discord.gg/twinsaga
 discord.gg/twistzz
 discord.gg/twitchdev
@@ -2642,6 +2717,7 @@ discord.gg/vindictus
 discord.gg/viomice
 discord.gg/vipax
 discord.gg/virtualbasement
+discord.gg/virtuaverse
 discord.gg/virus
 discord.gg/visage
 discord.gg/visionrecordings
@@ -2661,9 +2737,11 @@ discord.gg/voxmachinae
 discord.gg/vqgaming
 discord.gg/vrchat
 discord.gg/vtubestudio
+discord.gg/vue
 discord.gg/wadjeteyegames
 discord.gg/wally
 discord.gg/wanderlost
+discord.gg/wankilstudio
 discord.gg/wantedinhell
 discord.gg/warbrokers
 discord.gg/warcave
@@ -2756,12 +2834,14 @@ discord.gg/wwc
 discord.gg/wwo
 discord.gg/wwz
 discord.gg/wyrmwoodgaming
-discord.gg/x-komago
-discord.gg/x13
 discord.gg/x6tence
+discord.gg/x13
+discord.gg/x-komago
 discord.gg/xbox
 discord.gg/xboxuk
+discord.gg/xcodeh
 discord.gg/xera
+discord.gg/xisuma
 discord.gg/xnestorio
 discord.gg/xseedgames
 discord.gg/xset
@@ -2775,6 +2855,7 @@ discord.gg/yellowcakegames
 discord.gg/yesyourgrace
 discord.gg/ylands
 discord.gg/yorg-io
+discord.gg/youcookcuisine
 discord.gg/younghorses
 discord.gg/youngmulti
 discord.gg/youredm
@@ -2804,5 +2885,6 @@ discord.gg/zps
 discord.gg/zuhn
 discord.gg/zulaeurope
 discord.gg/zumba
+discord.gg/zumbiblocks
 discord.gg/zweihander
 discord.gg/zwiftinsider
