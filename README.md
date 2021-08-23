@@ -61,6 +61,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `MORE_STICKERS` — Guild has 60 sticker slots no matter how many it had before. Not used in server boosting.
 
+* `NEW_THREAD_PERMISSIONS` — Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
+
 * `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
