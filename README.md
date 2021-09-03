@@ -69,7 +69,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists. 
 
-* `PREVIEW_ENABLED` - Enables [lurking](https://discord.com/developers/docs/game-and-server-management/special-channels#lurker-mode) via discovery and invites while logged out, as well as from crossposted announcements from news channels. 
+* `PREVIEW_ENABLED` - Allows a user to view the server without passing membership gating.
 
 * `PRIVATE_THREADS` — Ability to create private threads
 
