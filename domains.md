@@ -18,7 +18,7 @@
 | discordmerch.com      | Merch store                              |
 | discordpartygames.com | Voice channel activity API host          |
 | discord-activities.com| Voice channel activity API host          |
-| discord-activities.com| Voice channel activity data management   |
+| discordactivities.com | Voice channel activity data management   |
 | discordsays.com       | Voice channel activity host              |
 | discordstatus.com     | Status page                              |
 
