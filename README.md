@@ -59,9 +59,10 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
 
 * `MONETIZATION_ENABLED` — Allows the server to set a team in dev portal to cash out ticketed stage payouts
+
 * `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
-* `MORE_STICKERS` — Adds 60 sticker slots no matter how many it had before. Not used in server boosting.
+* `MORE_STICKERS` — Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
 
 * `NEW_THREAD_PERMISSIONS` — Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
 
