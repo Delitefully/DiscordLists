@@ -15,7 +15,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 #### verified.txt - Verified servers ([dis.gd/vfs](dis.gd/vfs))
  * Features: **`VERIFIED,`**`VANITY_URL, DISCOVERABLE, INVITE_SPLASH`
- * Certain old verified guilds that meet the requirements below have the `BANNER` feature.
+ * Certain old verified guilds that meet the requirements below still have their banner because that was a vfs perk in the past. They do not have the `BANNER` feature tough, nor can they edit their banner.
    * The guild was verified before the verification program was [reworked](https://dis.gd/communityprograms).
    * The guild had boosting tier 2 at the time they switched to the reworked program.
    * The guild lost boosting tier 2 a few days later
