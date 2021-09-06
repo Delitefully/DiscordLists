@@ -15,16 +15,20 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 #### verified.txt - Verified servers ([dis.gd/vfs](dis.gd/vfs))
  * Features: **`VERIFIED,`**`VANITY_URL, DISCOVERABLE, INVITE_SPLASH`
+ * Certain old verified guilds that meet the requirements below have the `BANNER` feature.
+   * The guild was verified before the verification program was [reworked](https://dis.gd/communityprograms).
+   * The guild had boosting tier 2 at the time they switched to the reworked program.
+   * The guild lost boosting tier 2 a few days later
 
 #### HypeSquad Event Organizer servers ([dis.gd/hypesquad](https://dis.gd/hypesquad))
 * Features: `VANITY_URL, VIP_REGIONS, INVITE_SPLASH`
 * The server owner will have the HypeSquad Events badge.
 
 #### Community servers ([dis.gd/communityservers](https://dis.gd/communityservers))
-* Features: `COMMUNITY, NEWS`
+* Features: **`COMMUNITY, `**`NEWS`
 
 #### Student Hubs ([dis.gd/studenthubs](https://dis.gd/studenthubs))
-* Features: `HUB`
+* Features: **`HUB`**
 
 ---- 
 
