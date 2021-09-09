@@ -17,14 +17,14 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
  * Features: **`VERIFIED,`**`VANITY_URL, DISCOVERABLE, INVITE_SPLASH`
 
 #### HypeSquad Event Organizer servers ([dis.gd/hypesquad](https://dis.gd/hypesquad))
-* Features: `VANITY_URL, VIP_REGIONS, INVITE_SPLASH`
+* Features: **`VANITY_URL, `**`VIP_REGIONS, INVITE_SPLASH`
 * The server owner will have the HypeSquad Events badge.
 
 #### Community servers ([dis.gd/communityservers](https://dis.gd/communityservers))
-* Features: `COMMUNITY, NEWS`
+* Features: **`COMMUNITY, `**`NEWS`
 
 #### Student Hubs ([dis.gd/studenthubs](https://dis.gd/studenthubs))
-* Features: `HUB`
+* Features: **`HUB`**
 
 ---- 
 
