@@ -127,7 +127,6 @@ dis.gd/installfail
 dis.gd/iosgofast
 dis.gd/iwd
 dis.gd/iwd-events
-dis.gd/jake
 dis.gd/jauz
 dis.gd/jelly-atsundown
 dis.gd/jhzer
