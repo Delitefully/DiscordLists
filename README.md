@@ -100,6 +100,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `WELCOME_SCREEN_ENABLED` - Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
 
+* `PREMIUM_TIER_3_OVERRIDE` - Forces the server to server boosting level 3 (specifically created by Discord Staff Member "Jethro" for their personal server)
+
 ----
 
 #### Community program feature comparison 
