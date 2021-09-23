@@ -236,7 +236,6 @@ dis.gd/talk
 dis.gd/teamchaos
 dis.gd/templates
 dis.gd/terms
-dis.gd/test
 dis.gd/testflight
 dis.gd/thinknoodlesbadnorth
 dis.gd/thnxcya
