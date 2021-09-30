@@ -41,6 +41,7 @@ dis.gd/cprog
 dis.gd/crazysam-rt
 dis.gd/credit
 dis.gd/crosscodetw
+dis.gd/customroleiconsfaq
 dis.gd/daithi-koth
 dis.gd/darksiderstw
 dis.gd/devfeedback
