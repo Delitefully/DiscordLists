@@ -84,6 +84,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven-day archive time for threads.
 
+* `TEXT_IN_VOICE_ENABLED` - Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
+
 * `THREADS_ENABLED` — Enabled threads early access. 
 
 * `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. Also gives the premium thread features.
