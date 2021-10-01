@@ -42,7 +42,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `DISCOVERABLE_DISABLED` — Guild is permanently removed from Discovery by Discord.
 
-* `ENABLED_DISCOVERABLE_BEFORE` - Enabled Server Discovery before the Discovery Checklist launched.
+* `ENABLED_DISCOVERABLE_BEFORE` - Given to servers that have enabled Discovery at any point.
 
 * ~~`FEATURABLE`~~ - Deprecated
 
@@ -91,6 +91,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. Also gives the premium thread features.
 
 * `THREE_DAY_THREAD_ARCHIVE` — Ability to use three-day archive time for threads.
+
+* `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` - Unknown, presumably used for testing changes to the thread default auto archive duration.
 
 * `TICKETED_EVENTS_ENABLED`— Ability to view and manage ticketed events.
 
