@@ -93,7 +93,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * `THREE_DAY_THREAD_ARCHIVE` — Ability to use three-day archive time for threads.
 
 * `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` - Unknown, presumably used for testing changes to the thread default auto archive duration.
-* 
+
 * `TICKETED_EVENTS_ENABLED`— Ability to view and manage ticketed events.
 
 * `VANITY_URL` - Ability to set a vanity URL (custom discord.gg invite link).
