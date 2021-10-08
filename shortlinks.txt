@@ -246,6 +246,7 @@ dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
 dis.gd/transparency20
+dis.gd/transparencyh12021
 dis.gd/trickcordtreat
 dis.gd/unsupportedbugs
 dis.gd/userid
