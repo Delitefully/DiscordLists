@@ -106,6 +106,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `PREMIUM_TIER_3_OVERRIDE` - Forces the server to server boosting level 3 (specifically created by Discord Staff Member "Jethro" for their personal server)
 
+* `ROLE_SUBSCRIPTIONS_ENABLED` - Ability to view and manage role subscriptions.
+
 ----
 
 #### Community program feature comparison 
