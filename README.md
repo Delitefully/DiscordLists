@@ -30,11 +30,11 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 #### Guild feature glossary
 
-* `ANIMATED_BANNER` - Ability to upload an animated [banner image](https://discord.com/developers/docs/game-and-server-management/vanity-perks#server-banner-background) that will display above the channel list.
+* `ANIMATED_BANNER` - Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 
 * `ANIMATED_ICON` - Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 
-* `BANNER` - Ability to set a [banner image](https://discord.com/developers/docs/game-and-server-management/vanity-perks#server-banner-background) that will display above the channel list.
+* `BANNER` - Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 
 * `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 
@@ -91,8 +91,6 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * `ROLE_SUBSCRIPTIONS_ENABLED` - Ability to view and manage role subscriptions.
 
 * `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven-day archive time for threads.
-
-* `TEXT_IN_VOICE_ENABLED` - Ability to use temporary text channels in voice.
 
 * `TEXT_IN_VOICE_ENABLED` - Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 
