@@ -20,4 +20,4 @@
 | 131072  | 1<<17   | VERIFIED_DEVELOPER         | Early Verified Bot Developer                      | ✓      |
 | 262144  | 1<<18   | CERTIFIED_MODERATOR        | Discord Certified Moderator                       | ✓      |
 | 524288  | 1<<19   | BOT_HTTP_INTERACTIONS      | Unknown                                           |        |
-| 1048576 | 1<<20   | SPAMMER                    | Unknown                                           |        |
+| 1048576 | 1<<20   | SPAMMER                    | Known Spammer                                     | ✓      |
