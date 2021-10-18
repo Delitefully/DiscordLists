@@ -50,9 +50,9 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * ~~`FORCE_RELAY`~~ — Shards connections to the guild to different nodes that relay information between each other.
 
-* `HAS_DIRECTORY_ENTRY` — Unknown
+* `HAS_DIRECTORY_ENTRY` — Guild is in a directory channel
 
-* `HUB` — [Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
+* `HUB` — [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
@@ -94,7 +94,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `TEXT_IN_VOICE_ENABLED` - Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 
-* `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. Also gives the premium thread features.
+* `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
 
 * `THREADS_ENABLED` — Enabled threads early access.
 
