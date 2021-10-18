@@ -50,7 +50,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * ~~`FORCE_RELAY`~~ — Shards connections to the guild to different nodes that relay information between each other.
 
-* `HAS_DIRECTORY_ENTRY` — Guild is in a directory channel
+* `HAS_DIRECTORY_ENTRY` — Guild is in a directory channel.
 
 * `HUB` — [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
 
