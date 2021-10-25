@@ -27,7 +27,7 @@ dis.gd/bts-minionmasters
 dis.gd/bughunting
 dis.gd/bugreport
 dis.gd/bugs
-dis.gd/bug_tool
+dis.gd/bug-tool
 dis.gd/buildyourkingdom
 dis.gd/childsplaydiscordhype
 dis.gd/classroom
