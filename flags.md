@@ -19,5 +19,5 @@
 | 65536   | 1<<16   | VERIFIED_BOT               | Verified Bot                                      | ✓      |
 | 131072  | 1<<17   | VERIFIED_DEVELOPER         | Early Verified Bot Developer                      | ✓      |
 | 262144  | 1<<18   | CERTIFIED_MODERATOR        | Discord Certified Moderator                       | ✓      |
-| 524288  | 1<<19   | BOT_HTTP_INTERACTIONS      | Bot has set an interactions endpoint url          |        |
+| 524288  | 1<<19   | BOT_HTTP_INTERACTIONS      | Bot has set an interactions endpoint url          | ✓      |
 | 1048576 | 1<<20   | SPAMMER                    | User is disabled for being a spammer              |        |
