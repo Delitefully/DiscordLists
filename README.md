@@ -54,6 +54,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `HUB` — [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
 
+* `INTERNAL_EMPLOYEE_ONLY` - Used for giving internal guilds access to certain experiments.
+
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
 * ~~`LURKABLE`~~ - Deprecated
