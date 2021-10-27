@@ -266,5 +266,6 @@ dis.gd/wumpus
 dis.gd/wumpus4pride
 dis.gd/wumpusfundraiser
 dis.gd/xboxnitro2020
+dis.gd/xboxnitropromo2021c
 dis.gd/ypttartists
 dis.gd/YouTube-Premium
