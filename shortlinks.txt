@@ -163,6 +163,7 @@ dis.gd/modbadge
 dis.gd/moderation
 dis.gd/molt
 dis.gd/mrfruitatsundown
+dis.gd/msg-intent-policy
 dis.gd/multistream
 dis.gd/mumbojumbo
 dis.gd/mytickets
@@ -269,4 +270,3 @@ dis.gd/xboxnitro2020
 dis.gd/xboxnitropromo2021c
 dis.gd/ypttartists
 dis.gd/YouTube-Premium
-dis.gd/msg-intent-policy
