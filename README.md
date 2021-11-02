@@ -92,6 +92,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `ROLE_SUBSCRIPTIONS_ENABLED` - Ability to view and manage role subscriptions.
 
+* `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` - Allows servers members to purchase role subscriptions.
+
 * `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven-day archive time for threads.
 
 * `TEXT_IN_VOICE_ENABLED` - Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
