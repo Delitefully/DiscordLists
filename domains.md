@@ -14,7 +14,7 @@
 | discord.store         | Merch store                              |
 | discord.tools         | Internal tools                           |
 | discordapp.com        | Old app, marketing website, and API; CDN |
-| discordapp.net        | Media Proxy                              |
+| discordapp.net        | Media Proxy, Dispatch client download    |
 | discordmerch.com      | Merch store                              |
 | discordpartygames.com | Voice channel activity API host          |
 | discord-activities.com| Voice channel activity API host          |
