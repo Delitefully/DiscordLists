@@ -36,7 +36,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `BANNER` - Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 
-* `CHANNEL_BANNER` - Ability to set a channel banner that will display above the member list.
+* `CHANNEL_BANNER` - Ability to set a channel banner that will display above the Channel Information sidebar.
 
 * `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 
