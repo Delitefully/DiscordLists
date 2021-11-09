@@ -64,6 +64,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
 
+* `MEMBER_PROFILES` — Allows members to customize their avatar, banner and bio for that server.
+
 * `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
 
 * `MONETIZATION_ENABLED` — Allows the server to set a team in dev portal to cash out ticketed stage payouts
