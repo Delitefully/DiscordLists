@@ -1956,6 +1956,7 @@ discord.gg/putther
 discord.gg/puuki
 discord.gg/pvos
 discord.gg/pvzheroes
+discord.gg/pycord
 discord.gg/pyrocynical
 discord.gg/pyrojoe
 discord.gg/python
