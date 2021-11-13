@@ -35,6 +35,7 @@ dis.gd/cohhcarnage
 dis.gd/communityprograms
 dis.gd/communityservers
 dis.gd/communitystories
+dis.gd/community-settings-c
 dis.gd/contact
 dis.gd/coolplaylist
 dis.gd/cprog
@@ -203,6 +204,7 @@ dis.gd/safety
 dis.gd/sarinha3
 dis.gd/sayhi2servideo
 dis.gd/scalingwithrust
+dis.gd/scheduled_events_c
 dis.gd/security
 dis.gd/serverboosting
 dis.gd/serverid
@@ -269,4 +271,4 @@ dis.gd/wumpusfundraiser
 dis.gd/xboxnitro2020
 dis.gd/xboxnitropromo2021c
 dis.gd/ypttartists
-dis.gd/YouTube-Premium
+dis.gd/youtube-premium
