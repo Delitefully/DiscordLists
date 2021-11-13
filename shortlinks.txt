@@ -97,6 +97,8 @@ dis.gd/exam
 dis.gd/fancyfancyandroidthings
 dis.gd/feedback
 dis.gd/fightingcowboyos
+dis.gd/fighting-spam
+dis.gd/fighting-spam-c
 dis.gd/findmyid
 dis.gd/fitz-lastyear
 dis.gd/fodblog
