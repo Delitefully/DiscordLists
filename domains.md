@@ -2,7 +2,7 @@
 
 | Domain                | Description                              |
 |-----------------------|------------------------------------------|
-| dis.gd                | Marketing URL shortner                   |
+| dis.gd                | Marketing URL shortener                  |
 | discord.co            | Admin panel, internal tools              |
 | discord.com           | New app, marketing website, API host     |
 | discord.design        | Dribbble profile shortlink               |
