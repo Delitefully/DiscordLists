@@ -9,6 +9,7 @@
 | discord.dev           | Developer site shortlinks                |
 | discord.gg            | Invite shortlinks                        |
 | discord.gift          | Gift shortlinks                          |
+| discord.gifts         | Another gift shortlinks domain           |
 | discord.media         | Voice servers                            |
 | discord.new           | Template shortlinks                      |
 | discord.store         | Merch store                              |
