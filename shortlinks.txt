@@ -176,6 +176,7 @@ dis.gd/netneutrality
 dis.gd/nexxuzworld
 dis.gd/niscordditro
 dis.gd/nitro
+dis.gd/nitrobogo
 dis.gd/nitrochanges
 dis.gd/nitrotab
 dis.gd/noisecancellation
