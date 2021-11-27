@@ -2,19 +2,20 @@
 
 | Domain                | Description                              |
 |-----------------------|------------------------------------------|
-| dis.gd                | Marketing URL shortner                   |
+| dis.gd                | Marketing URL shortener                  |
 | discord.co            | Admin panel, internal tools              |
 | discord.com           | New app, marketing website, API host     |
 | discord.design        | Dribbble profile shortlink               |
 | discord.dev           | Developer site shortlinks                |
 | discord.gg            | Invite shortlinks                        |
 | discord.gift          | Gift shortlinks                          |
+| discord.gifts         | Another gift shortlinks domain           |
 | discord.media         | Voice servers                            |
 | discord.new           | Template shortlinks                      |
 | discord.store         | Merch store                              |
 | discord.tools         | Internal tools                           |
 | discordapp.com        | Old app, marketing website, and API; CDN |
-| discordapp.net        | Media Proxy                              |
+| discordapp.net        | Media Proxy, Client Downloads            |
 | discordmerch.com      | Merch store                              |
 | discordpartygames.com | Voice channel activity API host          |
 | discord-activities.com| Voice channel activity API host          |

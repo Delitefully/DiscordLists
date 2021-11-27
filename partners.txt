@@ -993,6 +993,7 @@ discord.gg/gotaga
 discord.gg/gotchaleague
 discord.gg/gou
 discord.gg/gr
+discord.gg/graphisme
 discord.gg/grandorder
 discord.gg/grandsummoners
 discord.gg/graser
@@ -1955,6 +1956,7 @@ discord.gg/putther
 discord.gg/puuki
 discord.gg/pvos
 discord.gg/pvzheroes
+discord.gg/pycord
 discord.gg/pyrocynical
 discord.gg/pyrojoe
 discord.gg/python

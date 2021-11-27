@@ -36,6 +36,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `BANNER` - Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 
+* `CHANNEL_BANNER` - Ability to set a channel banner that will display above the Channel Information sidebar.
+
 * `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 
 * `COMMUNITY` - [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
@@ -61,6 +63,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * ~~`LURKABLE`~~ - Deprecated
 
 * `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
+
+* `MEMBER_PROFILES` — Allows members to customize their avatar, banner and bio for that server.
 
 * `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
 
@@ -91,6 +95,8 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * `ROLE_ICONS` - Ability to set an image or emoji as a role icon.
 
 * `ROLE_SUBSCRIPTIONS_ENABLED` - Ability to view and manage role subscriptions.
+
+* `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` - Allows servers members to purchase role subscriptions.
 
 * `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven-day archive time for threads.
 

@@ -37,6 +37,7 @@ dis.gd/cohhcarnage
 dis.gd/communityprograms
 dis.gd/communityservers
 dis.gd/communitystories
+dis.gd/community-settings-c
 dis.gd/contact
 dis.gd/coolplaylist
 dis.gd/cprog
@@ -105,6 +106,8 @@ dis.gd/exam
 dis.gd/fancyfancyandroidthings
 dis.gd/feedback
 dis.gd/fightingcowboyos
+dis.gd/fighting-spam
+dis.gd/fighting-spam-c
 dis.gd/findmyid
 dis.gd/fitz-lastyear
 dis.gd/fodblog
@@ -178,6 +181,7 @@ dis.gd/modbadge
 dis.gd/moderation
 dis.gd/molt
 dis.gd/mrfruitatsundown
+dis.gd/msg-intent-policy
 dis.gd/multistream
 dis.gd/mumbojumbo
 dis.gd/mytickets
@@ -221,6 +225,7 @@ dis.gd/safety
 dis.gd/sarinha3
 dis.gd/sayhi2servideo
 dis.gd/scalingwithrust
+dis.gd/scheduled_events_c
 dis.gd/security
 dis.gd/serveravatarsfaq
 dis.gd/serverboosting
@@ -273,6 +278,7 @@ dis.gd/transparency20
 dis.gd/transparencyh12021
 dis.gd/trickcordtreat
 dis.gd/ttssliderfaq
+dis.gd/tw-aff_atrioc
 dis.gd/unsupportedbugs
 dis.gd/userid
 dis.gd/utdallas-blog
@@ -300,3 +306,4 @@ dis.gd/xboxnitropromo2021c
 dis.gd/youtube-premium
 dis.gd/youtube-premium-faq
 dis.gd/ypttartists
+dis.gd/youtube-premium
