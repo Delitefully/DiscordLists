@@ -181,6 +181,7 @@ dis.gd/modbadge
 dis.gd/moderation
 dis.gd/molt
 dis.gd/mrfruitatsundown
+dis.gd/msg-intent-faq
 dis.gd/msg-intent-policy
 dis.gd/multistream
 dis.gd/mumbojumbo
