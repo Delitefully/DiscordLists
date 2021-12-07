@@ -89,6 +89,7 @@ dis.gd/dma452
 dis.gd/dma453
 dis.gd/dma454
 dis.gd/dma531
+dis.gd/dmcaform
 dis.gd/dnsswap
 dis.gd/docs
 dis.gd/donate
@@ -239,7 +240,7 @@ dis.gd/skyyart
 dis.gd/slashcommands
 dis.gd/snowblog18
 dis.gd/snowsgiving
-dis.gd/snowsgivingmerch-co 
+dis.gd/snowsgivingmerch-co
 dis.gd/snowsgivingyt
 dis.gd/snowsgiving-2021-shorts-submission
 dis.gd/snowsgiving-co
