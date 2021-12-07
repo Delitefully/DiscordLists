@@ -239,6 +239,7 @@ dis.gd/skyyart
 dis.gd/slashcommands
 dis.gd/snowblog18
 dis.gd/snowsgiving
+dis.gd/snowsgivingmerch-co 
 dis.gd/snowsgivingyt
 dis.gd/snowsgiving-2021-shorts-submission
 dis.gd/snowsgiving-co
