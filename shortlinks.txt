@@ -52,6 +52,8 @@ dis.gd/devnewsletter
 dis.gd/devovo
 dis.gd/devstoreform
 dis.gd/devsupport
+dis.gd/dglbugs
+dis.gd/dglfeedback
 dis.gd/dgtvcommunity
 dis.gd/discord101
 dis.gd/discordswim4
