@@ -42,19 +42,19 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `COMMUNITY` - [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 
-* `DISCOVERABLE_DISABLED` — Guild is permanently removed from Discovery by Discord.
+* `DISCOVERABLE_DISABLED` - Guild is permanently removed from Discovery by Discord.
 
 * `DISCOVERABLE` - Visible in Server Discovery.
 
 * `ENABLED_DISCOVERABLE_BEFORE` - Given to servers that have enabled Discovery at any point.
 
-* ~~`FEATURABLE`~~ - Deprecated
+* ~~`FEATURABLE`~~ - ~~Previously used to control which serveres were displayed under the "Featured" category in discovery~~ Deprecated
 
-* ~~`FORCE_RELAY`~~ — Shards connections to the guild to different nodes that relay information between each other.
+* ~~`FORCE_RELAY`~~ - Shards connections to the guild to different nodes that relay information between each other.
 
-* `HAS_DIRECTORY_ENTRY` — Guild is in a directory channel.
+* `HAS_DIRECTORY_ENTRY` - Guild is in a directory channel.
 
-* `HUB` — [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
+* `HUB` - [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
 
 * `INTERNAL_EMPLOYEE_ONLY` - Restricts the guild so that only users with the staff flag can join.
 
@@ -64,19 +64,19 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
 
-* `MEMBER_PROFILES` — Allows members to customize their avatar, banner and bio for that server.
+* `MEMBER_PROFILES` - Allows members to customize their avatar, banner and bio for that server.
 
 * `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
 
-* `MONETIZATION_ENABLED` — Allows the server to set a team in dev portal to cash out ticketed stage payouts
+* `MONETIZATION_ENABLED` - Allows the server to set a team in dev portal to cash out ticketed stage payouts
 
 * `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 
-* `MORE_STICKERS` — Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
+* `MORE_STICKERS` - Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
 
 * `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
 
-* `NEW_THREAD_PERMISSIONS` — Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
+* `NEW_THREAD_PERMISSIONS` - Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
 
 * `PARTNERED` - Partner badge near the server name and in mutual server lists.
 
@@ -84,7 +84,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `PREVIEW_ENABLED` - Allows a user to view the server without passing membership gating.
 
-* `PRIVATE_THREADS` — Ability to create private threads
+* `PRIVATE_THREADS` - Ability to create private threads
 
 * ~~`PUBLIC_DISABLED`~~ - Deprecated in favor of `COMMUNITY`
 
@@ -98,19 +98,19 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` - Allows servers members to purchase role subscriptions.
 
-* `SEVEN_DAY_THREAD_ARCHIVE` — Ability to use seven-day archive time for threads.
+* `SEVEN_DAY_THREAD_ARCHIVE` - Ability to use seven-day archive time for threads.
 
 * `TEXT_IN_VOICE_ENABLED` - Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 
-* `THREADS_ENABLED_TESTING` — Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
+* `THREADS_ENABLED_TESTING` - Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
 
-* `THREADS_ENABLED` — Enabled threads early access.
+* `THREADS_ENABLED` - Enabled threads early access.
 
 * `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` - Unknown, presumably used for testing changes to the thread default auto archive duration.
 
-* `THREE_DAY_THREAD_ARCHIVE` — Ability to use three-day archive time for threads.
+* `THREE_DAY_THREAD_ARCHIVE` - Ability to use three-day archive time for threads.
 
-* `TICKETED_EVENTS_ENABLED`— Ability to view and manage ticketed events.
+* `TICKETED_EVENTS_ENABLED` - Ability to view and manage ticketed events.
 
 * `VANITY_URL` - Ability to set a vanity URL (custom discord.gg invite link).
 
