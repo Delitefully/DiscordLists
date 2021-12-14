@@ -48,7 +48,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `ENABLED_DISCOVERABLE_BEFORE` - Given to servers that have enabled Discovery at any point.
 
-* ~~`FEATURABLE`~~ - ~~Previously used to control which serveres were displayed under the "Featured" category in discovery~~ Deprecated
+* ~~`FEATURABLE`~~ - ~~Previously used to control which serveres were displayed under the "Featured" category in Discovery~~ Deprecated
 
 * ~~`FORCE_RELAY`~~ - Shards connections to the guild to different nodes that relay information between each other.
 
