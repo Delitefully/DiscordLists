@@ -4,7 +4,7 @@ Tracking servers in Discord's community programs.
 
 To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
 
-e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `INVITE_SPLASH", "NEWS", "DISCOVERABLE", "BANNER", "VERIFIED", "VANITY_URL", "ANIMATED_ICON", "FEATURABLE", "VIP_REGIONS", "COMMUNITY`.
+e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"ANIMATED_BANNER", "MEMBER_VERIFICATION_GATE_ENABLED", "DISCOVERABLE", "SEVEN_DAY_THREAD_ARCHIVE", "PREVIEW_ENABLED", "THREE_DAY_THREAD_ARCHIVE", "FEATURABLE", "CHANNEL_BANNER", "VERIFIED", "ROLE_ICONS", "ANIMATED_ICON", "THREADS_ENABLED", "PARTNERED", "VIP_REGIONS", "COMMUNITY", "NEWS", "WELCOME_SCREEN_ENABLED", "MEMBER_PROFILES", "VANITY_URL", "BANNER", "NEW_THREAD_PERMISSIONS", "PRIVATE_THREADS", "INVITE_SPLASH"`.
  
 ----
  
@@ -48,7 +48,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `ENABLED_DISCOVERABLE_BEFORE` - Given to servers that have enabled Discovery at any point.
 
-* ~~`FEATURABLE`~~ - ~~Previously used to control which serveres were displayed under the "Featured" category in Discovery~~ Deprecated
+* ~~`FEATURABLE`~~ - ~~Previously used to control which servers were displayed under the "Featured" category in Discovery~~ Deprecated
 
 * ~~`FORCE_RELAY`~~ - Shards connections to the guild to different nodes that relay information between each other.
 
@@ -74,7 +74,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `MORE_STICKERS` - Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
 
-* `NEWS` - Ability to create and use [~~news~~announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
+* `NEWS` - Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
 
 * `NEW_THREAD_PERMISSIONS` - Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
 
