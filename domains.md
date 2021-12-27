@@ -31,6 +31,7 @@
 | airhornbot.com            | ^                                                                   |
 | bigbeans.solutions        | [April Fools 2017](https://youtu.be/9Z4GW6Vd6NI)                    |
 | watchanimeattheoffice.com | HypeSquad form placeholder/meme                                     |
+| nicememe.website          | [Redirect URL Example](https://discord.com/developers/docs/topics/oauth2#authorization-code-grant-redirect-url-example) |
 
 ## Unused
 
