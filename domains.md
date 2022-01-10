@@ -7,7 +7,7 @@
 | discord.com           | New app, marketing website, API host     |
 | discord.design        | Dribbble profile shortlink               |
 | discord.dev           | Developer site shortlinks                |
-| discord.gg            | Invite shortlinks                        |
+| discord.gg            | Invite shortlinks, Gateway host          |
 | discord.gift          | Gift shortlinks                          |
 | discord.gifts         | Another gift shortlinks domain           |
 | discord.media         | Voice servers                            |
