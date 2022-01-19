@@ -10,7 +10,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/879864070101172255/0214576f3c33e4026a72f248c11d2292.webp?size=80) | 879864070101172255 | Sketchy Artist | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863881349087252/7bb9cd8518723b74c9a1d260cd177f24.webp?size=80) | 879863881349087252 | Awkword | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067389634314250/9bd4b9e21576f14f09a9284d45640a9e.webp?size=80) | 878067389634314250 | Doodle Crew | 1 | 16 |
-| ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/ea5349b472917347d60e09fcdbf65af1.webp?size=80) | 879863686565621790 | Letter Tile | 1 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80) | 879863686565621790 | Letter League | 1 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863976006127627/930f9cfe504211a130419e731babc597.webp?size=80) | 879863976006127627 | Word Snacks | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
