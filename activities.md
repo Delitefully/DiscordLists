@@ -15,7 +15,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Ocho (Old 'CG4 Prod')| 0 | 8 |
-|   | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.)Application deleted | 0 | 12 |
+|   | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) Application deleted | 0 | 12 |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -27,7 +27,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/891001866073296967/ab9c4e0add01dc8934a336bbc947738e.webp?size=80) | 891001866073296967 | Decoders Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev(Also known as checkers in the park) | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as checkers in the park) | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev | 0 | 8 |
 ### Staging versions
 | Icon | Application ID | Application name | Boost level | Max participants |
