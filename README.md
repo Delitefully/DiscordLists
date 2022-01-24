@@ -28,99 +28,57 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 ---- 
 
-#### Guild feature glossary
+Guild Features | Description
+------------ | -------------
+`ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
+`ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
+`BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
+`COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
+`COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
+`DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
+`DISCOVERABLE` | Visible in Server Discovery.
+`ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
+`HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
+`HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
+`INTERNAL_EMPLOYEE_ONLY` | Restricts the guild so that only users with the staff flag can join.
+`INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
+`MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
+`MEMBER_VERIFICATION_GATE_ENABLED` | Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
+`MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to cash out ticketed stage payouts
+`MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
+`MORE_STICKERS` | Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
+`NEWS` | Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
+`NEW_THREAD_PERMISSIONS` | Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
+`PARTNERED` | Partner badge near the server name and in mutual server lists.
+`PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3 (specifically created by Discord Staff Member "Jethro" for their personal server)
+`PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
+`PRIVATE_THREADS` | Ability to create private threads
+`RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
+`ROLE_ICONS` | Ability to set an image or emoji as a role icon.
+`ROLE_SUBSCRIPTIONS_ENABLED` | Ability to view and manage role subscriptions.
+`ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` | Allows servers members to purchase role subscriptions.
+`SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
+`TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
+`THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
+`THREADS_ENABLED` | Enabled threads early access.
+`THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` | Unknown, presumably used for testing changes to the thread default auto archive duration.
+`THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
+`TICKETED_EVENTS_ENABLED` | Ability to view and manage ticketed events.
+`VANITY_URL` | Ability to set a vanity URL (custom discord.gg invite link).
+`VERIFIED` | Verification checkmark near the server name and in mutual server lists.
+`VIP_REGIONS` | ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate
+`WELCOME_SCREEN_ENABLED` | Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
 
-* `ANIMATED_BANNER` - Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
+Deprecated Guild Features | Description
+------------ | -------------
+`CHANNEL_BANNER` | Ability to set a channel banner that will display above the Channel Information sidebar.
+`PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
+`PUBLIC` | Deprecated in favor of `COMMUNITY`
+`FEATURABLE` | Previously used to control which servers were displayed under the "Featured" category in Discovery
+`FORCE_RELAY` | Shards connections to the guild to different nodes that relay information between each other.
+`LURKABLE` | N/A
+`MEMBER_LIST_DISABLED` | Created for the Fortnite server blackout event on Oct 13, 2019, when viewing the member list it would show "There's nothing to see here.".
 
-* `ANIMATED_ICON` - Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
-
-* `BANNER` - Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
-
-* ~~`CHANNEL_BANNER` - Ability to set a channel banner that will display above the Channel Information sidebar.~~ Depreciated
-
-* `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
-
-* `COMMUNITY` - [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
-
-* `DISCOVERABLE_DISABLED` - Guild is permanently removed from Discovery by Discord.
-
-* `DISCOVERABLE` - Visible in Server Discovery.
-
-* `ENABLED_DISCOVERABLE_BEFORE` - Given to servers that have enabled Discovery at any point.
-
-* ~~`FEATURABLE`~~ - ~~Previously used to control which servers were displayed under the "Featured" category in Discovery~~ Depreciated
-
-* ~~`FORCE_RELAY`~~ - Shards connections to the guild to different nodes that relay information between each other.
-
-* `HAS_DIRECTORY_ENTRY` - Guild is in a directory channel.
-
-* `HUB` - [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
-
-* `INTERNAL_EMPLOYEE_ONLY` - Restricts the guild so that only users with the staff flag can join.
-
-* `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
-
-* ~~`LURKABLE`~~ - Depreciated
-
-* ~~`MEMBER_LIST_DISABLED` - Created for the Fortnite server blackout event on Oct 13, 2019, when viewing the member list it would show "There's nothing to see here.".~~ Depreciated
-
-* `MEMBER_PROFILES` - Allows members to customize their avatar, banner and bio for that server.
-
-* `MEMBER_VERIFICATION_GATE_ENABLED` - Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
-
-* `MONETIZATION_ENABLED` - Allows the server to set a team in dev portal to cash out ticketed stage payouts
-
-* `MORE_EMOJI` - Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
-
-* `MORE_STICKERS` - Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
-
-* `NEWS` - Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
-
-* `NEW_THREAD_PERMISSIONS` - Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
-
-* `PARTNERED` - Partner badge near the server name and in mutual server lists.
-
-* `PREMIUM_TIER_3_OVERRIDE` - Forces the server to server boosting level 3 (specifically created by Discord Staff Member "Jethro" for their personal server)
-
-* `PREVIEW_ENABLED` - Allows a user to view the server without passing membership gating.
-
-* `PRIVATE_THREADS` - Ability to create private threads
-
-* ~~`PUBLIC_DISABLED`~~ - Depreciated in favor of `COMMUNITY`
-
-* ~~`PUBLIC`~~ - Depreciated in favor of `COMMUNITY`
-
-* `RELAY_ENABLED` - Shards connections to the guild to different nodes that relay information between each other.
-
-* `ROLE_ICONS` - Ability to set an image or emoji as a role icon.
-
-* `ROLE_SUBSCRIPTIONS_ENABLED` - Ability to view and manage role subscriptions.
-
-* `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` - Allows servers members to purchase role subscriptions.
-
-* `SEVEN_DAY_THREAD_ARCHIVE` - Ability to use seven-day archive time for threads.
-
-* `TEXT_IN_VOICE_ENABLED` - Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
-
-* `THREADS_ENABLED_TESTING` - Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
-
-* `THREADS_ENABLED` - Enabled threads early access.
-
-* `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` - Unknown, presumably used for testing changes to the thread default auto archive duration.
-
-* `THREE_DAY_THREAD_ARCHIVE` - Ability to use three-day archive time for threads.
-
-* `TICKETED_EVENTS_ENABLED` - Ability to view and manage ticketed events.
-
-* `VANITY_URL` - Ability to set a vanity URL (custom discord.gg invite link).
-
-* `VERIFIED` - Verification checkmark near the server name and in mutual server lists.
-
-* `VIP_REGIONS` - ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Depreciated, replaced with 384kbps max bitrate
-
-* `WELCOME_SCREEN_ENABLED` - Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
-
-----
 
 #### Community program feature comparison 
 
