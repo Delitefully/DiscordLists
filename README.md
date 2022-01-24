@@ -36,7 +36,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `BANNER` - Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 
-* `CHANNEL_BANNER` - Ability to set a channel banner that will display above the Channel Information sidebar.
+* ~~`CHANNEL_BANNER` - Ability to set a channel banner that will display above the Channel Information sidebar.~~ Depreciated
 
 * `COMMERCE` - Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 
@@ -48,7 +48,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `ENABLED_DISCOVERABLE_BEFORE` - Given to servers that have enabled Discovery at any point.
 
-* ~~`FEATURABLE`~~ - ~~Previously used to control which servers were displayed under the "Featured" category in Discovery~~ Deprecated
+* ~~`FEATURABLE`~~ - ~~Previously used to control which servers were displayed under the "Featured" category in Discovery~~ Depreciated
 
 * ~~`FORCE_RELAY`~~ - Shards connections to the guild to different nodes that relay information between each other.
 
@@ -60,7 +60,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `INVITE_SPLASH` - Ability to set a background image that will display on all invite links.
 
-* ~~`LURKABLE`~~ - Deprecated
+* ~~`LURKABLE`~~ - Depreciated
 
 * `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
 
@@ -86,9 +86,9 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `PRIVATE_THREADS` - Ability to create private threads
 
-* ~~`PUBLIC_DISABLED`~~ - Deprecated in favor of `COMMUNITY`
+* ~~`PUBLIC_DISABLED`~~ - Depreciated in favor of `COMMUNITY`
 
-* ~~`PUBLIC`~~ - Deprecated in favor of `COMMUNITY`
+* ~~`PUBLIC`~~ - Depreciated in favor of `COMMUNITY`
 
 * `RELAY_ENABLED` - Shards connections to the guild to different nodes that relay information between each other.
 
@@ -116,7 +116,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * `VERIFIED` - Verification checkmark near the server name and in mutual server lists.
 
-* `VIP_REGIONS` - ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate
+* `VIP_REGIONS` - ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Depreciated, replaced with 384kbps max bitrate
 
 * `WELCOME_SCREEN_ENABLED` - Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
 
