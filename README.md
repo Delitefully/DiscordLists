@@ -62,7 +62,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 * ~~`LURKABLE`~~ - Depreciated
 
-* `MEMBER_LIST_DISABLED` - Hides the member list sidebar.
+* ~~`MEMBER_LIST_DISABLED` - Created for the Fortnite server blackout event on Oct 13, 2019, when viewing the member list it would show "There's nothing to see here.".~~ Depreciated
 
 * `MEMBER_PROFILES` - Allows members to customize their avatar, banner and bio for that server.
 
