@@ -13,7 +13,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 * The server owner will have the Partner badge.
 * Certain very old partnered guilds are missing the `PARTNERED` feature but will have the other features 
 
-#### verified.txt - Verified servers ([dis.gd/vfs](dis.gd/vfs))
+#### verified.txt - Verified servers ([dis.gd/vfs](https://dis.gd/vfs))
  * Features: **`VERIFIED,`**`VANITY_URL, DISCOVERABLE, INVITE_SPLASH`
 
 #### HypeSquad Event Organizer servers ([dis.gd/hypesquad](https://dis.gd/hypesquad))
