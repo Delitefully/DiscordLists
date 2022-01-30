@@ -1,10 +1,13 @@
 # DiscordLists
+![](https://repository-images.githubusercontent.com/160703561/d3ad6f83-69e3-4726-928a-89b0804dca0e)
 
-Tracking servers in Discord's community programs.
+Community-sourced documentation and data collection project around the Discord app.
 
 To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
 
 e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"ANIMATED_BANNER", "MEMBER_VERIFICATION_GATE_ENABLED", "DISCOVERABLE", "SEVEN_DAY_THREAD_ARCHIVE", "PREVIEW_ENABLED", "THREE_DAY_THREAD_ARCHIVE", "FEATURABLE", "CHANNEL_BANNER", "VERIFIED", "ROLE_ICONS", "ANIMATED_ICON", "THREADS_ENABLED", "PARTNERED", "VIP_REGIONS", "COMMUNITY", "NEWS", "WELCOME_SCREEN_ENABLED", "MEMBER_PROFILES", "VANITY_URL", "BANNER", "NEW_THREAD_PERMISSIONS", "PRIVATE_THREADS", "INVITE_SPLASH"`.
+ 
+ *Cover image created by [Dhanish Danu](https://dhanish.xyz/)*.
  
 ----
  
