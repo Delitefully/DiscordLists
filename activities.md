@@ -16,7 +16,6 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Ocho (Old 'CG4 Prod')| 0 | 8 |
-|   | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) Application deleted | 0 | 12 |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -25,12 +24,15 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/f22f4184f95706fef2024a10110d47aa.webp?size=80) | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067427668275241/50be5b98e871a395aa160fefdba5b596.webp?size=80) | 878067427668275241 | Doodle Crew Dev | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/e3681f5161229ff041e9642e93e6a241.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864010126786570/1e47e5a033aa7a853fdea22534292bfe.webp?size=80) | 879864010126786570 | Word Snacks Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879863923543785532/dfd06404877f7bb863430d32c43480fd.webp?size=80) | 879863923543785532 | Awkword Dev | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/891001866073296967/ab9c4e0add01dc8934a336bbc947738e.webp?size=80) | 891001866073296967 | Decoders Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as checkers in the park) | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev | 0 | 8 |
+
 ### Staging versions
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- | --- |
@@ -38,6 +40,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832012730599735326/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012730599735326 | CG2 Staging | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012938398400562/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012938398400562 | CG3 Staging | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025061657280566/832ff736821811d7f41d0ff09b374ccb.webp?size=80) | 832025061657280566 | CG4 Staging | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80) | 893449443918086174 | SpellCast Staging | 0 | 100 |
 
 ### QA versions
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -50,15 +53,21 @@
 ### Unknown applications (May not work)
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- | --- |
+| ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80) | 880559245471408169 | iframe-playground | 0 | 100 |
 |   | 832025993019260929 | CGSample | 0 | 100 |
-|   | 832025179659960360 | Discord Game 14 (Application deleted) |
-|   | 832025219526033439 | Discord Game 15 (Application deleted) |
-|   | 832025249335738428 | Discord Game 16 (Application deleted) |
-|   | 832025333930524692 | Discord Game 17 (Application deleted) |
-|   | 832025385159622656 | Discord Game 18 (Application deleted) |
-|   | 832025431280320532 | Discord Game 19 (Application deleted) |
-|   | 832025470685937707 | Discord Game 20 (Application deleted) |
-|   | 832025799590281238 | Discord Game 21 (Application deleted) |
-|   | 832025857525678142 | Discord Game 22 (Application deleted) | 0 | Unlimited |
-|   | 832025886030168105 | Discord Game 23 (Application deleted) | 0 | Unlimited |
-|   | 832025928938946590 | Discord Game 24 (Application deleted) | 0 | 100 |
+
+### Deleted applications
+| Icon | Application ID | Application name | Boost level | Max participants |
+| --- | --- | --- | --- | --- |
+|   | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) | 0 | 12 |
+|   | 832025179659960360 | Discord Game 14 |
+|   | 832025219526033439 | Discord Game 15 |
+|   | 832025249335738428 | Discord Game 16 |
+|   | 832025333930524692 | Discord Game 17 |
+|   | 832025385159622656 | Discord Game 18 |
+|   | 832025431280320532 | Discord Game 19 |
+|   | 832025470685937707 | Discord Game 20 |
+|   | 832025799590281238 | Discord Game 21 |
+|   | 832025857525678142 | Discord Game 22 | 0 | Unlimited |
+|   | 832025886030168105 | Discord Game 23 | 0 | Unlimited |
+|   | 832025928938946590 | Discord Game 24 | 0 | 100 |
