@@ -41,6 +41,7 @@ Guild Features | Description
 `DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
+`HAD_EARLY_ACTIVITIES_ACCESS` | 
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
 `INTERNAL_EMPLOYEE_ONLY` | Restricts the guild so that only users with the staff flag can join.
