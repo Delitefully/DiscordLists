@@ -32,11 +32,14 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 ---- 
 
 Guild Features | Description
------------- | -------------
+-------------- | ---------------
 `ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 `BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
+`COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
+`CREATOR_MONETIZABLE` |
+`CREATOR_MONETIZABLE_DISABLED` |
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
 `DISCOVERABLE` | Visible in Server Discovery.
