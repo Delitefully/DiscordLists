@@ -9,22 +9,22 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832012774040141894/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012774040141894 | Chess In The Park | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864070101172255/0214576f3c33e4026a72f248c11d2292.webp?size=80) | 879864070101172255 | Sketchy Artist | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863881349087252/7bb9cd8518723b74c9a1d260cd177f24.webp?size=80) | 879863881349087252 | Awkword | 0 | 12 |
-| ![Icon](https://cdn.discordapp.com/app-icons/878067389634314250/9bd4b9e21576f14f09a9284d45640a9e.webp?size=80) | 878067389634314250 | Doodle Crew | 0 | 16 |
+| ![Icon](https://cdn.discordapp.com/app-icons/878067389634314250/9bd4b9e21576f14f09a9284d45640a9e.webp?size=80) | 878067389634314250 | Doodle Crew (Deprecated. Replaced by 'Sketch Heads') | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80) | 902271654783242291 | Sketch Heads | 0 | 16 |
-| ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80) | 879863686565621790 | Letter League | 1 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80) | 879863686565621790 | Letter League (Formerly known as 'Letter Tile') | 1 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863976006127627/930f9cfe504211a130419e731babc597.webp?size=80) | 879863976006127627 | Word Snacks | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Ocho (Old 'CG4 Prod')| 1 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Ocho (Formerly known as 'CG4 Prod'.)| 1 | 8 |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- | --- |
 | ![Icon](https://cdn.discordapp.com/app-icons/763133495793942528/3bf3592c0949620f0e76cb28ab7affd9.webp?size=80) | 763133495793942528 | PN Dev | 0 | 25 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/f22f4184f95706fef2024a10110d47aa.webp?size=80) | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/878067427668275241/50be5b98e871a395aa160fefdba5b596.webp?size=80) | 878067427668275241 | Doodle Crew Dev | 0 | 16 |
+| ![Icon](https://cdn.discordapp.com/app-icons/878067427668275241/50be5b98e871a395aa160fefdba5b596.webp?size=80) | 878067427668275241 | Doodle Crew Dev (Deprecated. Replaced by 'Sketch Heads Dev') | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/e3681f5161229ff041e9642e93e6a241.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
-| ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev (Formerly known as 'Letter Tile Dev') | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864010126786570/1e47e5a033aa7a853fdea22534292bfe.webp?size=80) | 879864010126786570 | Word Snacks Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863923543785532/dfd06404877f7bb863430d32c43480fd.webp?size=80) | 879863923543785532 | Awkword Dev | 0 | 12 |
