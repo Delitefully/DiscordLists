@@ -29,7 +29,7 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 #### Student Hubs ([dis.gd/studenthubs](https://dis.gd/studenthubs))
 * Features: **`HUB`**
 
----- 
+# Guild Feature Glossary
 
 Guild Features | Description
 -------------- | ---------------
