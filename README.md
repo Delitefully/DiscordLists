@@ -52,7 +52,6 @@ Guild Features | Description
 `INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
 `MEMBER_VERIFICATION_GATE_ENABLED` | Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
-`MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to cash out ticketed stage payouts
 `MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 `MORE_STICKERS` | Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
 `NEWS` | Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
@@ -86,6 +85,7 @@ Deprecated Guild Features | Description
 `FORCE_RELAY` | Shards connections to the guild to different nodes that relay information between each other.
 `LURKABLE` | N/A
 `MEMBER_LIST_DISABLED` | Created for the Fortnite server blackout event on Oct 13, 2019, when viewing the member list it would show "There's nothing to see here.".
+`MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to cash out ticketed stage payouts
 
 
 #### Community program feature comparison 
