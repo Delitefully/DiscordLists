@@ -9,8 +9,8 @@
 ### Stable versions
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- | --- |
-| ![Icon](https://cdn.discordapp.com/app-icons/755600276941176913/4e0fd3bf009282c0ecd1fb010e621f28.webp?size=80) | 755600276941176913 | YouTube Together (Old) | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/bc5f23f13943c4b5414a3bb4fefdb4c1.webp?size=80) | 880218394199220334 | Watch Together (New) | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/755600276941176913/4e0fd3bf009282c0ecd1fb010e621f28.webp?size=80) | 755600276941176913 | YouTube Together (Deprecated. Replaced by 'Watch Together') | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/bc5f23f13943c4b5414a3bb4fefdb4c1.webp?size=80) | 880218394199220334 | Watch Together | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80) | 755827207812677713 | Poker Night | 1 |25 |
 | ![Icon](https://cdn.discordapp.com/app-icons/773336526917861400/0227b2e89ea08d666c43003fbadbc72a.webp?size=80) | 773336526917861400 | Betrayal.io | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/814288819477020702/0cafdebe76abfd7d8d9b015c2060512e.webp?size=80) | 814288819477020702 | Fishington.io | 0 | Unlimited |
@@ -59,7 +59,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832012894068801636/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012894068801636 | CG 3 QA | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025114077298718/ee2edef3edb605a83e5331de070fd49c.webp?size=80) | 832025114077298718 | CG4 QA | 0 | 8 |
 
-### Unknown applications (May not work)
+### Unknown applications
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- | --- |
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80) | 880559245471408169 | iframe-playground | 0 | 100 |
