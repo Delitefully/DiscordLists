@@ -16,6 +16,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Ocho (Formerly known as 'CG4 Prod'.)| 1 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/14d90bad74ca1a1e7d5bc266a56b54e8.webp?size=80) | 910224161476083792 | Putt Party | 0 | 8 |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
