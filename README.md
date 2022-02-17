@@ -45,6 +45,7 @@ Guild Features | Description
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` |
+`EXPOSED_TO_BOOSTING_TIERS_EXPERIMENT` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
