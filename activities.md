@@ -24,6 +24,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Ocho (Formerly known as 'CG4 Prod'.)| 1 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/14d90bad74ca1a1e7d5bc266a56b54e8.webp?size=80) | 945737671223947305 | Putt Party | 0 | Unlimited |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -40,7 +41,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as checkers in the park) | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev | 0 | 8 |
-| ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/14d90bad74ca1a1e7d5bc266a56b54e8.webp?size=80) | 910224161476083792 | Putt Party | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/4356fd7fca3e68203f03f87c9ef15c3f.webp?size=80) | 910224161476083792 | Putt Party Dev | 0 | Unlimited |
 
 ### Staging versions
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -50,6 +51,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832012938398400562/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012938398400562 | CG3 Staging | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025061657280566/832ff736821811d7f41d0ff09b374ccb.webp?size=80) | 832025061657280566 | CG4 Staging | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80) | 893449443918086174 | SpellCast Staging | 0 | 100 |
+| ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80) | 945732077960188005 | Putt Party Stg | 0 | Unlimited |
 
 ### QA versions
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -58,6 +60,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832012815819604009/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012815819604009 | CG2 QA | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012894068801636/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012894068801636 | CG 3 QA | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025114077298718/ee2edef3edb605a83e5331de070fd49c.webp?size=80) | 832025114077298718 | CG4 QA | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/945748195256979606/91df26d838d0e452d5af2516a7bf9b39.webp?size=80) | 945748195256979606 | Putt Party QA | 0 | Unlimited |
 
 ### Unknown applications
 | Icon | Application ID | Application name | Boost level | Max participants |
