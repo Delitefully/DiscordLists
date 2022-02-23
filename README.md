@@ -5,7 +5,7 @@ Community-sourced documentation and data collection project around the Discord a
 
 To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
 
-e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"MEMBER_PROFILES", "BANNER", "VANITY_URL", "FEATURABLE", "SEVEN_DAY_THREAD_ARCHIVE", "NEW_THREAD_PERMISSIONS", "MEMBER_VERIFICATION_GATE_ENABLED", "INVITE_SPLASH", "PARTNERED", "THREE_DAY_THREAD_ARCHIVE", "PREVIEW_ENABLED", "ROLE_ICONS", "COMMUNITY", "THREADS_ENABLED", "VIP_REGIONS", "WELCOME_SCREEN_ENABLED", "NEWS", "PRIVATE_THREADS", "ANIMATED_BANNER", "ANIMATED_ICON", "VERIFIED"`.
+e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"ANIMATED_ICON", "THREE_DAY_THREAD_ARCHIVE", "FEATURABLE", "BANNER", "MEMBER_PROFILES", "ROLE_ICONS", "NEWS", "NEW_THREAD_PERMISSIONS", "AUTO_MODERATION", "VERIFIED", "MEMBER_VERIFICATION_GATE_ENABLED", "PREVIEW_ENABLED", "THREADS_ENABLED", "SEVEN_DAY_THREAD_ARCHIVE", "PRIVATE_THREADS", "PARTNERED", "VIP_REGIONS", "INVITE_SPLASH", "COMMUNITY", "VANITY_URL", "ANIMATED_BANNER", "WELCOME_SCREEN_ENABLED"`
  
  *Cover image created by [Dhanish Danu](https://dhanish.xyz/)*.
  
