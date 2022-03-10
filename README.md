@@ -36,7 +36,9 @@ Guild Features | Description
 `ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 `AUTO_MODERATION` | Ability to enable AutoMod.
-`BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
+`BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list. 
+`BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
+`BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
 `COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_MONETIZABLE` |
@@ -46,7 +48,6 @@ Guild Features | Description
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` |
-`EXPOSED_TO_BOOSTING_TIERS_EXPERIMENT` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
@@ -81,6 +82,7 @@ Guild Features | Description
 Deprecated Guild Features | Description
 ------------ | -------------
 `CHANNEL_BANNER` | Ability to set a channel banner that will display above the Channel Information sidebar.
+`EXPOSED_TO_BOOSTING_TIERS_EXPERIMENT` |
 `PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
 `PUBLIC` | Deprecated in favor of `COMMUNITY`
 `FEATURABLE` | Previously used to control which servers were displayed under the "Featured" category in Discovery
