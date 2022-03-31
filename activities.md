@@ -24,7 +24,8 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Blazing 8s (Formerly known as 'Ocho' & 'CG4 Prod')| 1 | 8 |
-| ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/14d90bad74ca1a1e7d5bc266a56b54e8.webp?size=80) | 945737671223947305 | Putt Party | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/12ee915c2f75d7f2c7d551819534f158.webp?size=80) | 945737671223947305 | Putt Party | 1 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/c4d8b95b8f06b1ff8cf2b769e94505a8.webp?size=80) | 903769130790969345 | Land.io | 1 | 16 |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
