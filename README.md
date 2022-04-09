@@ -39,6 +39,7 @@ Guild Features | Description
 `BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list. 
 `BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
+`BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
 `COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_MONETIZABLE` |
