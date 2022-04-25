@@ -40,7 +40,6 @@ Guild Features | Description
 `BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
 `BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
-`COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_MONETIZABLE` |
 `CREATOR_MONETIZABLE_DISABLED` |
@@ -68,12 +67,10 @@ Guild Features | Description
 `ROLE_ICONS` | Ability to set an image or emoji as a role icon.
 `ROLE_SUBSCRIPTIONS_ENABLED` | Ability to view and manage role subscriptions.
 `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` | Allows servers members to purchase role subscriptions.
-`SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
 `TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 `THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
 `THREADS_ENABLED` | Enabled threads early access.
 `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` | Unknown, presumably used for testing changes to the thread default auto archive duration.
-`THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
 `TICKETED_EVENTS_ENABLED` | Ability to view and manage ticketed events.
 `VANITY_URL` | Ability to set a vanity URL (custom discord.gg invite link).
 `VERIFIED` | Verification checkmark near the server name and in mutual server lists.
@@ -83,9 +80,12 @@ Guild Features | Description
 Deprecated Guild Features | Description
 ------------ | -------------
 `CHANNEL_BANNER` | Ability to set a channel banner that will display above the Channel Information sidebar.
+`COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 `EXPOSED_TO_BOOSTING_TIERS_EXPERIMENT` |
 `PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
 `PUBLIC` | Deprecated in favor of `COMMUNITY`
+`SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
+`THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
 `FEATURABLE` | Previously used to control which servers were displayed under the "Featured" category in Discovery
 `FORCE_RELAY` | Shards connections to the guild to different nodes that relay information between each other.
 `LURKABLE` | N/A
