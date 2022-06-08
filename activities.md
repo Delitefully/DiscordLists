@@ -26,7 +26,8 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Blazing 8s (Formerly known as 'Ocho' & 'CG4 Prod')| 1 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/12ee915c2f75d7f2c7d551819534f158.webp?size=80) | 945737671223947305 | Putt Party | 1 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/c4d8b95b8f06b1ff8cf2b769e94505a8.webp?size=80) | 903769130790969345 | Land.io | 1 | 16 |
-| ![Icon](https://cdn.discordapp.com/app-icons/947957217959759964/.webp?size=80) | 947957217959759964 | Bobble League | 1 | 100 |
+| ![Icon](https://cdn.discordapp.com/app-assets/947957217959759964/978404196254642176.webp?size=80) | 947957217959759964 | Bobble League | 1 | 100 |
+
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
