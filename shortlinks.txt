@@ -281,6 +281,7 @@ dis.gd/teamchaos
 dis.gd/templates
 dis.gd/terms
 dis.gd/testflight
+dis.gd/text-in-voice
 dis.gd/thinknoodlesbadnorth
 dis.gd/thinknoodlesfk
 dis.gd/thnxcya
