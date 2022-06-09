@@ -129,8 +129,6 @@ dis.gd/google
 dis.gd/googleplaystoreintegration
 dis.gd/guidelines
 dis.gd/gwupdate
-dis.gd/hackweek
-dis.gd/hackweekwinners
 dis.gd/hackedaccount
 dis.gd/halloweenbot
 dis.gd/halloweenbot2020
