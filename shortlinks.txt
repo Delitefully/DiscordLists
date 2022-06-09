@@ -35,6 +35,7 @@ dis.gd/buildyourkingdom
 dis.gd/childsplaydiscordhype
 dis.gd/classroom
 dis.gd/cohhcarnage
+dis.gd/common-scams
 dis.gd/communityprograms
 dis.gd/communityservers
 dis.gd/communitystories
