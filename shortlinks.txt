@@ -219,9 +219,7 @@ dis.gd/password
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
-dis.gd/pride2021
 dis.gd/pride2021-donate
-dis.gd/prideshowcase
 dis.gd/pronoun-bot
 dis.gd/protectdata
 dis.gd/publicguidelines
