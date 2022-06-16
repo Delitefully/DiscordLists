@@ -1,6 +1,9 @@
 dis.gd/2020-in-review
 dis.gd/2fa
 dis.gd/a11y
+dis.gd/activitiesfeedback
+dis.gd/activitybugreport
+dis.gd/ActivityFeedback&Bugs
 dis.gd/add-trickcordtreat
 dis.gd/alphaking
 dis.gd/alpharad-koth
@@ -18,6 +21,7 @@ dis.gd/beginnersguide
 dis.gd/bhmcommunities
 dis.gd/billing
 dis.gd/bioshock
+dis.gd/birthday-2022
 dis.gd/bitethis
 dis.gd/blackfriday2020
 dis.gd/blog
@@ -35,10 +39,10 @@ dis.gd/buildyourkingdom
 dis.gd/childsplaydiscordhype
 dis.gd/classroom
 dis.gd/cohhcarnage
+dis.gd/community-settings-c
 dis.gd/communityprograms
 dis.gd/communityservers
 dis.gd/communitystories
-dis.gd/community-settings-c
 dis.gd/contact
 dis.gd/coolplaylist
 dis.gd/cprog
@@ -56,6 +60,7 @@ dis.gd/devsupport
 dis.gd/dglbugs
 dis.gd/dglfeedback
 dis.gd/dgtvcommunity
+dis.gd/discord-link-playstation
 dis.gd/discord101
 dis.gd/discordswim4
 dis.gd/disdevstorform
@@ -109,9 +114,9 @@ dis.gd/events
 dis.gd/exam
 dis.gd/fancyfancyandroidthings
 dis.gd/feedback
-dis.gd/fightingcowboyos
 dis.gd/fighting-spam
 dis.gd/fighting-spam-c
+dis.gd/fightingcowboyos
 dis.gd/findmyid
 dis.gd/fitz-lastyear
 dis.gd/fodblog
@@ -137,6 +142,7 @@ dis.gd/help
 dis.gd/holycrap
 dis.gd/howtoreport
 dis.gd/hypesquad
+dis.gd/idle-nightsTW
 dis.gd/imageproxy
 dis.gd/inbox
 dis.gd/instability
@@ -177,6 +183,7 @@ dis.gd/mccontact
 dis.gd/mcfaq
 dis.gd/mcpolicy
 dis.gd/merch
+dis.gd/merchyt
 dis.gd/mermaid
 dis.gd/messageid
 dis.gd/mmsnow18
@@ -219,12 +226,15 @@ dis.gd/password
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
+dis.gd/pride-2022
 dis.gd/pride2021
 dis.gd/pride2021-donate
 dis.gd/prideshowcase
 dis.gd/pronoun-bot
 dis.gd/protectdata
 dis.gd/publicguidelines
+dis.gd/PuttPartySupport
+dis.gd/PuttPartySupport
 dis.gd/reactwoooo
 dis.gd/refund
 dis.gd/report
@@ -240,6 +250,7 @@ dis.gd/security
 dis.gd/serveravatarsfaq
 dis.gd/serverboosting
 dis.gd/serverid
+dis.gd/servertimeoutfaq-co
 dis.gd/servervideo
 dis.gd/sinnertw
 dis.gd/siphano
@@ -247,12 +258,12 @@ dis.gd/skyyart
 dis.gd/slashcommands
 dis.gd/snowblog18
 dis.gd/snowsgiving
-dis.gd/snowsgivingIG
-dis.gd/snowsgivingmerch-co
-dis.gd/snowsgivingyt
 dis.gd/snowsgiving-2021-contest-submission
 dis.gd/snowsgiving-2021-shorts-submission
 dis.gd/snowsgiving-co
+dis.gd/snowsgivingIG
+dis.gd/snowsgivingmerch-co
+dis.gd/snowsgivingyt
 dis.gd/soundpackfaq
 dis.gd/sp4zie-warframe
 dis.gd/sp4zieyt-lastyear
@@ -281,6 +292,7 @@ dis.gd/teamchaos
 dis.gd/templates
 dis.gd/terms
 dis.gd/testflight
+dis.gd/text-in-voice
 dis.gd/thinknoodlesbadnorth
 dis.gd/thinknoodlesfk
 dis.gd/thnxcya
@@ -305,6 +317,7 @@ dis.gd/verify
 dis.gd/vfqual
 dis.gd/vfs
 dis.gd/vgd-twitter
+dis.gd/video-backgrounds-co
 dis.gd/videotime
 dis.gd/visagetw
 dis.gd/viva_h-rt
@@ -320,6 +333,6 @@ dis.gd/xboxnitro2020
 dis.gd/xboxnitro2020jp
 dis.gd/xboxnitropromo2021
 dis.gd/xboxnitropromo2021c
+dis.gd/youtube-premium
 dis.gd/youtube-premium-faq
 dis.gd/ypttartists
-dis.gd/youtube-premium
