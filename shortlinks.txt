@@ -9,6 +9,7 @@ dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
 dis.gd/appdiscoveryblog
+dis.gd/appeal
 dis.gd/apps
 dis.gd/ar12
 dis.gd/atsundowntw
@@ -39,6 +40,7 @@ dis.gd/buildyourkingdom
 dis.gd/childsplaydiscordhype
 dis.gd/classroom
 dis.gd/cohhcarnage
+dis.gd/commonscams
 dis.gd/community-settings-c
 dis.gd/communityprograms
 dis.gd/communityservers
@@ -134,6 +136,7 @@ dis.gd/google
 dis.gd/googleplaystoreintegration
 dis.gd/guidelines
 dis.gd/gwupdate
+dis.gd/hackedaccount
 dis.gd/hackweek
 dis.gd/hackweekwinners
 dis.gd/halloweenbot
@@ -291,6 +294,7 @@ dis.gd/tcabu2
 dis.gd/teamchaos
 dis.gd/templates
 dis.gd/terms
+dis.gd/testclients
 dis.gd/testflight
 dis.gd/text-in-voice
 dis.gd/thinknoodlesbadnorth
