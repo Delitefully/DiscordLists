@@ -47,7 +47,7 @@ Guild Features | Description
 `DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
-`EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` |
+`EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Possiable [this](https://support.discord.com/hc/en-us/articles/4422142836759-Activities-Experiment).
 `GUILD_HOME_TEST` | Gives the guild access to the Home feature
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
