@@ -61,6 +61,7 @@ dis.gd/devstoreform
 dis.gd/devsupport
 dis.gd/dglbugs
 dis.gd/dglfeedback
+dis.gd/DGLrole
 dis.gd/dgtvcommunity
 dis.gd/discord-link-playstation
 dis.gd/discord101
