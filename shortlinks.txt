@@ -108,6 +108,7 @@ dis.gd/donate-snowsgiving
 dis.gd/doom49yt
 dis.gd/doom49yt-h&gwwii
 dis.gd/dr_horseyt-atsundown
+dis.gd/dreamcommunity
 dis.gd/eaislive
 dis.gd/early_access
 dis.gd/earthday
@@ -226,6 +227,7 @@ dis.gd/parkasaurustw
 dis.gd/partnercoc
 dis.gd/partners
 dis.gd/password
+dis.gd/phish
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
