@@ -61,6 +61,7 @@ dis.gd/devstoreform
 dis.gd/devsupport
 dis.gd/dglbugs
 dis.gd/dglfeedback
+dis.gd/DGLrole
 dis.gd/dgtvcommunity
 dis.gd/discord-link-playstation
 dis.gd/discord101
@@ -226,6 +227,7 @@ dis.gd/parkasaurustw
 dis.gd/partnercoc
 dis.gd/partners
 dis.gd/password
+dis.gd/phish
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/police2tw
