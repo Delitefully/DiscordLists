@@ -278,7 +278,6 @@ dis.gd/starwarshq-kotor
 dis.gd/status
 dis.gd/stickersfaq
 dis.gd/stickerswhen
-dis.gd/stop
 dis.gd/stopasianhate
 dis.gd/store
 dis.gd/stream
