@@ -37,7 +37,6 @@ dis.gd/bughunting
 dis.gd/bugreport
 dis.gd/bugs
 dis.gd/buildyourkingdom
-dis.gd/childsplaydiscordhype
 dis.gd/classroom
 dis.gd/cohhcarnage
 dis.gd/commonscams
