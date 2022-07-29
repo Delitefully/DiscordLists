@@ -68,6 +68,7 @@ dis.gd/discord101
 dis.gd/discordswim4
 dis.gd/disdevstorform
 dis.gd/dispatch-error
+dis.gd/dma
 dis.gd/dma103
 dis.gd/dma104
 dis.gd/dma110
