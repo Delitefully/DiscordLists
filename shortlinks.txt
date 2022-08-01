@@ -241,8 +241,6 @@ dis.gd/pronoun-bot
 dis.gd/protectdata
 dis.gd/publicguidelines
 dis.gd/PuttPartySupport
-dis.gd/RadioDiscord_Accessibility
-dis.gd/RadioDiscordAccessibilityTranscript
 dis.gd/reactwoooo
 dis.gd/refund
 dis.gd/report
