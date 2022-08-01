@@ -1,11 +1,11 @@
 dis.gd/2020-in-review
-dis.gd/2fa
 dis.gd/a11y
 dis.gd/accessibility-updates
 dis.gd/activitiesfeedback
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
 dis.gd/add-trickcordtreat
+dis.gd/age-gate
 dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
