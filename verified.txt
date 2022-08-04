@@ -605,7 +605,6 @@ discord.gg/discljord
 discord.gg/disclosure
 discord.gg/discoelysium
 discord.gg/discord-developers
-discord.gg/discord-testers
 discord.gg/discord-townhall
 discord.gg/disintegration
 discord.gg/disjunction
