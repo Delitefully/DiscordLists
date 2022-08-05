@@ -605,7 +605,6 @@ discord.gg/discljord
 discord.gg/disclosure
 discord.gg/discoelysium
 discord.gg/discord-developers
-discord.gg/discord-testers
 discord.gg/discord-townhall
 discord.gg/disintegration
 discord.gg/disjunction
@@ -2375,6 +2374,7 @@ discord.gg/splashdamage
 discord.gg/splice
 discord.gg/splitgate
 discord.gg/sponge
+discord.gg/spotistats
 discord.gg/sppd
 discord.gg/spreen
 discord.gg/spyjinx
