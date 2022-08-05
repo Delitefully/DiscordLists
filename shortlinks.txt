@@ -1,10 +1,12 @@
 dis.gd/2020-in-review
 dis.gd/2fa
 dis.gd/a11y
+dis.gd/accessibility-updates
 dis.gd/activitiesfeedback
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
 dis.gd/add-trickcordtreat
+dis.gd/age-gate
 dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
@@ -240,6 +242,9 @@ dis.gd/pronoun-bot
 dis.gd/protectdata
 dis.gd/publicguidelines
 dis.gd/PuttPartySupport
+dis.gd/Radio-Discord-Forums-Beta
+dis.gd/Radio-Discord-Forums-Beta-Transcript
+dis.gd/react-android
 dis.gd/reactwoooo
 dis.gd/refund
 dis.gd/report
@@ -309,6 +314,7 @@ dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
 dis.gd/traceroute
+dis.gd/transparency-q1-2022
 dis.gd/transparency20
 dis.gd/transparencyh12021
 dis.gd/trickcordtreat
