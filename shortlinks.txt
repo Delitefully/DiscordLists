@@ -54,6 +54,7 @@ dis.gd/crazysam-rt
 dis.gd/credit
 dis.gd/crosscodetw
 dis.gd/customroleiconsfaq
+dis.gd/DAC-ss0
 dis.gd/daithi-koth
 dis.gd/darksiderstw
 dis.gd/devfeedback
