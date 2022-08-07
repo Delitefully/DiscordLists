@@ -132,6 +132,7 @@ dis.gd/frostfangs-paladins
 dis.gd/frostpunk
 dis.gd/fruitnation
 dis.gd/funimation
+dis.gd/fyfu
 dis.gd/gamepass
 dis.gd/gettingstartedonmobile
 dis.gd/goldglove-zombsroyale.io
