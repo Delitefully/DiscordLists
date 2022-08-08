@@ -245,10 +245,10 @@ dis.gd/pronoun-bot
 dis.gd/protectdata
 dis.gd/publicguidelines
 dis.gd/PuttPartySupport
-dis.gd/RadioDiscord_Accessibility
-dis.gd/RadioDiscordAccessibilityTranscript
 dis.gd/Radio-Discord-Forums-Beta
 dis.gd/Radio-Discord-Forums-Beta-Transcript 
+dis.gd/RadioDiscord_Accessibility
+dis.gd/RadioDiscordAccessibilityTranscript
 dis.gd/react-android
 dis.gd/reactwoooo
 dis.gd/refund
@@ -314,6 +314,7 @@ dis.gd/thinknoodlesfk
 dis.gd/thnxcya
 dis.gd/threads-blog
 dis.gd/tidyingup
+dis.gd/tiktok
 dis.gd/timeout
 dis.gd/tns2019
 dis.gd/tos
@@ -325,6 +326,7 @@ dis.gd/transparencyh12021
 dis.gd/trickcordtreat
 dis.gd/ttssliderfaq
 dis.gd/tw-aff_atrioc
+dis.gd/twitter
 dis.gd/unsupportedbugs
 dis.gd/userid
 dis.gd/utdallas-blog
