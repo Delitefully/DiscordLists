@@ -606,7 +606,6 @@ discord.gg/disclosure
 discord.gg/discoelysium
 discord.gg/discord-developers
 discord.gg/discord-townhall
-discord.gg/disintegration
 discord.gg/disjunction
 discord.gg/disnake
 discord.gg/disorder
