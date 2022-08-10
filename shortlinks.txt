@@ -11,7 +11,7 @@ dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
 dis.gd/appdiscoveryblog
-dis.gd/appealF
+dis.gd/appeal
 dis.gd/apps
 dis.gd/ar12
 dis.gd/atsundowntw
