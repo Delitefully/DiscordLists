@@ -11,7 +11,7 @@ dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
 dis.gd/appdiscoveryblog
-dis.gd/appeal
+dis.gd/appealF
 dis.gd/apps
 dis.gd/ar12
 dis.gd/atsundowntw
@@ -45,6 +45,7 @@ dis.gd/cohhcarnage
 dis.gd/commonscams
 dis.gd/community-settings-c
 dis.gd/communityprograms
+dis.gd/Community_Resources
 dis.gd/communityservers
 dis.gd/communitystories
 dis.gd/contact
@@ -55,6 +56,7 @@ dis.gd/credit
 dis.gd/crosscodetw
 dis.gd/customroleiconsfaq
 dis.gd/DAC-ss0
+dis.gd/DAC-FAQ
 dis.gd/daithi-koth
 dis.gd/darksiderstw
 dis.gd/devfeedback
@@ -141,6 +143,7 @@ dis.gd/google
 dis.gd/googleplaystoreintegration
 dis.gd/guidelines
 dis.gd/gwupdate
+dis.gd/H2M_Your_Discord_Community
 dis.gd/hackedaccount
 dis.gd/hackweek
 dis.gd/hackweekwinners
