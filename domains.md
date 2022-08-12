@@ -4,7 +4,6 @@
 |-----------------------|------------------------------------------|
 | dis.gd                | Marketing URL shortener                  |
 | i.dis.gd              | Internal URL shortener                   |
-| discord.app           | redirects to discordapp.com              |
 | discord.co            | Admin panel, internal tools              |
 | discord.com           | New app, marketing website, API host     |
 | discord.design        | Dribbble profile shortlink               |
