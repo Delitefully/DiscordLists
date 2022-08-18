@@ -68,7 +68,6 @@ dis.gd/DGLrole
 dis.gd/dgtvcommunity
 dis.gd/discord-link-playstation
 dis.gd/discord101
-dis.gd/discordlflconcours
 dis.gd/discordswim4
 dis.gd/disdevstorform
 dis.gd/dispatch-error
@@ -297,6 +296,7 @@ dis.gd/stream
 dis.gd/streamkit
 dis.gd/studenthubs
 dis.gd/subnauticatw
+dis.gd/summer22nitrobogofr
 dis.gd/sunlightbladesinner
 dis.gd/support
 dis.gd/swag
