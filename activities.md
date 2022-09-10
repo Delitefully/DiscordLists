@@ -29,6 +29,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/947957217959759964/b485f75e95e6486a758a4aa5db3352f4.webp?size=80) | 947957217959759964 | Bobble League | 1 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/976052223358406656/4f86c19a69cc3002d1b52f7a22687adf.webp?size=80) | 976052223358406656 | Ask Away | 0 | 10 |
 | ![Icon](https://cdn.discordapp.com/app-icons/950505761862189096/6f547114b2979b8bc83e4ba91b4d770d.webp?size=80) | 950505761862189096 | Know What I Meme | 0 | 8 |
+|  | Coming Soon | Bash Out | x | x |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -74,17 +75,17 @@
 |   | 832025993019260929 | CGSample | 0 | 100 |
 
 ### Deleted applications
-| Icon | Application ID | Application name |
-| --- | --- | --- |
-|   | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
-|   | 832025179659960360 | Discord Game 14 |
-|   | 832025219526033439 | Discord Game 15 |
-|   | 832025249335738428 | Discord Game 16 |
-|   | 832025333930524692 | Discord Game 17 |
-|   | 832025385159622656 | Discord Game 18 |
-|   | 832025431280320532 | Discord Game 19 |
-|   | 832025470685937707 | Discord Game 20 |
-|   | 832025799590281238 | Discord Game 21 |
-|   | 832025857525678142 | Discord Game 22 |
-|   | 832025886030168105 | Discord Game 23 |
-|   | 832025928938946590 | Discord Game 24 |
+| Application ID | Application name |
+| --- | --- |
+| 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
+| 832025179659960360 | Discord Game 14 |
+| 832025219526033439 | Discord Game 15 |
+| 832025249335738428 | Discord Game 16 |
+| 832025333930524692 | Discord Game 17 |
+| 832025385159622656 | Discord Game 18 |
+| 832025431280320532 | Discord Game 19 |
+| 832025470685937707 | Discord Game 20 |
+| 832025799590281238 | Discord Game 21 |
+| 832025857525678142 | Discord Game 22 |
+| 832025886030168105 | Discord Game 23 |
+| 832025928938946590 | Discord Game 24 |
