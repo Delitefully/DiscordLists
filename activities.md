@@ -11,7 +11,7 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/755600276941176913/4e0fd3bf009282c0ecd1fb010e621f28.webp?size=80) | 755600276941176913 | YouTube Together (Deprecated. Replaced by 'Watch Together') | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80) | 880218394199220334 | Watch Together | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80) | 755827207812677713 | Poker Night | 1 |25 |
+| ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80) | 755827207812677713 | Poker Night | 1 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/773336526917861400/0227b2e89ea08d666c43003fbadbc72a.webp?size=80) | 773336526917861400 | Betrayal.io | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/814288819477020702/0cafdebe76abfd7d8d9b015c2060512e.webp?size=80) | 814288819477020702 | Fishington.io | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012774040141894/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012774040141894 | Chess In The Park | 1 | Unlimited |
@@ -29,61 +29,63 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/947957217959759964/b485f75e95e6486a758a4aa5db3352f4.webp?size=80) | 947957217959759964 | Bobble League | 1 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/976052223358406656/4f86c19a69cc3002d1b52f7a22687adf.webp?size=80) | 976052223358406656 | Ask Away | 0 | 10 |
 | ![Icon](https://cdn.discordapp.com/app-icons/950505761862189096/6f547114b2979b8bc83e4ba91b4d770d.webp?size=80) | 950505761862189096 | Know What I Meme | 0 | 8 |
+|  | Coming Soon | Bash Out | x | x |
 
 ### Development versions
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- |:---:|:---:|
-| ![Icon](https://cdn.discordapp.com/app-icons/763133495793942528/3bf3592c0949620f0e76cb28ab7affd9.webp?size=80) | 763133495793942528 | PN Dev | 0 | 25 |
+| ![Icon](https://cdn.discordapp.com/app-icons/763133495793942528/3bf3592c0949620f0e76cb28ab7affd9.webp?size=80) | 763133495793942528 | PN Dev | 0 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/3f135503dc803ce7bcf555c769b3f577.webp?size=80) | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067427668275241/50be5b98e871a395aa160fefdba5b596.webp?size=80) | 878067427668275241 | Doodle Crew Dev (Deprecated. Replaced by 'Sketch Heads Dev') | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/e3681f5161229ff041e9642e93e6a241.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev (Formerly known as 'Letter Tile Dev') | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864010126786570/1e47e5a033aa7a853fdea22534292bfe.webp?size=80) | 879864010126786570 | Word Snacks Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
-| ![Icon](https://cdn.discordapp.com/app-icons/879863923543785532/dfd06404877f7bb863430d32c43480fd.webp?size=80) | 879863923543785532 | Awkword Dev | 0 | 12 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879863923543785532/dfd06404877f7bb863430d32c43480fd.webp?size=80) | 879863923543785532 | Awkword Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/891001866073296967/ab9c4e0add01dc8934a336bbc947738e.webp?size=80) | 891001866073296967 | Decoders Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as checkers in the park) | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev | 0 | 8 |
-| ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80) | 910224161476083792 | Putt Party Dev | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80) | 910224161476083792 | Putt Party Dev | 0 | 8 |
 
 ### Staging versions
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- |:---:|:---:|
-| ![Icon](https://cdn.discordapp.com/app-icons/763116274876022855/532775a7b8fd36fadefe18e0ebc209a0.webp?size=80) | 763116274876022855 | PN Staging | 0 | 25 |
+| ![Icon](https://cdn.discordapp.com/app-icons/763116274876022855/532775a7b8fd36fadefe18e0ebc209a0.webp?size=80) | 763116274876022855 | PN Staging | 0 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012730599735326/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012730599735326 | CG2 Staging | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012938398400562/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012938398400562 | CG3 Staging | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025061657280566/832ff736821811d7f41d0ff09b374ccb.webp?size=80) | 832025061657280566 | CG4 Staging | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80) | 893449443918086174 | SpellCast Staging | 0 | 100 |
-| ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80) | 945732077960188005 | Putt Party Stg | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80) | 945732077960188005 | Putt Party Stg | 0 | null |
 
 ### QA versions
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- |:---:|:---:|
-| ![Icon](https://cdn.discordapp.com/app-icons/801133024841957428/b09940bb01c6f0aa2ea4288d5e08218f.webp?size=80) | 801133024841957428 | Poker QA | 0 | 25 |
+| ![Icon](https://cdn.discordapp.com/app-icons/801133024841957428/b09940bb01c6f0aa2ea4288d5e08218f.webp?size=80) | 801133024841957428 | Poker QA | 0 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012815819604009/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012815819604009 | CG2 QA | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012894068801636/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012894068801636 | CG 3 QA | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025114077298718/ee2edef3edb605a83e5331de070fd49c.webp?size=80) | 832025114077298718 | CG4 QA | 0 | 8 |
-| ![Icon](https://cdn.discordapp.com/app-icons/945748195256979606/5f8a388110138fb6fa586eedc73e075a.webp?size=80) | 945748195256979606 | Putt Party QA | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/945748195256979606/5f8a388110138fb6fa586eedc73e075a.webp?size=80) | 945748195256979606 | Putt Party QA | 0 | 8 |
 
 ### Unknown applications
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80)| 880559245471408169 | iframe-playground | 0 | 100 |
+|   | 1006986333539029022 | Clone - Watch Together | 0 | null |
 |   | 832025993019260929 | CGSample | 0 | 100 |
 
 ### Deleted applications
-| Icon | Application ID | Application name |
-| --- | --- | --- |
-|   | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
-|   | 832025179659960360 | Discord Game 14 |
-|   | 832025219526033439 | Discord Game 15 |
-|   | 832025249335738428 | Discord Game 16 |
-|   | 832025333930524692 | Discord Game 17 |
-|   | 832025385159622656 | Discord Game 18 |
-|   | 832025431280320532 | Discord Game 19 |
-|   | 832025470685937707 | Discord Game 20 |
-|   | 832025799590281238 | Discord Game 21 |
-|   | 832025857525678142 | Discord Game 22 |
-|   | 832025886030168105 | Discord Game 23 |
-|   | 832025928938946590 | Discord Game 24 |
+| Application ID | Application name |
+| --- | --- |
+| 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
+| 832025179659960360 | Discord Game 14 |
+| 832025219526033439 | Discord Game 15 |
+| 832025249335738428 | Discord Game 16 |
+| 832025333930524692 | Discord Game 17 |
+| 832025385159622656 | Discord Game 18 |
+| 832025431280320532 | Discord Game 19 |
+| 832025470685937707 | Discord Game 20 |
+| 832025799590281238 | Discord Game 21 |
+| 832025857525678142 | Discord Game 22 |
+| 832025886030168105 | Discord Game 23 |
+| 832025928938946590 | Discord Game 24 |
