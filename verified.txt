@@ -606,7 +606,6 @@ discord.gg/disclosure
 discord.gg/discoelysium
 discord.gg/discord-developers
 discord.gg/discord-townhall
-discord.gg/disintegration
 discord.gg/disjunction
 discord.gg/disnake
 discord.gg/disorder
@@ -2638,6 +2637,7 @@ discord.gg/totalwarelysium
 discord.gg/toughcoded
 discord.gg/touhoulostword
 discord.gg/tournamentkings
+discord.gg/toweroffantasy
 discord.gg/townshiptale
 discord.gg/trackmania
 discord.gg/trailmakers
