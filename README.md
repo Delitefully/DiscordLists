@@ -37,6 +37,7 @@ Guild Features | Description
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 `AUTO_MODERATION` | Ability to enable AutoMod.
 `BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list. 
+`BFG` |  
 `BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
 `BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
@@ -48,13 +49,17 @@ Guild Features | Description
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to servers that are in the `2021-11_activities_baseline_engagement_bundle` experiment
 `GUILD_HOME_TEST` | Gives the guild access to the Home feature
+`GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
+`INCREASED_THREAD_LIMIT` | Allows the server to have 1,000+ active threads
 `INTERNAL_EMPLOYEE_ONLY` | Restricts the guild so that only users with the staff flag can join.
+`INVITES_DISABLED` | [Prevents new members from joining](https://support.discord.com/hc/en-us/articles/8458903738647-Pause-Invites-FAQ) and shows an error when attemping to join the server.
 `INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
 `MEMBER_VERIFICATION_GATE_ENABLED` | Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
+`MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to cash out role subscription payouts
 `MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 `MORE_STICKERS` | Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
 `NEWS` | Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
