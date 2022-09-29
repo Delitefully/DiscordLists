@@ -44,12 +44,17 @@ Guild Features | Description
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_MONETIZABLE` |
 `CREATOR_MONETIZABLE_DISABLED` |
+`CREATOR_MONETIZABLE_PROVISIONAL` |
+`CREATOR_MONETIZABLE_WHITEGLOVE` |
 `DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to servers that are in the `2021-11_activities_baseline_engagement_bundle` experiment
-`GUILD_HOME_TEST` | Gives the guild access to the Home feature
+`GUILD_COMMUNICATION_DISABLED_GUILDS` | Given to guilds in the `2021-11_guild_communication_disabled_guilds` experiment
 `GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature
+`GUILD_HOME_TEST` | Gives the guild access to the Home feature
+`GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds in the `2021-11_member_verification_manual_approval` experiment
+`GUILD_ROLE_SUBSCRIPTIONS` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
@@ -76,6 +81,7 @@ Guild Features | Description
 `THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
 `THREADS_ENABLED` | Enabled threads early access.
 `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` | Unknown, presumably used for testing changes to the thread default auto archive duration.
+`THREADS_ONLY_CHANNEL` | Given to guilds in the `2021-07_threads_only_channel` experiment
 `TICKETED_EVENTS_ENABLED` | Ability to view and manage ticketed events.
 `VANITY_URL` | Ability to set a vanity URL (custom discord.gg invite link).
 `VERIFIED` | Verification checkmark near the server name and in mutual server lists.
