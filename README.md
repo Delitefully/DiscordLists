@@ -51,8 +51,8 @@ Guild Features | Description
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to servers that are in the `2021-11_activities_baseline_engagement_bundle` experiment
 `GUILD_COMMUNICATION_DISABLED_GUILDS` | Given to guilds in the `2021-11_guild_communication_disabled_guilds` experiment
-`GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature
-`GUILD_HOME_TEST` | Gives the guild access to the Home feature
+`GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature, enables Treatment 2 of the `2022-01_home_tab_guild` experiment
+`GUILD_HOME_TEST` | Gives the guild access to the Home feature, enables Treatment 1 of the `2022-01_home_tab_guild` experiment
 `GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds in the `2021-11_member_verification_manual_approval` experiment
 `GUILD_ROLE_SUBSCRIPTIONS` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
