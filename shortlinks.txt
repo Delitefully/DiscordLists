@@ -57,6 +57,7 @@ dis.gd/crosscodetw
 dis.gd/customroleiconsfaq
 dis.gd/DAC-ss0
 dis.gd/DAC-FAQ
+dis.gd/dac_sept
 dis.gd/dacedu
 dis.gd/daithi-koth
 dis.gd/darksiderstw
