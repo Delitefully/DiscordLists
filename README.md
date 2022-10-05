@@ -36,6 +36,9 @@ Guild Features | Description
 `ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 `AUTO_MODERATION` | Ability to enable AutoMod.
+`AUTOMOD_TRIGGER_KEYWORD_FILTER` |
+`AUTOMOD_TRIGGER_ML_SPAM_FILTER` | Given to servers that are in the `2022-03_automod_trigger_ml_spam_filter` experiment
+`AUTOMOD_TRIGGER_SPAM_LINK_FILTER` |
 `BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list. 
 `BFG` |  
 `BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
@@ -50,11 +53,14 @@ Guild Features | Description
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to servers that are in the `2021-11_activities_baseline_engagement_bundle` experiment
+`GUILD_AUTOMOD_DEFAULT_LIST` | Given to guilds in the `2022-03_guild_automod_default_list` experiment
 `GUILD_COMMUNICATION_DISABLED_GUILDS` | Given to guilds in the `2021-11_guild_communication_disabled_guilds` experiment
 `GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature, enables Treatment 2 of the `2022-01_home_tab_guild` experiment
 `GUILD_HOME_TEST` | Gives the guild access to the Home feature, enables Treatment 1 of the `2022-01_home_tab_guild` experiment
 `GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds in the `2021-11_member_verification_manual_approval` experiment
-`GUILD_ROLE_SUBSCRIPTIONS` |
+`GUILD_ROLE_SUBSCRIPTIONS` | Given to guilds in the `2021-06_guild_role_subscriptions` experiment
+`GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP` | Given to guilds in the `2022-05_mobile_web_role_subscription_purchase_page` experiment
+`GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds in the `2022-01_guild_role_subscription_trials` experiment
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
@@ -64,6 +70,7 @@ Guild Features | Description
 `INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
 `MEMBER_VERIFICATION_GATE_ENABLED` | Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
+`MOBILE_WEB_ROLE_SUBSCRIPTION_PURCHASE_PAGE` | Given to guilds in the `2022-05_mobile_web_role_subscription_purchase_page` experiment
 `MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to cash out role subscription payouts
 `MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 `MORE_STICKERS` | Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
