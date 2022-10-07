@@ -33,11 +33,14 @@ e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are
 
 Guild Features | Description
 -------------- | ---------------
+`ACTIVITIES_ALPHA` |
+`ACTIVITIES_EMPLOYEE` | 
+`ACTIVITIES_INTERNAL_DEV` |
 `ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 `AUTO_MODERATION` | Ability to enable AutoMod.
 `AUTOMOD_TRIGGER_KEYWORD_FILTER` |
-`AUTOMOD_TRIGGER_ML_SPAM_FILTER` | Given to servers that are in the `2022-03_automod_trigger_ml_spam_filter` experiment
+`AUTOMOD_TRIGGER_ML_SPAM_FILTER` | Given to guilds previously in the `2022-03_automod_trigger_ml_spam_filter` experiment overrides
 `AUTOMOD_TRIGGER_SPAM_LINK_FILTER` |
 `BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list. 
 `BFG` |  
@@ -49,18 +52,19 @@ Guild Features | Description
 `CREATOR_MONETIZABLE_DISABLED` |
 `CREATOR_MONETIZABLE_PROVISIONAL` |
 `CREATOR_MONETIZABLE_WHITEGLOVE` |
+`CREATOR_MONETIZATION_APPLICATION_ALLOWLIST` |
 `DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
-`EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to servers that are in the `2021-11_activities_baseline_engagement_bundle` experiment
-`GUILD_AUTOMOD_DEFAULT_LIST` | Given to guilds in the `2022-03_guild_automod_default_list` experiment
-`GUILD_COMMUNICATION_DISABLED_GUILDS` | Given to guilds in the `2021-11_guild_communication_disabled_guilds` experiment
-`GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature, enables Treatment 2 of the `2022-01_home_tab_guild` experiment
-`GUILD_HOME_TEST` | Gives the guild access to the Home feature, enables Treatment 1 of the `2022-01_home_tab_guild` experiment
-`GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds in the `2021-11_member_verification_manual_approval` experiment
-`GUILD_ROLE_SUBSCRIPTIONS` | Given to guilds in the `2021-06_guild_role_subscriptions` experiment
-`GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP` | Given to guilds in the `2022-05_mobile_web_role_subscription_purchase_page` experiment
-`GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds in the `2022-01_guild_role_subscription_trials` experiment
+`EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to guilds previously in the `2021-11_activities_baseline_engagement_bundle` experiment overrides
+`GUILD_AUTOMOD_DEFAULT_LIST` | Given to guilds in the `2022-03_guild_automod_default_list` experiment overrides
+`GUILD_COMMUNICATION_DISABLED_GUILDS` | Given to guilds previously in the `2021-11_guild_communication_disabled_guilds` experiment overrides
+`GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature, enables Treatment 2 of the `2022-01_home_tab_guild` experiment overrides
+`GUILD_HOME_TEST` | Gives the guild access to the Home feature, enables Treatment 1 of the `2022-01_home_tab_guild` experiment overrides
+`GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds previously in the `2021-11_member_verification_manual_approval` experiment overrides
+`GUILD_ROLE_SUBSCRIPTIONS` | Given to  guilds previously in the `2021-06_guild_role_subscriptions` experiment overrides
+`GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
+`GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds previously in the `2022-01_guild_role_subscription_trials` experiment overrides
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
@@ -70,8 +74,8 @@ Guild Features | Description
 `INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
 `MEMBER_VERIFICATION_GATE_ENABLED` | Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
-`MOBILE_WEB_ROLE_SUBSCRIPTION_PURCHASE_PAGE` | Given to guilds in the `2022-05_mobile_web_role_subscription_purchase_page` experiment
-`MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to cash out role subscription payouts
+`MOBILE_WEB_ROLE_SUBSCRIPTION_PURCHASE_PAGE` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
+`MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to receive role subscription payouts
 `MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 `MORE_STICKERS` | Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
 `NEWS` | Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
@@ -81,18 +85,21 @@ Guild Features | Description
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
 `PRIVATE_THREADS` | Ability to create private threads
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
+`RESTRICT_SPAM_RISK_GUILDS` |
 `ROLE_ICONS` | Ability to set an image or emoji as a role icon.
 `ROLE_SUBSCRIPTIONS_ENABLED` | Ability to view and manage role subscriptions.
 `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` | Allows servers members to purchase role subscriptions.
+`SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboardl` experiment overrides
 `TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 `THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
 `THREADS_ENABLED` | Enabled threads early access.
 `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` | Unknown, presumably used for testing changes to the thread default auto archive duration.
-`THREADS_ONLY_CHANNEL` | Given to guilds in the `2021-07_threads_only_channel` experiment
+`THREADS_ONLY_CHANNEL` | Given to guilds previously in the `2021-07_threads_only_channel` experiment overrides
 `TICKETED_EVENTS_ENABLED` | Ability to view and manage ticketed events.
 `VANITY_URL` | Ability to set a vanity URL (custom discord.gg invite link).
 `VERIFIED` | Verification checkmark near the server name and in mutual server lists.
 `VIP_REGIONS` | ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate
+`VOICE_CHANNEL_EFFECTS` |  Given to guilds previously in the `2022-06_voice_channel_effects` experiment overrides
 `WELCOME_SCREEN_ENABLED` | Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
 
 Deprecated Guild Features | Description
@@ -108,7 +115,6 @@ Deprecated Guild Features | Description
 `FORCE_RELAY` | Shards connections to the guild to different nodes that relay information between each other.
 `LURKABLE` | N/A
 `MEMBER_LIST_DISABLED` | Created for the Fortnite server blackout event on Oct 13, 2019, when viewing the member list it would show "There's nothing to see here.".
-`MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to cash out ticketed stage payouts
 
 
 #### Community program feature comparison 
