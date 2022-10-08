@@ -53,6 +53,7 @@ Guild Features | Description
 `CREATOR_MONETIZABLE_PROVISIONAL` |
 `CREATOR_MONETIZABLE_WHITEGLOVE` |
 `CREATOR_MONETIZATION_APPLICATION_ALLOWLIST` |
+`DEVELOPER_SUPPORT_SERVER` | Given to guilds that defined as support server in App-Directory.
 `DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
