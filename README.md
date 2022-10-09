@@ -5,7 +5,7 @@ Community-sourced documentation and data collection project around the Discord a
 
 To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
 
-e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"AUTO_MODERATION", "FEATURABLE", "ANIMATED_BANNER", "THREE_DAY_THREAD_ARCHIVE", "ROLE_ICONS", "INVITE_SPLASH", "MEMBER_PROFILES", "PREVIEW_ENABLED", "SEVEN_DAY_THREAD_ARCHIVE", "PRIVATE_THREADS", "COMMUNITY", "WELCOME_SCREEN_ENABLED", "PARTNERED", "VANITY_URL", "NEWS", "BANNER", "THREADS_ENABLED", "MEMBER_VERIFICATION_GATE_ENABLED", "NEW_THREAD_PERMISSIONS", "ANIMATED_ICON", "VERIFIED", "VIP_REGIONS"`
+e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"ANIMATED_ICON", "AUTO_MODERATION", "MEMBER_VERIFICATION_GATE_ENABLED", "PREVIEW_ENABLED", "BANNER", "NEW_THREAD_PERMISSIONS", "WELCOME_SCREEN_ENABLED", "PARTNERED", "VIP_REGIONS", "VERIFIED", "AUTOMOD_TRIGGER_KEYWORD_FILTER", "VANITY_URL", "AUTOMOD_TRIGGER_SPAM_LINK_FILTER", "ANIMATED_BANNER", "INVITE_SPLASH", "THREE_DAY_THREAD_ARCHIVE", "ROLE_ICONS", "PRIVATE_THREADS", "MEMBER_PROFILES", "THREADS_ENABLED", "NEWS", "SEVEN_DAY_THREAD_ARCHIVE", "COMMUNITY", "FEATURABLE", "GUILD_COMMUNICATION_DISABLED_GUILDS"`
  
  *Cover image created by [Dhanish Danu](https://dhanish.xyz/)*.
  
