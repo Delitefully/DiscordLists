@@ -71,12 +71,12 @@
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80)| 880559245471408169 | iframe-playground | 0 | 100 |
-|   | 1006986333539029022 | Clone - Watch Together | 0 | null |
 |   | 832025993019260929 | CGSample | 0 | 100 |
 
 ### Deleted applications
 | Application ID | Application name |
 | --- | --- |
+| 1006986333539029022 | Clone - Watch Together | 0 | null |
 | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
 | 832025179659960360 | Discord Game 14 |
 | 832025219526033439 | Discord Game 15 |
