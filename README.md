@@ -47,7 +47,7 @@ Guild Features | Description
 `BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
 `BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
-`CHANNEL_HIGHLIGHTS |
+`CHANNEL_HIGHLIGHTS` |
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_MONETIZABLE` |
 `CREATOR_MONETIZABLE_DISABLED` |
