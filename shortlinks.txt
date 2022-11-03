@@ -40,6 +40,7 @@ dis.gd/bugreport
 dis.gd/bugs
 dis.gd/buildyourkingdom
 dis.gd/childsplaydiscordhype
+dis.gd/chromium-q-values
 dis.gd/classroom
 dis.gd/cohhcarnage
 dis.gd/commonscams
