@@ -48,6 +48,9 @@ Guild Features | Description
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
 `BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
 `BURST_REACTIONS` | Enables burst reactions for the guild
+`COMMUNITY_EXP_LARGE_GATED` |
+`COMMUNITY_EXP_LARGE_UNGATED` |
+`COMMUNITY_EXP_MEDIUM` |
 `CHANNEL_HIGHLIGHTS` |
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_MONETIZABLE` |
