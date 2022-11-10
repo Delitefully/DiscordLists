@@ -110,6 +110,7 @@ Guild Features | Description
 `VERIFIED` | Verification checkmark near the server name and in mutual server lists.
 `VIP_REGIONS` | ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate
 `VOICE_CHANNEL_EFFECTS` |  Given to guilds previously in the `2022-06_voice_channel_effects` experiment overrides
+`VOICE_IN_THREADS` | 
 `WELCOME_SCREEN_ENABLED` | Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
 
 Deprecated Guild Features | Description
