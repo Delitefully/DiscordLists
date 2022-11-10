@@ -22,3 +22,4 @@
 | 524288  | 1<<19   | BOT_HTTP_INTERACTIONS      | Bot has set an interactions endpoint url          | ✓      |
 | 1048576 | 1<<20   | SPAMMER                    | User is disabled for being a spammer              | ✓      |
 | 2097152 | 1<<21   | DISABLE_PREMIUM            | Disables Nitro Features                           |        |
+| 4194304 | 1<<22   | ACTIVE_DEVELOPER           | User is an active developer                       | ✓      |
