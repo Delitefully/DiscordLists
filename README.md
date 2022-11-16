@@ -38,6 +38,7 @@ Guild Features | Description
 `ACTIVITIES_INTERNAL_DEV` |
 `ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
+`APPLICATION_COMMAND_PERMISSIONS_V2` | 
 `AUTO_MODERATION` | Ability to enable AutoMod.
 `AUTOMOD_TRIGGER_KEYWORD_FILTER` |
 `AUTOMOD_TRIGGER_ML_SPAM_FILTER` | Given to guilds previously in the `2022-03_automod_trigger_ml_spam_filter` experiment overrides
