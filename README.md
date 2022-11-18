@@ -38,7 +38,7 @@ Guild Features | Description
 `ACTIVITIES_INTERNAL_DEV` |
 `ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
-`APPLICATION_COMMAND_PERMISSIONS_V2` | 
+`APPLICATION_COMMAND_PERMISSIONS_V2` | Guild is using the [new Application Command Permission logic](https://discord.com/developers/docs/change-log#nov-17-2022) .
 `AUTO_MODERATION` | Ability to enable AutoMod.
 `AUTOMOD_TRIGGER_KEYWORD_FILTER` |
 `AUTOMOD_TRIGGER_ML_SPAM_FILTER` | Given to guilds previously in the `2022-03_automod_trigger_ml_spam_filter` experiment overrides
@@ -95,7 +95,6 @@ Guild Features | Description
 `PARTNERED` | Partner badge near the server name and in mutual server lists.
 `PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
-`PRIVATE_THREADS` | Ability to create private threads
 `RAID_ALERTS_ENABLED` | 
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
 `RESTRICT_SPAM_RISK_GUILDS` |
@@ -121,14 +120,15 @@ Deprecated Guild Features | Description
 `CHANNEL_BANNER` | Ability to set a channel banner that will display above the Channel Information sidebar.
 `COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 `EXPOSED_TO_BOOSTING_TIERS_EXPERIMENT` |
-`PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
-`PUBLIC` | Deprecated in favor of `COMMUNITY`
-`SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
-`THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
 `FEATURABLE` | Previously used to control which servers were displayed under the "Featured" category in Discovery
 `FORCE_RELAY` | Shards connections to the guild to different nodes that relay information between each other.
 `LURKABLE` | N/A
 `MEMBER_LIST_DISABLED` | Created for the Fortnite server blackout event on Oct 13, 2019, when viewing the member list it would show "There's nothing to see here.".
+`PRIVATE_THREADS` | Ability to create private threads. Is now a base feature.
+`PUBLIC` | Deprecated in favor of `COMMUNITY`
+`PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
+`SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
+`THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
 
 
 #### Community program feature comparison 
