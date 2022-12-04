@@ -365,3 +365,10 @@ dis.gd/xboxnitropromo2021c
 dis.gd/youtube-premium
 dis.gd/youtube-premium-faq
 dis.gd/ypttartists
+dis.gd/c-server-subscriptions
+dis.gd/server-subs-survey
+dis.gd/serversubs101
+dis.gd/serversubs102
+dis.gd/serversubs103
+dis.gd/serversubs104
+dis.gd/serversubs105
