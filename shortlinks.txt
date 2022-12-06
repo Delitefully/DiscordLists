@@ -372,3 +372,6 @@ dis.gd/serversubs102
 dis.gd/serversubs103
 dis.gd/serversubs104
 dis.gd/serversubs105
+dis.gd/snowsgiving22
+dis.gd/snowsgivingbot22
+dis.gd/snowsgivingcharitymerch22
