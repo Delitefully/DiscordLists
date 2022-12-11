@@ -33,7 +33,6 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/763133495793942528/3bf3592c0949620f0e76cb28ab7affd9.webp?size=80) | 763133495793942528 | PN Dev | 0 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/3f135503dc803ce7bcf555c769b3f577.webp?size=80) | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
-
 | ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/e3681f5161229ff041e9642e93e6a241.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev (Formerly known as 'Letter Tile Dev') | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864010126786570/1e47e5a033aa7a853fdea22534292bfe.webp?size=80) | 879864010126786570 | Word Snacks Dev | 0 | 32 |
@@ -68,8 +67,8 @@
 |   | 832025993019260929 | CGSample | 0 | 100 |
 
 ### Deleted applications
-| Application ID | Application name |
-| --- | --- |
+| Icon | Application ID | Application name | Boost level | Max participants |
+| --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/879863881349087252/7bb9cd8518723b74c9a1d260cd177f24.webp?size=80) | 879863881349087252 | Awkword | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863923543785532/dfd06404877f7bb863430d32c43480fd.webp?size=80) | 879863923543785532 | Awkword Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067389634314250/9bd4b9e21576f14f09a9284d45640a9e.webp?size=80) | 878067389634314250 | Doodle Crew (Deprecated. Replaced by 'Sketch Heads') | 0 | 16 |
@@ -77,16 +76,16 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/879864070101172255/0214576f3c33e4026a72f248c11d2292.webp?size=80) | 879864070101172255 | Sketchy Artist | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/891001866073296967/ab9c4e0add01dc8934a336bbc947738e.webp?size=80) | 891001866073296967 | Decoders Dev | 0 | 32 |
-| 1006986333539029022 | Clone - Watch Together | 0 | null |
-| 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
-| 832025179659960360 | Discord Game 14 |
-| 832025219526033439 | Discord Game 15 |
-| 832025249335738428 | Discord Game 16 |
-| 832025333930524692 | Discord Game 17 |
-| 832025385159622656 | Discord Game 18 |
-| 832025431280320532 | Discord Game 19 |
-| 832025470685937707 | Discord Game 20 |
-| 832025799590281238 | Discord Game 21 |
-| 832025857525678142 | Discord Game 22 |
-| 832025886030168105 | Discord Game 23 |
-| 832025928938946590 | Discord Game 24 |
+|  | 1006986333539029022 | Clone - Watch Together | 0 | null |
+|  | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
+|  | 832025179659960360 | Discord Game 14 |
+|  | 832025219526033439 | Discord Game 15 |
+|  | 832025249335738428 | Discord Game 16 |
+|  | 832025333930524692 | Discord Game 17 |
+|  | 832025385159622656 | Discord Game 18 |
+|  | 832025431280320532 | Discord Game 19 |
+|  | 832025470685937707 | Discord Game 20 |
+|  | 832025799590281238 | Discord Game 21 |
+|  | 832025857525678142 | Discord Game 22 |
+|  | 832025886030168105 | Discord Game 23 |
+|  | 832025928938946590 | Discord Game 24 |
