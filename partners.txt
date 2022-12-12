@@ -179,6 +179,7 @@ discord.gg/avidisodd
 discord.gg/avivas-outsiders
 discord.gg/avxry
 discord.gg/axt
+discord.gg/ayinmaiden
 discord.gg/aypierre
 discord.gg/ayume18
 discord.gg/azhtral
@@ -222,6 +223,7 @@ discord.gg/bcg
 discord.gg/bcs
 discord.gg/bdo
 discord.gg/bdofr
+discord.gg/beaconofnick
 discord.gg/beardbear
 discord.gg/beast
 discord.gg/beasttrollmc
@@ -505,6 +507,7 @@ discord.gg/creativelatam
 discord.gg/creators
 discord.gg/creehaa
 discord.gg/creek
+discord.gg/creucat
 discord.gg/cricket
 discord.gg/crimson
 discord.gg/crisdevilgamer
@@ -566,6 +569,7 @@ discord.gg/darkosto
 discord.gg/darksouls3
 discord.gg/darwinstreams
 discord.gg/dascord
+discord.gg/dashcruft
 discord.gg/dasmehdi
 discord.gg/dave2d
 discord.gg/davie504
@@ -685,6 +689,7 @@ discord.gg/ducain23
 discord.gg/duelistsunite
 discord.gg/duellinks
 discord.gg/duellinksmeta
+discord.gg/duellinksteamwars
 discord.gg/dueprocess
 discord.gg/dukesloth
 discord.gg/dumplingtribe
@@ -973,6 +978,7 @@ discord.gg/ghostrecon
 discord.gg/ghoulsquad
 discord.gg/ghoulz
 discord.gg/giants
+discord.gg/giavien
 discord.gg/gigi
 discord.gg/giikugames
 discord.gg/gintama
@@ -1457,6 +1463,7 @@ discord.gg/malwaretech
 discord.gg/mamadotv
 discord.gg/mamaqala
 discord.gg/mamilosclubsteam
+discord.gg/manateegaming
 discord.gg/manga
 discord.gg/maniacmec
 discord.gg/manucraft
@@ -1681,6 +1688,7 @@ discord.gg/nerdparade
 discord.gg/nerdybirdie
 discord.gg/nerdynetty
 discord.gg/nerf
+discord.gg/neonight
 discord.gg/nerpah
 discord.gg/nervarien
 discord.gg/nes
@@ -1737,6 +1745,7 @@ discord.gg/norcal
 discord.gg/nordrheintvplay
 discord.gg/norespnse
 discord.gg/noserino
+discord.gg/novacore
 discord.gg/novaruu
 discord.gg/noxcrew
 discord.gg/noxy
@@ -1806,6 +1815,7 @@ discord.gg/owenspency
 discord.gg/owu
 discord.gg/oxhorn
 discord.gg/oyunbros
+discord.gg/ozint
 discord.gg/oztalkshw
 discord.gg/p1999
 discord.gg/p4wnyhof
@@ -1868,6 +1878,7 @@ discord.gg/phasmophobia
 discord.gg/phattpantz
 discord.gg/philippines
 discord.gg/philmann
+discord.gg/philosophy
 discord.gg/phoenixcartel
 discord.gg/phonguoiviet
 discord.gg/photography
@@ -1987,6 +1998,7 @@ discord.gg/pycord
 discord.gg/pyrocynical
 discord.gg/pyrojoe
 discord.gg/python
+discord.gg/qordes
 discord.gg/qosmetics
 discord.gg/qrew
 discord.gg/qs
@@ -2122,6 +2134,7 @@ discord.gg/royalistiq
 discord.gg/rstarcraft
 discord.gg/rtcd
 discord.gg/rtgame
+discord.gg/rub1ck
 discord.gg/rubiks
 discord.gg/rubius
 discord.gg/rubychan
@@ -2340,6 +2353,7 @@ discord.gg/stackupdotorg
 discord.gg/stadia
 discord.gg/staiy
 discord.gg/stalker
+discord.gg/standup-comedy
 discord.gg/star-wars-collecting
 discord.gg/starbase
 discord.gg/starbitzychan
@@ -2430,6 +2444,7 @@ discord.gg/tabbes
 discord.gg/taco
 discord.gg/taehatypes
 discord.gg/tailosive
+discord.gg/tailschannel
 discord.gg/talents
 discord.gg/tales
 discord.gg/talonmains
@@ -2667,6 +2682,7 @@ discord.gg/utdallas
 discord.gg/uthenera
 discord.gg/vaatividya
 discord.gg/vadimo
+discord.gg/vaguild
 discord.gg/vale
 discord.gg/valeyard
 discord.gg/valkia
@@ -2722,6 +2738,8 @@ discord.gg/warcraftpriests
 discord.gg/warditv
 discord.gg/warframe
 discord.gg/warframe-de
+discord.gg/wargamescastellano
+discord.gg/warn
 discord.gg/warpworld
 discord.gg/warzonede
 discord.gg/wasabi
