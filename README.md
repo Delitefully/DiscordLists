@@ -73,6 +73,7 @@ Guild Features | Description
 `GUILD_HOME_TEST` | Gives the guild access to the Home feature, enables Treatment 1 of the `2022-01_home_tab_guild` experiment
 `GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds previously in the `2021-11_member_verification_manual_approval` experiment
 `GUILD_ONBOARDING` | Guild has access to the Onboarding feature
+`GUILD_ONBOARDING_ADMIN_ONLY` | 
 `GUILD_ONBOARDING_EVER_ENABLED` | 
 `GUILD_ONBOARDING_HAS_PROMPTS` |
 `GUILD_ROLE_SUBSCRIPTIONS` | Given to guilds previously in the `2021-06_guild_role_subscriptions` experiment overrides
@@ -83,11 +84,13 @@ Guild Features | Description
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
 `INCREASED_THREAD_LIMIT` | Allows the server to have 1,000+ active threads
 `INTERNAL_EMPLOYEE_ONLY` | Restricts the guild so that only users with the staff flag can join.
-`INVITES_DISABLED` | [Prevents new members from joining](https://support.discord.com/hc/en-us/articles/8458903738647-Pause-Invites-FAQ) and shows an error when attemping to join the server.
 `INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
+`INVITES_DISABLED` | [Prevents new members from joining](https://support.discord.com/hc/en-us/articles/8458903738647-Pause-Invites-FAQ) and shows an error when attemping to join the server.
+`LINKED_TO_HUB` | 
 `MARKETPLACES_CONNECTION_ROLES` | 
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
 `MEMBER_VERIFICATION_GATE_ENABLED` | Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
+`MEMBER_VERIFICATION_MANUAL_APPROVAL` | 
 `MOBILE_WEB_ROLE_SUBSCRIPTION_PURCHASE_PAGE` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
 `MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to receive role subscription payouts
 `MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
@@ -101,15 +104,18 @@ Guild Features | Description
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
 `RESTRICT_SPAM_RISK_GUILDS` |
 `ROLE_ICONS` | Ability to set an image or emoji as a role icon.
-`ROLE_SUBSCRIPTIONS_ENABLED` | Ability to view and manage role subscriptions.
 `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` | Allows servers members to purchase role subscriptions.
+`ROLE_SUBSCRIPTIONS_ENABLED` | Ability to view and manage role subscriptions.
+`ROLE_SUBSCRIPTIONS_ENABLED_FOR_PURCHASE` | 
 `SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboardl` experiment overrides
+`TEXT_IN_STAGE_ENABLED` | 
 `TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 `THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
 `THREADS_ENABLED` | Enabled threads early access.
 `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` | Unknown, presumably used for testing changes to the thread default auto archive duration.
 `THREADS_ONLY_CHANNEL` | Given to guilds previously in the `2021-07_threads_only_channel` experiment overrides
 `TICKETED_EVENTS_ENABLED` | Ability to view and manage ticketed events.
+`TICKETING_ENABLED` | 
 `VANITY_URL` | Ability to set a vanity URL (custom discord.gg invite link).
 `VERIFIED` | Verification checkmark near the server name and in mutual server lists.
 `VIP_REGIONS` | ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate
