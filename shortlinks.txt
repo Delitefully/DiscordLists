@@ -355,6 +355,7 @@ dis.gd/vsreqs
 dis.gd/website
 dis.gd/whynot9010
 dis.gd/wumpus
+dis.gd/wumpus-journey
 dis.gd/wumpus4pride
 dis.gd/wumpusfundraiser
 dis.gd/xbox-voice
