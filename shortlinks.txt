@@ -54,8 +54,11 @@ dis.gd/coolplaylist
 dis.gd/cprog
 dis.gd/crazysam-rt
 dis.gd/credit
+dis.gd/creators-waitlist
 dis.gd/crosscodetw
+dis.gd/CUServerSubs
 dis.gd/customroleiconsfaq
+dis.gd/c-server-subscriptions
 dis.gd/DAC-ss0
 dis.gd/DAC-FAQ
 dis.gd/dac_sept
@@ -260,6 +263,7 @@ dis.gd/RadioDiscordAccessibilityTranscript
 dis.gd/react-android
 dis.gd/reactwoooo
 dis.gd/refund
+dis.gd/RegEXHC
 dis.gd/report
 dis.gd/request
 dis.gd/riotarmyos
@@ -273,6 +277,13 @@ dis.gd/security
 dis.gd/serveravatarsfaq
 dis.gd/serverboosting
 dis.gd/serverid
+dis.gd/ServerSubsWaitlist
+dis.gd/serversubs101
+dis.gd/serversubs102
+dis.gd/serversubs103
+dis.gd/serversubs104
+dis.gd/serversubs105
+dis.gd/server-subs-survey
 dis.gd/servertimeoutfaq-co
 dis.gd/servervideo
 dis.gd/sinnertw
@@ -281,6 +292,9 @@ dis.gd/skyyart
 dis.gd/slashcommands
 dis.gd/snowblog18
 dis.gd/snowsgiving
+dis.gd/snowsgiving22
+dis.gd/snowsgivingbot22
+dis.gd/snowsgivingcharitymerch22
 dis.gd/snowsgiving-2021-contest-submission
 dis.gd/snowsgiving-2021-shorts-submission
 dis.gd/snowsgiving-co
@@ -366,13 +380,3 @@ dis.gd/xboxnitropromo2021c
 dis.gd/youtube-premium
 dis.gd/youtube-premium-faq
 dis.gd/ypttartists
-dis.gd/c-server-subscriptions
-dis.gd/server-subs-survey
-dis.gd/serversubs101
-dis.gd/serversubs102
-dis.gd/serversubs103
-dis.gd/serversubs104
-dis.gd/serversubs105
-dis.gd/snowsgiving22
-dis.gd/snowsgivingbot22
-dis.gd/snowsgivingcharitymerch22
