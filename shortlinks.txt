@@ -75,6 +75,7 @@ dis.gd/dglfeedback
 dis.gd/DGLrole
 dis.gd/dgtvcommunity
 dis.gd/discord-link-playstation
+dis.gd/discord-stories
 dis.gd/discord101
 dis.gd/discordlflconcours
 dis.gd/discord101
