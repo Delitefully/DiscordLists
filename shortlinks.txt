@@ -54,8 +54,11 @@ dis.gd/coolplaylist
 dis.gd/cprog
 dis.gd/crazysam-rt
 dis.gd/credit
+dis.gd/creator-support
 dis.gd/creators-waitlist
 dis.gd/crosscodetw
+dis.gd/CServerSubs
+dis.gd/CServerSubsHC
 dis.gd/CUServerSubs
 dis.gd/customroleiconsfaq
 dis.gd/c-server-subscriptions
@@ -208,6 +211,7 @@ dis.gd/merch
 dis.gd/merchyt
 dis.gd/mermaid
 dis.gd/messageid
+dis.gd/MKBHD_casestudy
 dis.gd/mmsnow18
 dis.gd/mobile-voice-help
 dis.gd/mobilegifpicker
