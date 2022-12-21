@@ -131,6 +131,7 @@ dis.gd/easier-servers
 dis.gd/events
 dis.gd/exam
 dis.gd/fancyfancyandroidthings
+dis.gd/features-for-creators
 dis.gd/feedback
 dis.gd/fighting-spam
 dis.gd/fighting-spam-c
