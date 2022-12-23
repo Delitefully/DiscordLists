@@ -165,6 +165,7 @@ dis.gd/halloweenbot
 dis.gd/halloweenbot2020
 dis.gd/help
 dis.gd/holycrap
+dis.gd/how-to-set-up-Onboarding
 dis.gd/howtoreport
 dis.gd/hypesquad
 dis.gd/idle-nightsTW
@@ -240,6 +241,7 @@ dis.gd/nitrotab
 dis.gd/noisecancellation
 dis.gd/nzxtpc
 dis.gd/oj-minionmasters
+dis.gd/onboarding
 dis.gd/oompavillebadnorth
 dis.gd/originalwickedfun-affinitybooster
 dis.gd/ournewlook
