@@ -54,6 +54,7 @@ dis.gd/coolplaylist
 dis.gd/cprog
 dis.gd/crazysam-rt
 dis.gd/credit
+dis.gd/CCreatorPortal
 dis.gd/creator-support
 dis.gd/creators-waitlist
 dis.gd/crosscodetw
