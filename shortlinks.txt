@@ -2,6 +2,7 @@ dis.gd/2020-in-review
 dis.gd/2fa
 dis.gd/a11y
 dis.gd/accessibility-updates
+dis.gd/activities-questions
 dis.gd/activitiesfeedback
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
@@ -126,6 +127,7 @@ dis.gd/donate
 dis.gd/donate-snowsgiving
 dis.gd/doom49yt
 dis.gd/doom49yt-h&gwwii
+dis.gd/dragndropFAQ
 dis.gd/dr_horseyt-atsundown
 dis.gd/dreamcommunity
 dis.gd/eaislive
@@ -351,6 +353,7 @@ dis.gd/timeout
 dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
+dis.gd/townhall-survey
 dis.gd/traceroute
 dis.gd/transparency-q1-2022
 dis.gd/transparency20
@@ -374,6 +377,7 @@ dis.gd/visagetw
 dis.gd/viva_h-rt
 dis.gd/voice_errors
 dis.gd/vote2020
+dis.gd/VOTE-AMAs-Favorite-K-Pop-Artist
 dis.gd/vsreqs
 dis.gd/website
 dis.gd/whynot9010
