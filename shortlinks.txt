@@ -154,6 +154,7 @@ dis.gd/funimation
 dis.gd/fyfu
 dis.gd/gamepass
 dis.gd/gettingstartedonmobile
+dis.gd/GHhackathon
 dis.gd/goldglove-zombsroyale.io
 dis.gd/golivescreenshare
 dis.gd/google
