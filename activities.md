@@ -33,12 +33,12 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/763133495793942528/3bf3592c0949620f0e76cb28ab7affd9.webp?size=80) | 763133495793942528 | PN Dev | 0 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/3f135503dc803ce7bcf555c769b3f577.webp?size=80) | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/e3681f5161229ff041e9642e93e6a241.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
+| ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev (Formerly known as 'Letter Tile Dev') | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864010126786570/1e47e5a033aa7a853fdea22534292bfe.webp?size=80) | 879864010126786570 | Word Snacks Dev | 0 | 32 |
-| ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as checkers in the park) | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev (Also known as 'Chess In The Park Dev') | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as 'Checkers In The Park Dev') | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev (Also known as 'Blazing 8s Dev') | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80) | 910224161476083792 | Putt Party Dev | 0 | 8 |
 
 ### Staging versions
