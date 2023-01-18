@@ -63,6 +63,7 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80)| 880559245471408169 | iframe-playground | 0 | 100 |
 |   | 832025993019260929 | CGSample | 0 | 100 |
+|   | 881732122631634984 | test-game-001 | 0 | Unlimited |
 
 ### Deleted applications
 | Icon | Application ID | Application name | Boost level | Max participants |
@@ -77,7 +78,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/891001866073296967/ab9c4e0add01dc8934a336bbc947738e.webp?size=80) | 891001866073296967 | Decoders Dev | 0 | 32 |
 |  | 1006986333539029022 | Clone - Watch Together | 0 | null |
-|  | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
+|  | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) | 0 | 12 |
 |  | 832025179659960360 | Discord Game 14 |
 |  | 832025219526033439 | Discord Game 15 |
 |  | 832025249335738428 | Discord Game 16 |
@@ -86,6 +87,6 @@
 |  | 832025431280320532 | Discord Game 19 |
 |  | 832025470685937707 | Discord Game 20 |
 |  | 832025799590281238 | Discord Game 21 |
-|  | 832025857525678142 | Discord Game 22 |
-|  | 832025886030168105 | Discord Game 23 |
-|  | 832025928938946590 | Discord Game 24 |
+|  | 832025857525678142 | Discord Game 22 | 0 | Unlimited |
+|  | 832025886030168105 | Discord Game 23 | 0 | Unlimited |
+|  | 832025928938946590 | Discord Game 24 | 0 | 100 |
