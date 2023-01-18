@@ -17,7 +17,6 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832012774040141894/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012774040141894 | Chess In The Park | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80) | 902271654783242291 | Sketch Heads | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80) | 879863686565621790 | Letter League (Formerly known as 'Letter Tile') | 1 | 8 |
-| ![Icon](https://cdn.discordapp.com/app-icons/879863976006127627/930f9cfe504211a130419e731babc597.webp?size=80) | 879863976006127627 | Word Snacks | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | 1 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832013003968348200 | Checkers In The Park (Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80) | 832025144389533716 | Blazing 8s (Formerly known as 'Ocho' & 'CG4 Prod')| 1 | 8 |
@@ -33,12 +32,11 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/763133495793942528/3bf3592c0949620f0e76cb28ab7affd9.webp?size=80) | 763133495793942528 | PN Dev | 0 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/3f135503dc803ce7bcf555c769b3f577.webp?size=80) | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/e3681f5161229ff041e9642e93e6a241.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
+| ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev (Formerly known as 'Letter Tile Dev') | 0 | 8 |
-| ![Icon](https://cdn.discordapp.com/app-icons/879864010126786570/1e47e5a033aa7a853fdea22534292bfe.webp?size=80) | 879864010126786570 | Word Snacks Dev | 0 | 32 |
-| ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as checkers in the park) | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev (Also known as 'Chess In The Park Dev') | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as 'Checkers In The Park Dev') | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80) | 832013108234289153 | CG4 Dev (Also known as 'Blazing 8s Dev') | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80) | 910224161476083792 | Putt Party Dev | 0 | 8 |
 
 ### Staging versions
@@ -65,19 +63,22 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80)| 880559245471408169 | iframe-playground | 0 | 100 |
 |   | 832025993019260929 | CGSample | 0 | 100 |
+|   | 881732122631634984 | test-game-001 | 0 | Unlimited |
 
 ### Deleted applications
 | Icon | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/879863881349087252/7bb9cd8518723b74c9a1d260cd177f24.webp?size=80) | 879863881349087252 | Awkword | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863923543785532/dfd06404877f7bb863430d32c43480fd.webp?size=80) | 879863923543785532 | Awkword Dev | 0 | 32 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879863976006127627/930f9cfe504211a130419e731babc597.webp?size=80) | 879863976006127627 | Word Snacks | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/879864010126786570/1e47e5a033aa7a853fdea22534292bfe.webp?size=80) | 879864010126786570 | Word Snacks Dev | 0 | 32 |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067389634314250/9bd4b9e21576f14f09a9284d45640a9e.webp?size=80) | 878067389634314250 | Doodle Crew (Deprecated. Replaced by 'Sketch Heads') | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067427668275241/50be5b98e871a395aa160fefdba5b596.webp?size=80) | 878067427668275241 | Doodle Crew Dev (Deprecated. Replaced by 'Sketch Heads Dev') | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864070101172255/0214576f3c33e4026a72f248c11d2292.webp?size=80) | 879864070101172255 | Sketchy Artist | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/891001866073296967/ab9c4e0add01dc8934a336bbc947738e.webp?size=80) | 891001866073296967 | Decoders Dev | 0 | 32 |
 |  | 1006986333539029022 | Clone - Watch Together | 0 | null |
-|  | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) |
+|  | 832012854282158180 | Delete Me Calla (Formerly known as 'putt dis' 'click dis' and 'Putts'.) | 0 | 12 |
 |  | 832025179659960360 | Discord Game 14 |
 |  | 832025219526033439 | Discord Game 15 |
 |  | 832025249335738428 | Discord Game 16 |
@@ -86,6 +87,6 @@
 |  | 832025431280320532 | Discord Game 19 |
 |  | 832025470685937707 | Discord Game 20 |
 |  | 832025799590281238 | Discord Game 21 |
-|  | 832025857525678142 | Discord Game 22 |
-|  | 832025886030168105 | Discord Game 23 |
-|  | 832025928938946590 | Discord Game 24 |
+|  | 832025857525678142 | Discord Game 22 | 0 | Unlimited |
+|  | 832025886030168105 | Discord Game 23 | 0 | Unlimited |
+|  | 832025928938946590 | Discord Game 24 | 0 | 100 |
