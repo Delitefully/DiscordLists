@@ -24,7 +24,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/c4d8b95b8f06b1ff8cf2b769e94505a8.webp?size=80) | 903769130790969345 | Land.io | 1 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/947957217959759964/b485f75e95e6486a758a4aa5db3352f4.webp?size=80) | 947957217959759964 | Bobble League | 1 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/976052223358406656/4f86c19a69cc3002d1b52f7a22687adf.webp?size=80) | 976052223358406656 | Ask Away | 0 | 10 |
-| ![Icon](https://cdn.discordapp.com/app-icons/950505761862189096/6f547114b2979b8bc83e4ba91b4d770d.webp?size=80) | 950505761862189096 | Know What I Meme | 0 | 8 |
+| ![Icon](https://cdn.discordapp.com/app-icons/950505761862189096/6f547114b2979b8bc83e4ba91b4d770d.webp?size=80) | 950505761862189096 | Know What I Meme | 0 | 9 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1006584476094177371/eace9c231b505f0c96fba27d1795c31a.webp?size=80) | 1006584476094177371 | Bash Out | 1 | 16 |
 
 ### Development versions
