@@ -80,6 +80,7 @@ dis.gd/dglfeedback
 dis.gd/DGLrole
 dis.gd/dgtvcommunity
 dis.gd/discord-link-playstation
+dis.gd/Discord_to_Patreon_FAQ
 dis.gd/discord-stories
 dis.gd/discord101
 dis.gd/discordlflconcours
@@ -350,6 +351,7 @@ dis.gd/thnxcya
 dis.gd/threads-blog
 dis.gd/tidyingup
 dis.gd/tiktok
+dis.gd/TikTok_LIVE_Integration_FAQ
 dis.gd/timeout
 dis.gd/tns2019
 dis.gd/tos
@@ -362,6 +364,7 @@ dis.gd/transparencyh12021
 dis.gd/trickcordtreat
 dis.gd/ttssliderfaq
 dis.gd/tw-aff_atrioc
+dis.gd/Twitch_Integration_FAQ
 dis.gd/twitter
 dis.gd/unsupportedbugs
 dis.gd/userid
@@ -391,6 +394,7 @@ dis.gd/xboxnitro2020
 dis.gd/xboxnitro2020jp
 dis.gd/xboxnitropromo2021
 dis.gd/xboxnitropromo2021c
+dis.gd/YouTube_Integration_FAQ
 dis.gd/youtube-premium
 dis.gd/youtube-premium-faq
 dis.gd/ypttartists
