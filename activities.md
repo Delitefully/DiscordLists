@@ -12,6 +12,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/755600276941176913/4e0fd3bf009282c0ecd1fb010e621f28.webp?size=80) | 755600276941176913 | YouTube Together (Deprecated. Replaced by 'Watch Together') | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80) | 880218394199220334 | Watch Together | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80) | 755827207812677713 | Poker Night | 1 | 7 |
+| ![Icon](https://cdn.discordapp.com/app-icons/1007373802981822582/7293b549efff3c5a809999d883f09202.webp?size=80) | 1007373802981822582 | Gartic Phone | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/773336526917861400/0227b2e89ea08d666c43003fbadbc72a.webp?size=80) | 773336526917861400 | Betrayal.io | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/814288819477020702/0cafdebe76abfd7d8d9b015c2060512e.webp?size=80) | 814288819477020702 | Fishington.io | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012774040141894/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012774040141894 | Chess In The Park | 1 | Unlimited |
