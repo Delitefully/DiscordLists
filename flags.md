@@ -23,5 +23,5 @@
 | 1048576          | 1<<20   | SPAMMER                    | User is disabled for being a spammer              | ✓      |
 | 2097152          | 1<<21   | DISABLE_PREMIUM            | Disables Nitro Features                           |        |
 | 4194304          | 1<<22   | ACTIVE_DEVELOPER           | User is an active developer                       | ✓      |
-| 1125899906842624 | 1<<51   | COLLABORATOR               | Unknown                                           | ✓      |
-| 2251799813685248 | 1<<50   | RESTRICTED_COLLABORATOR    | Unknown                                           | ✓      |
+| 1125899906842624 | 1<<50   | COLLABORATOR               | Unknown                                           | ✓      |
+| 2251799813685248 | 1<<51   | RESTRICTED_COLLABORATOR    | Unknown                                           | ✓      |
