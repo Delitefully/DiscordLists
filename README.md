@@ -108,7 +108,7 @@ Guild Features | Description
 `ROLE_SUBSCRIPTIONS_AVAILABLE_FOR_PURCHASE` | Allows servers members to purchase role subscriptions.
 `ROLE_SUBSCRIPTIONS_ENABLED` | Ability to view and manage role subscriptions.
 `ROLE_SUBSCRIPTIONS_ENABLED_FOR_PURCHASE` | 
-`SHARED_CANVAS_FRIENDS_AND_FAMILY_TEST` | 
+`SHARED_CANVAS_FRIENDS_AND_FAMILY_TEST` | Given to guilds previously in the `2023-01_shared_canvas` experiment overrides
 `SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboardl` experiment overrides
 `TEXT_IN_STAGE_ENABLED` | 
 `TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
