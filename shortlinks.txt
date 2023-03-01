@@ -363,6 +363,7 @@ dis.gd/timeout
 dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
+dis.gd/townhall-member-survey
 dis.gd/townhall-survey
 dis.gd/traceroute
 dis.gd/transparency-q1-2022
