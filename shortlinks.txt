@@ -79,6 +79,7 @@ dis.gd/devfeedback
 dis.gd/devnewsletter
 dis.gd/devovo
 dis.gd/DDevsInterviewPanel
+dis.gd/DDevsInterviewPanelRec
 dis.gd/devstoreform
 dis.gd/devsupport
 dis.gd/dglbugs
