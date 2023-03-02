@@ -82,6 +82,7 @@ Guild Features | Description
 `GUILD_WEB_PAGE_VANITY_URL` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
+`HIDE_FROM_EXPERIMENT_UI` | 
 `HUB` | [Student Hubs](https://dis.gd/studenthubs) contain a directory channel that let you find school-related, student-run servers for your school or university.
 `INCREASED_THREAD_LIMIT` | Allows the server to have 1,000+ active threads
 `INTERNAL_EMPLOYEE_ONLY` | Restricts the guild so that only users with the staff flag can join.
