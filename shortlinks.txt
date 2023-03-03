@@ -69,6 +69,7 @@ dis.gd/DAC-FAQ
 dis.gd/dac_sept
 dis.gd/dacedu
 dis.gd/dcc_2fa
+dis.gd/dcc_CommunityOnboarding
 dis.gd/dcc_saferaccount
 dis.gd/dcc_safercommunity
 dis.gd/dcc_saferinternetday
