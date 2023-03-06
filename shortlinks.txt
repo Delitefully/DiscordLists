@@ -48,6 +48,7 @@ dis.gd/commonscams
 dis.gd/community-settings-c
 dis.gd/communityprograms
 dis.gd/Community_Resources
+dis.gd/communityresearch
 dis.gd/communityservers
 dis.gd/communitystories
 dis.gd/contact
@@ -66,6 +67,12 @@ dis.gd/customroleiconsfaq
 dis.gd/c-server-subscriptions
 dis.gd/DAC-ss0
 dis.gd/DAC-FAQ
+dis.gd/DAC-Stage-Safety-on-Discord
+dis.gd/DAC-Stage-Automod
+dis.gd/DAC_Auditing_your_Server
+dis.gd/DAC_Forums_Launch
+dis.gd/DAC_Onboarding_Transcript 
+dis.gd/DAC_RadioDiscord_Onboarding
 dis.gd/dac_sept
 dis.gd/dacedu
 dis.gd/dcc_2fa
@@ -280,6 +287,7 @@ dis.gd/PuttPartySupport
 dis.gd/Radio-Discord-Forums-Beta
 dis.gd/Radio-Discord-Forums-Beta-Transcript 
 dis.gd/RadioDiscord_Accessibility
+dis.gd/RadioDiscord_AppDirectory
 dis.gd/RadioDiscordAccessibilityTranscript
 dis.gd/react-android
 dis.gd/reactwoooo
@@ -367,6 +375,7 @@ dis.gd/tosoct18
 dis.gd/townhall-member-survey
 dis.gd/townhall-survey
 dis.gd/traceroute
+dis.gd/Transcript_RadioDiscord_AppDirectory
 dis.gd/transparency-q1-2022
 dis.gd/transparency20
 dis.gd/transparencyh12021
