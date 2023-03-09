@@ -6,6 +6,7 @@ dis.gd/activities-questions
 dis.gd/activitiesfeedback
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
+dis.gd/ai-on-discord
 dis.gd/add-trickcordtreat
 dis.gd/age-gate
 dis.gd/alphaking
