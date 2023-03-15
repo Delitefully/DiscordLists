@@ -2,6 +2,7 @@ dis.gd/2020-in-review
 dis.gd/2fa
 dis.gd/a11y
 dis.gd/accessibility-updates
+dis.gd/activities
 dis.gd/activities-questions
 dis.gd/activitiesfeedback
 dis.gd/activitybugreport
