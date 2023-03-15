@@ -44,6 +44,7 @@ dis.gd/buildyourkingdom
 dis.gd/childsplaydiscordhype
 dis.gd/chromium-q-values
 dis.gd/classroom
+dis.gd/clyde
 dis.gd/cohhcarnage
 dis.gd/commonscams
 dis.gd/community-settings-c
