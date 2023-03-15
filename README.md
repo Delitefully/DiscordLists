@@ -54,6 +54,7 @@ Guild Features | Description
 `COMMUNITY_EXP_MEDIUM` |
 `CHANNEL_HIGHLIGHTS` |
 `CHANNEL_HIGHLIGHTS_DISABLED` | 
+`CLYDE_ENABLED` | Enables ClydeAI for the guild
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_MONETIZABLE` |
 `CREATOR_MONETIZABLE_DISABLED` |
