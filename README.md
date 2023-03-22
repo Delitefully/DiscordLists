@@ -59,6 +59,7 @@ Guild Features | Description
 `CREATOR_ACCEPTED_NEW_TERMS` |
 `CREATOR_MONETIZABLE` |
 `CREATOR_MONETIZABLE_DISABLED` |
+`CREATOR_MONETIZABLE_PENDING_NEW_OWNER_ONBOARDING` |
 `CREATOR_MONETIZABLE_PROVISIONAL` |
 `CREATOR_MONETIZABLE_RESTRICTED` | 
 `CREATOR_MONETIZABLE_WHITEGLOVE` |
@@ -105,6 +106,7 @@ Guild Features | Description
 `PARTNERED` | Partner badge near the server name and in mutual server lists.
 `PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
+`RAID_ALERTS_DISABLED` |
 `RAID_ALERTS_ENABLED` | 
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
 `RESTRICT_SPAM_RISK_GUILDS` |
