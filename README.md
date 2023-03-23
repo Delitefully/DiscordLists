@@ -72,6 +72,7 @@ Guild Features | Description
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to guilds previously in the `2021-11_activities_baseline_engagement_bundle` experiment overrides
 `GUILD_AUTOMOD_DEFAULT_LIST` | Given to guilds in the `2022-03_guild_automod_default_list` experiment overrides
 `GUILD_COMMUNICATION_DISABLED_GUILDS` | Given to guilds previously in the `2021-11_guild_communication_disabled_guilds` experiment overrides
+`GUILD_HOME_DEPRECATION_OVERRIDE` |
 `GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature, enables Treatment 2 of the `2022-01_home_tab_guild` experiment overrides
 `GUILD_HOME_TEST` | Gives the guild access to the Home feature, enables Treatment 1 of the `2022-01_home_tab_guild` experiment
 `GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds previously in the `2021-11_member_verification_manual_approval` experiment
