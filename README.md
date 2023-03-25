@@ -118,6 +118,7 @@ Guild Features | Description
 `SHARED_CANVAS_FRIENDS_AND_FAMILY_TEST` | Given to guilds previously in the `2023-01_shared_canvas` experiment overrides
 `SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboardl` experiment overrides
 `SUMMARIES_ENABLED` | Given to guilds in the `2023-02_p13n_summarization` experiment overrides
+`SUMMARIES_ENABLED_GA` | Given to guilds in the `2023-02_p13n_summarization` experiment overrides
 `TEXT_IN_STAGE_ENABLED` | 
 `TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 `THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
