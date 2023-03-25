@@ -116,7 +116,7 @@ Guild Features | Description
 `ROLE_SUBSCRIPTIONS_ENABLED` | Ability to view and manage role subscriptions.
 `ROLE_SUBSCRIPTIONS_ENABLED_FOR_PURCHASE` | 
 `SHARED_CANVAS_FRIENDS_AND_FAMILY_TEST` | Given to guilds previously in the `2023-01_shared_canvas` experiment overrides
-`SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboardl` experiment overrides
+`SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboard` experiment overrides
 `SUMMARIES_ENABLED` | Given to guilds in the `2023-02_p13n_summarization` experiment overrides
 `SUMMARIES_ENABLED_GA` | Given to guilds in the `2023-02_p13n_summarization` experiment overrides
 `TEXT_IN_STAGE_ENABLED` | 
