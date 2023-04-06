@@ -107,8 +107,7 @@ Guild Features | Description
 `PARTNERED` | Partner badge near the server name and in mutual server lists.
 `PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
-`RAID_ALERTS_DISABLED` |
-`RAID_ALERTS_ENABLED` | 
+`RAID_ALERTS_DISABLED` | Guilds is opt-out to raid alerts
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
 `RESTRICT_SPAM_RISK_GUILDS` |
 `ROLE_ICONS` | Ability to set an image or emoji as a role icon.
@@ -147,6 +146,7 @@ Deprecated Guild Features | Description
 `PRIVATE_THREADS` | Ability to create private threads. Is now a base feature.
 `PUBLIC` | Deprecated in favor of `COMMUNITY`
 `PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
+`RAID_ALERTS_ENABLED` | Deprecated in favor of `RAID_ALERTS_DISABLED` since discord switched to an opt-out system.
 `SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
 `THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
 
