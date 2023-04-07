@@ -119,6 +119,7 @@ Guild Features | Description
 `SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboard` experiment overrides
 `SUMMARIES_ENABLED` | Given to guilds in the `2023-02_p13n_summarization` experiment overrides
 `SUMMARIES_ENABLED_GA` | Given to guilds in the `2023-02_p13n_summarization` experiment overrides
+`SUMMARIES_DISABLED_BY_USER` | 
 `TEXT_IN_STAGE_ENABLED` | 
 `TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 `THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
