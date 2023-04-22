@@ -89,6 +89,7 @@ dis.gd/darksiderstw
 dis.gd/devfeedback
 dis.gd/devnewsletter
 dis.gd/devovo
+dis.gd/DDevsGameNightFeedback
 dis.gd/DDevsInterviewPanel
 dis.gd/DDevsInterviewPanelRec
 dis.gd/devstoreform
@@ -286,6 +287,7 @@ dis.gd/pride2021-donate
 dis.gd/prideshowcase
 dis.gd/pronoun-bot
 dis.gd/protectdata
+dis.gd/ps-celebration-pre
 dis.gd/publicguidelines
 dis.gd/PuttPartySupport
 dis.gd/Radio-Discord-Forums-Beta
@@ -376,6 +378,8 @@ dis.gd/timeout
 dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
+dis.gd/townhall-activities
+dis.gd/townhall-gamenight
 dis.gd/townhall-member-survey
 dis.gd/townhall-survey
 dis.gd/traceroute
