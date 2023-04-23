@@ -22,6 +22,7 @@
 | discord-activities.com| Voice channel activity API host          |
 | discordactivities.com | Voice channel activity data management   |
 | discordsays.com       | Voice channel activity host              |
+| discordsez.com        | Voice channel activity staging host      |
 | discordstatus.com     | Status page                              |
 
 ## Other
