@@ -13,6 +13,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80) | 880218394199220334 | Watch Together | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/508edc690ab46bf41c5507656dfb6fe0.webp?size=80) | 1039835161136746497 | Color Together | 0 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1037680572660727838/925d0f981612cc56f1f44c9be0c68be6.webp?size=80) | 1037680572660727838 | Chef Showdown | 0 | 15 |
+| ![Icon](https://cdn.discordapp.com/app-icons/1070087967294631976/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070087967294631976 | Jamspace | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80) | 755827207812677713 | Poker Night | 1 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1007373802981822582/7293b549efff3c5a809999d883f09202.webp?size=80) | 1007373802981822582 | Gartic Phone | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/773336526917861400/0227b2e89ea08d666c43003fbadbc72a.webp?size=80) | 773336526917861400 | Betrayal.io | 0 | Unlimited |
