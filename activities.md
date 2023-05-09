@@ -11,7 +11,7 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/755600276941176913/4e0fd3bf009282c0ecd1fb010e621f28.webp?size=80) | 755600276941176913 | YouTube Together (Deprecated. Replaced by 'Watch Together') | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80) | 880218394199220334 | Watch Together | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/508edc690ab46bf41c5507656dfb6fe0.webp?size=80) | 1039835161136746497 | Color Together | 0 | 100 |
+| ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/cab9ddcb00829a74c48393a9d4bff00b.webp?size=80) | 1039835161136746497 | Color Together | 0 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1037680572660727838/925d0f981612cc56f1f44c9be0c68be6.webp?size=80) | 1037680572660727838 | Chef Showdown | 0 | 15 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070087967294631976/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070087967294631976 | Jamspace | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80) | 755827207812677713 | Poker Night | 1 | 7 |
@@ -36,7 +36,7 @@
 | --- | --- | --- |:---:|:---:|
 | ![Icon](https://cdn.discordapp.com/app-icons/763133495793942528/3bf3592c0949620f0e76cb28ab7affd9.webp?size=80) | 763133495793942528 | PN Dev | 0 | 7 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/3f135503dc803ce7bcf555c769b3f577.webp?size=80) | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
+| ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/1b1a929b491a29f9c18b5001ea947c49.webp?size=80) | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80) | 879863753519292467 | Letter League Dev (Formerly known as 'Letter Tile Dev') | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012586023256104/3b3981ddf67c8702920fae10b5f123ed.webp?size=80) | 832012586023256104 | CG 2 Dev (Also known as 'Chess In The Park Dev') | 0 | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012682520428625/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80) | 832012682520428625 | CG 3 Dev (Also known as 'Checkers In The Park Dev') | 0 | Unlimited |
