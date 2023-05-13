@@ -48,6 +48,7 @@ dis.gd/chromium-q-values
 dis.gd/classroom
 dis.gd/clyde
 dis.gd/cohhcarnage
+dis.gd/clarifying-server-spaces
 dis.gd/commonscams
 dis.gd/community-settings-c
 dis.gd/communityprograms
@@ -200,6 +201,7 @@ dis.gd/inbox
 dis.gd/instability
 dis.gd/install
 dis.gd/installfail
+dis.gd/importantupdates
 dis.gd/iosgofast
 dis.gd/iwd
 dis.gd/iwd-events
@@ -253,6 +255,7 @@ dis.gd/msg-intent-faq
 dis.gd/msg-intent-policy
 dis.gd/multistream
 dis.gd/mumbojumbo
+dis.gd/music-search-page-inclusion
 dis.gd/mytickets
 dis.gd/natsukisel
 dis.gd/nauticalparty
