@@ -8,6 +8,7 @@ dis.gd/accessibility-updates
 dis.gd/activities
 dis.gd/activities-questions
 dis.gd/activitiesfeedback
+dis.gd/activitiesingd
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
 dis.gd/ai-on-discord
