@@ -6,7 +6,9 @@ dis.gd/8thbdayfb
 dis.gd/8thbdayig
 dis.gd/8thbdaytw
 dis.gd/a11y
+dis.gd/abcd
 dis.gd/accessibility-updates
+dis.gd/active-developer-badge
 dis.gd/activities
 dis.gd/activities-questions
 dis.gd/activitiesfeedback
@@ -19,12 +21,14 @@ dis.gd/age-gate
 dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
+dis.gd/app-discovery
 dis.gd/appdiscoveryblog
 dis.gd/appeal
 dis.gd/apps
 dis.gd/app-usernames
 dis.gd/ar12
 dis.gd/atsundowntw
+dis.gd/ava
 dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
