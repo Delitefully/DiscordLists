@@ -33,6 +33,7 @@
 | airhornbot.com            | ^                                                                   |
 | bigbeans.solutions        | [April Fools 2017](https://youtu.be/9Z4GW6Vd6NI)                    |
 | watchanimeattheoffice.com | HypeSquad form placeholder/meme                                     |
+| clydephibi.com | Appears as a placeholder example in the discord.com/build form |
 
 ## Unused
 
