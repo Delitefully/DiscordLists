@@ -39,6 +39,7 @@ dis.gd/bhmcommunities
 dis.gd/billing
 dis.gd/bioshock
 dis.gd/birthday-2022
+dis.gd/birthday
 dis.gd/bitethis
 dis.gd/blackfriday2020
 dis.gd/blog
