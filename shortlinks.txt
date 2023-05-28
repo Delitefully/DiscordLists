@@ -3,6 +3,7 @@ dis.gd/2020report
 dis.gd/2020-in-review
 dis.gd/2fa
 dis.gd/8thbdayfb
+dis.gd/8thbdaygiveawayjp
 dis.gd/8thbdayig
 dis.gd/8thbdaytw
 dis.gd/a11y
@@ -11,6 +12,7 @@ dis.gd/accessibility-updates
 dis.gd/active-developer-badge
 dis.gd/activities
 dis.gd/activities-questions
+dis.gd/activitiesFAQ
 dis.gd/activitiesfeedback
 dis.gd/activitiesingd
 dis.gd/activitybugreport
@@ -28,6 +30,8 @@ dis.gd/apps
 dis.gd/app-usernames
 dis.gd/ar12
 dis.gd/atsundowntw
+dis.gd/automod
+dis.gd/av1update
 dis.gd/ava
 dis.gd/badnorthtw
 dis.gd/badnorthyt
@@ -35,6 +39,7 @@ dis.gd/baronvongamesyt-badnorth
 dis.gd/bday3
 dis.gd/begginersguide
 dis.gd/beginnersguide
+dis.gd/bhm-2023
 dis.gd/bhmcommunities
 dis.gd/billing
 dis.gd/bioshock
@@ -58,12 +63,13 @@ dis.gd/childsplaydiscordhype
 dis.gd/chromium-q-values
 dis.gd/classroom
 dis.gd/clyde
-dis.gd/cohhcarnage
 dis.gd/clarifying-server-spaces
+dis.gd/cohhcarnage
+dis.gd/collegiumdiscordgiveaway
 dis.gd/commonscams
 dis.gd/community-settings-c
-dis.gd/communityprograms
 dis.gd/Community_Resources
+dis.gd/communityprograms
 dis.gd/communityresearch
 dis.gd/communityservers
 dis.gd/communitystories
@@ -111,6 +117,7 @@ dis.gd/dglbugs
 dis.gd/dglfeedback
 dis.gd/DGLrole
 dis.gd/dgtvcommunity
+dis.gd/discord-drops
 dis.gd/discord-link-playstation
 dis.gd/Discord_to_Patreon_FAQ
 dis.gd/discord-stories
@@ -179,6 +186,7 @@ dis.gd/findmyid
 dis.gd/fitz-lastyear
 dis.gd/fodblog
 dis.gd/folders
+dis.gd/fortnite-quest
 dis.gd/fourvalues
 dis.gd/frostfangs-paladins
 dis.gd/frostpunk
@@ -216,6 +224,7 @@ dis.gd/importantupdates
 dis.gd/iosgofast
 dis.gd/iwd
 dis.gd/iwd-events
+dis.gd/jan2023-whatsnew
 dis.gd/jauz
 dis.gd/jelly-atsundown
 dis.gd/jhzer
@@ -274,10 +283,12 @@ dis.gd/netneutrality
 dis.gd/nexxuzworld
 dis.gd/niscordditro
 dis.gd/nitro
+dis.gd/nitro-april-drop
 dis.gd/nitrobogo
 dis.gd/nitrobogo22
 dis.gd/nitrochanges
 dis.gd/nitrotab
+dis.gd/nitroxboxpromo2021
 dis.gd/noisecancellation
 dis.gd/nzxtpc
 dis.gd/oj-minionmasters
@@ -292,9 +303,11 @@ dis.gd/parkasaurustw
 dis.gd/partnercoc
 dis.gd/partners
 dis.gd/password
+dis.gd/paxeast2023giveaway
 dis.gd/phish
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
+dis.gd/playstation
 dis.gd/police2tw
 dis.gd/pride-2022
 dis.gd/pride2021
@@ -318,6 +331,7 @@ dis.gd/report
 dis.gd/request
 dis.gd/riotarmyos
 dis.gd/rtgame-sinneryt
+dis.gd/safer-internet-day-2023
 dis.gd/safety
 dis.gd/sarinha3
 dis.gd/sayhi2servideo
@@ -336,6 +350,7 @@ dis.gd/serversubs105
 dis.gd/server-subs-survey
 dis.gd/servertimeoutfaq-co
 dis.gd/servervideo
+dis.gd/shivfps
 dis.gd/sinnertw
 dis.gd/siphano
 dis.gd/skyyart
@@ -352,6 +367,7 @@ dis.gd/snowsgivingIG
 dis.gd/snowsgivingmerch-co
 dis.gd/snowsgivingyt
 dis.gd/socialfaq
+dis.gd/soundboard
 dis.gd/soundpackfaq
 dis.gd/sp4zie-warframe
 dis.gd/sp4zieyt-lastyear
@@ -371,6 +387,7 @@ dis.gd/studenthubs
 dis.gd/subnauticatw
 dis.gd/summer22nitrobogofr
 dis.gd/sunlightbladesinner
+dis.gd/super-reactions
 dis.gd/support
 dis.gd/swag
 dis.gd/swaggersouls-lastyear
@@ -383,6 +400,7 @@ dis.gd/terms
 dis.gd/testclients
 dis.gd/testflight
 dis.gd/text-in-voice
+dis.gd/themes
 dis.gd/thinknoodlesbadnorth
 dis.gd/thinknoodlesfk
 dis.gd/thnxcya
@@ -401,6 +419,9 @@ dis.gd/townhall-survey
 dis.gd/traceroute
 dis.gd/Transcript_RadioDiscord_AppDirectory
 dis.gd/transparency-q1-2022
+dis.gd/transparency-q2-2022
+dis.gd/transparency-q3-2022
+dis.gd/transparency-q4-2022
 dis.gd/transparency20
 dis.gd/transparencyh12021
 dis.gd/trickcordtreat
@@ -419,6 +440,7 @@ dis.gd/vfqual
 dis.gd/vfs
 dis.gd/vgd-twitter
 dis.gd/video-backgrounds-co
+dis.gd/video-in-stages
 dis.gd/videotime
 dis.gd/visagetw
 dis.gd/viva_h-rt
