@@ -56,7 +56,8 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832025061657280566/832ff736821811d7f41d0ff09b374ccb.webp?size=80) | 832025061657280566 | CG4 Staging | 0 | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80) | 893449443918086174 | SpellCast Staging | 0 | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80) | 945732077960188005 | Putt Party Stg | 0 | Unlimited |
-| ![Icon](https://cdn.discordapp.com/app-icons/1049916362383962192/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1049916362383962192 | [Legacy] Colonist.io Staging | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/1106787009256767498/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1106787009256767498 | Colonist.io Staging | 0 | Unlimited |
+| ![Icon](https://cdn.discordapp.com/app-icons/1049916362383962192/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1049916362383962192 | [Deprecated] Colonist.io Staging | 0 | Unlimited |
 
 ### QA versions
 | Icon | Application ID | Application name | Boost level | Max participants |
