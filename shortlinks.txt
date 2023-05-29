@@ -183,6 +183,7 @@ dis.gd/donate
 dis.gd/donate-snowsgiving
 dis.gd/doom49yt
 dis.gd/doom49yt-h&gwwii
+dis.gd/download
 dis.gd/dragndropFAQ
 dis.gd/dreamcommunity
 dis.gd/dr_horseyt-atsundown
