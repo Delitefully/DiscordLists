@@ -7,6 +7,7 @@ dis.gd/8thbdaygiveawayjp
 dis.gd/8thbdayig
 dis.gd/8thbdaytw
 dis.gd/a11y
+dis.gd/aapihm-2022
 dis.gd/abcd
 dis.gd/accessibility-updates
 dis.gd/active-developer-badge
@@ -15,6 +16,7 @@ dis.gd/activities-questions
 dis.gd/activitiesFAQ
 dis.gd/activitiesfeedback
 dis.gd/activitiesingd
+dis.gd/ActivitiesMoving
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
 dis.gd/add-trickcordtreat
@@ -23,14 +25,18 @@ dis.gd/ai-on-discord
 dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
+dis.gd/app-directory-developers
+dis.gd/app-directory-for-servers
 dis.gd/app-discovery
 dis.gd/app-usernames
 dis.gd/appdiscoveryblog
 dis.gd/appeal
+dis.gd/appprofilepages
 dis.gd/apps
 dis.gd/ar12
 dis.gd/atsundowntw
 dis.gd/automod
+dis.gd/automod-spam-raids
 dis.gd/av1update
 dis.gd/ava
 dis.gd/badnorthtw
@@ -39,6 +45,7 @@ dis.gd/baronvongamesyt-badnorth
 dis.gd/bday3
 dis.gd/begginersguide
 dis.gd/beginnersguide
+dis.gd/bhm-2022
 dis.gd/bhm-2023
 dis.gd/bhmcommunities
 dis.gd/billing
@@ -58,8 +65,11 @@ dis.gd/bug-tool
 dis.gd/bughunting
 dis.gd/bugreport
 dis.gd/bugs
+dis.gd/building-the-future
 dis.gd/buildyourkingdom
 dis.gd/c-server-subscriptions
+dis.gd/calixta-guide
+dis.gd/capcom-x-discord
 dis.gd/CCreatorPortal
 dis.gd/childsplaydiscordhype
 dis.gd/chromium-q-values
@@ -68,13 +78,16 @@ dis.gd/classroom
 dis.gd/clyde
 dis.gd/cohhcarnage
 dis.gd/collegiumdiscordgiveaway
+dis.gd/common-scams
 dis.gd/commonscams
 dis.gd/community-settings-c
+dis.gd/community-updates
 dis.gd/communityprograms
 dis.gd/communityresearch
 dis.gd/communityservers
 dis.gd/communitystories
 dis.gd/Community_Resources
+dis.gd/connections
 dis.gd/contact
 dis.gd/coolplaylist
 dis.gd/cprog
@@ -83,8 +96,10 @@ dis.gd/creator-support
 dis.gd/creators-waitlist
 dis.gd/credit
 dis.gd/crosscodetw
+dis.gd/crunchyrollgiveaway22
 dis.gd/CServerSubs
 dis.gd/CServerSubsHC
+dis.gd/cu-automod-blog
 dis.gd/CUServerSubs
 dis.gd/customroleiconsfaq
 dis.gd/DAC-FAQ
@@ -122,6 +137,7 @@ dis.gd/discord-link-playstation
 dis.gd/discord-stories
 dis.gd/discord101
 dis.gd/discord101
+dis.gd/discordJP-link-playstation
 dis.gd/discordlflconcours
 dis.gd/discordswim4
 dis.gd/Discord_to_Patreon_FAQ
@@ -174,6 +190,7 @@ dis.gd/eaislive
 dis.gd/early_access
 dis.gd/earthday
 dis.gd/easier-servers
+dis.gd/emoji-effect
 dis.gd/events
 dis.gd/exam
 dis.gd/fancyfancyandroidthings
@@ -187,6 +204,7 @@ dis.gd/fitz-lastyear
 dis.gd/fodblog
 dis.gd/folders
 dis.gd/fortnite-quest
+dis.gd/forum-channels
 dis.gd/fourvalues
 dis.gd/frostfangs-paladins
 dis.gd/frostpunk
@@ -210,6 +228,7 @@ dis.gd/hackweekwinners
 dis.gd/halloweenbot
 dis.gd/halloweenbot2020
 dis.gd/help
+dis.gd/hispanic-latinx-heritage-2022
 dis.gd/holycrap
 dis.gd/how-to-set-up-Onboarding
 dis.gd/howtoreport
@@ -256,10 +275,12 @@ dis.gd/mcalternatives
 dis.gd/mccontact
 dis.gd/mcfaq
 dis.gd/mcpolicy
+dis.gd/meet-admins
 dis.gd/merch
 dis.gd/merchyt
 dis.gd/mermaid
 dis.gd/messageid
+dis.gd/MKBHD
 dis.gd/MKBHD_casestudy
 dis.gd/mmsnow18
 dis.gd/mobile-voice-help
@@ -280,10 +301,14 @@ dis.gd/mytickets
 dis.gd/natsukisel
 dis.gd/nauticalparty
 dis.gd/netneutrality
+dis.gd/new-mental-health-partnerships
+dis.gd/new-nitro-basic
 dis.gd/nexxuzworld
 dis.gd/niscordditro
 dis.gd/nitro
 dis.gd/nitro-april-drop
+dis.gd/nitro-bogo
+dis.gd/nitro5year
 dis.gd/nitrobogo
 dis.gd/nitrobogo22
 dis.gd/nitrochanges
@@ -305,6 +330,7 @@ dis.gd/partners
 dis.gd/password
 dis.gd/paxeast2023giveaway
 dis.gd/phish
+dis.gd/picsartfaq
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/playstation
@@ -376,6 +402,7 @@ dis.gd/starwarshq-darkforces
 dis.gd/starwarshq-jediknight
 dis.gd/starwarshq-kotor
 dis.gd/status
+dis.gd/steelseriespromofaq
 dis.gd/stickersfaq
 dis.gd/stickerswhen
 dis.gd/stop
@@ -384,6 +411,7 @@ dis.gd/store
 dis.gd/stream
 dis.gd/streamkit
 dis.gd/studenthubs
+dis.gd/studenthubs22
 dis.gd/subnauticatw
 dis.gd/summer22nitrobogofr
 dis.gd/sunlightbladesinner
@@ -400,6 +428,7 @@ dis.gd/terms
 dis.gd/testclients
 dis.gd/testflight
 dis.gd/text-in-voice
+dis.gd/the-herd
 dis.gd/themes
 dis.gd/thinknoodlesbadnorth
 dis.gd/thinknoodlesfk
@@ -418,6 +447,7 @@ dis.gd/townhall-member-survey
 dis.gd/townhall-survey
 dis.gd/traceroute
 dis.gd/Transcript_RadioDiscord_AppDirectory
+dis.gd/transparency-h2-2021
 dis.gd/transparency-q1-2022
 dis.gd/transparency-q2-2022
 dis.gd/transparency-q3-2022
@@ -451,6 +481,7 @@ dis.gd/vsreqs
 dis.gd/website
 dis.gd/whynot9010
 dis.gd/wonderventures
+dis.gd/world-mental-health-day
 dis.gd/wumpus
 dis.gd/wumpus-journey
 dis.gd/wumpus4pride
