@@ -12,12 +12,12 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80) | 852509694341283871 | SpellCast | ✅ | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80) | 879863686565621790 | Letter League _(Formerly known as 'Letter Tile')_ | ✅ | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80) | 880218394199220334 | Watch Together |  | Unlimited | [1^]: asd
-| ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80) | 902271654783242291 | Sketch Heads |  | 16 |
+| ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80) | 902271654783242291 | Sketch Heads | ✅ | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/c4d8b95b8f06b1ff8cf2b769e94505a8.webp?size=80) | 903769130790969345 | Land.io | ✅ | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/12ee915c2f75d7f2c7d551819534f158.webp?size=80) | 945737671223947305 | Putt Party | ✅ | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/947957217959759964/b485f75e95e6486a758a4aa5db3352f4.webp?size=80) | 947957217959759964 | Bobble League | ✅ | 8 |
 | ![Icon](https://cdn.discordapp.com/app-icons/950505761862189096/6f547114b2979b8bc83e4ba91b4d770d.webp?size=80) | 950505761862189096 | Know What I Meme |  | 9 |
-| ![Icon](https://cdn.discordapp.com/app-icons/976052223358406656/4f86c19a69cc3002d1b52f7a22687adf.webp?size=80) | 976052223358406656 | Ask Away |  | 10 |
+| ![Icon](https://cdn.discordapp.com/app-icons/976052223358406656/4f86c19a69cc3002d1b52f7a22687adf.webp?size=80) | 976052223358406656 | Ask Away | ✅ | 10 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1000100849122553977/ef2be6cbe3f5b2a87c13d229cc0f8493.webp?size=80) | 1000100849122553977 | Bobble Land: Scrappies |  | 4 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1006584476094177371/eace9c231b505f0c96fba27d1795c31a.webp?size=80) | 1006584476094177371 | Bash Out | ✅ | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/1007373802981822582/7293b549efff3c5a809999d883f09202.webp?size=80) | 1007373802981822582 | Gartic Phone |  | 16 |
@@ -65,27 +65,27 @@
 ### Other applications
 | Icon | Application ID | Application name | Nitro? | Max participants |
 |:---:|:---:| --- |:---:|:---:|
-| ![Unknown Icon][unknown] | 832025993019260929 | CGSample |  | 100 |
+| ❔ | 832025993019260929 | CGSample |  | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80)| 880559245471408169 | iframe-playground |  | 100 |
-| ![Unknown Icon][unknown] | 881732122631634984 | test-game-001 |  | Unlimited |
+| ❔ | 881732122631634984 | test-game-001 |  | Unlimited |
 | ![Icon](https://cdn.discordapp.com/app-icons/1001529884625088563/ab01dfd5deb4ca7e1649f5e1d2a982aa.webp?size=80)| 1001529884625088563 | Guestbook |  | Unlimited |
-| ![Unknown Icon][unknown] | 1100444516957298820 | Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ |  | Unlimited |
+| ❔ | 1100444516957298820 | Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ |  | Unlimited |
 
 ### Deleted applications
 | Icon | Application ID | Application name | Nitro? | Max participants |
 |:---:|:---:| --- |:---:|:---:|
-| ![Unknown Icon][unknown] | 832012854282158180 | Delete Me Calla _(Formerly known as 'putt dis' 'click dis' and 'Putts'.)_ |  | 12 |
-| ![Unknown Icon][unknown] | 832025179659960360 | Discord Game 14 |
-| ![Unknown Icon][unknown] | 832025219526033439 | Discord Game 15 |
-| ![Unknown Icon][unknown] | 832025249335738428 | Discord Game 16 |
-| ![Unknown Icon][unknown] | 832025333930524692 | Discord Game 17 |
-| ![Unknown Icon][unknown] | 832025385159622656 | Discord Game 18 |
-| ![Unknown Icon][unknown] | 832025431280320532 | Discord Game 19 |
-| ![Unknown Icon][unknown] | 832025470685937707 | Discord Game 20 |
-| ![Unknown Icon][unknown] | 832025799590281238 | Discord Game 21 |
-| ![Unknown Icon][unknown] | 832025857525678142 | Discord Game 22 |  | Unlimited |
-| ![Unknown Icon][unknown] | 832025886030168105 | Discord Game 23 |  | Unlimited |
-| ![Unknown Icon][unknown] | 832025928938946590 | Discord Game 24 |  | 100 |
+| ❔ | 832012854282158180 | Delete Me Calla _(Formerly known as 'putt dis' 'click dis' and 'Putts'.)_ |  | 12 |
+| ❔ | 832025179659960360 | Discord Game 14 |
+| ❔ | 832025219526033439 | Discord Game 15 |
+| ❔ | 832025249335738428 | Discord Game 16 |
+| ❔ | 832025333930524692 | Discord Game 17 |
+| ❔ | 832025385159622656 | Discord Game 18 |
+| ❔ | 832025431280320532 | Discord Game 19 |
+| ❔ | 832025470685937707 | Discord Game 20 |
+| ❔ | 832025799590281238 | Discord Game 21 |
+| ❔ | 832025857525678142 | Discord Game 22 |  | Unlimited |
+| ❔ | 832025886030168105 | Discord Game 23 |  | Unlimited |
+| ❔ | 832025928938946590 | Discord Game 24 |  | 100 |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067389634314250/9bd4b9e21576f14f09a9284d45640a9e.webp?size=80) | 878067389634314250 | Doodle Crew _(Deprecated. Replaced by 'Sketch Heads')_ |  | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/878067427668275241/50be5b98e871a395aa160fefdba5b596.webp?size=80) | 878067427668275241 | Doodle Crew Dev _(Deprecated. Replaced by 'Sketch Heads Dev')_ |  | 16 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863881349087252/7bb9cd8518723b74c9a1d260cd177f24.webp?size=80) | 879863881349087252 | Awkword |  | 12 |
@@ -95,7 +95,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/879864070101172255/0214576f3c33e4026a72f248c11d2292.webp?size=80) | 879864070101172255 | Sketchy Artist |  | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/879864104980979792/86df8c0d2ab678bba9ac560d42a6f9aa.webp?size=80) | 879864104980979792 | Sketchy Artist Dev |  | 12 |
 | ![Icon](https://cdn.discordapp.com/app-icons/891001866073296967/ab9c4e0add01dc8934a336bbc947738e.webp?size=80) | 891001866073296967 | Decoders Dev |  | 32 |
-| ![Unknown Icon][unknown] | 1006986333539029022 | Clone - Watch Together |  | Unlimited |
+| ❔ | 1006986333539029022 | Clone - Watch Together |  | Unlimited |
 
 ## MAX CONCURRENT ACTIVITIES
 | Boost tier | Max concurrent activities |
@@ -104,5 +104,3 @@
 |  Tier 1 |  3  |
 |  Tier 2 |  5  |
 |  Tier 3 | Unlimited <!-- Number.MAX_SAFE_INTEGER = 9007199254740991 --> |
-
-[unknown]: https://i.imgur.com/ZrlKY1F.png "Unknown Icon"
