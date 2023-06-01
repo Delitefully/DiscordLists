@@ -25,6 +25,7 @@ dis.gd/ai-on-discord
 dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
+dis.gd/app-directory-appeal
 dis.gd/app-directory-developers
 dis.gd/app-directory-for-servers
 dis.gd/app-discovery
@@ -60,6 +61,7 @@ dis.gd/blurpletesla
 dis.gd/blurpletesla-ig
 dis.gd/boost
 dis.gd/bot-verification
+dis.gd/bts
 dis.gd/bts-minionmasters
 dis.gd/bug-tool
 dis.gd/bughunting
@@ -123,6 +125,7 @@ dis.gd/dcc_saferserver
 dis.gd/DDevsGameNightFeedback
 dis.gd/DDevsInterviewPanel
 dis.gd/DDevsInterviewPanelRec
+dis.gd/developer-support
 dis.gd/devfeedback
 dis.gd/devnewsletter
 dis.gd/devovo
@@ -278,6 +281,7 @@ dis.gd/mccontact
 dis.gd/mcfaq
 dis.gd/mcpolicy
 dis.gd/meet-admins
+dis.gd/meet-admins-cl
 dis.gd/merch
 dis.gd/merchyt
 dis.gd/mermaid
@@ -443,6 +447,7 @@ dis.gd/timeout
 dis.gd/tns2019
 dis.gd/tos
 dis.gd/tosoct18
+dis.gd/townhall
 dis.gd/townhall-activities
 dis.gd/townhall-gamenight
 dis.gd/townhall-member-survey
