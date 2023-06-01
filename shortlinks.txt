@@ -488,6 +488,7 @@ dis.gd/wumpus
 dis.gd/wumpus-journey
 dis.gd/wumpus4pride
 dis.gd/wumpusfundraiser
+dis.gd/wumpuswonderventuresgiveaway
 dis.gd/wungus-principles
 dis.gd/xbox-voice
 dis.gd/xboxnitro2020
