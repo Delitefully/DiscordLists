@@ -1,3 +1,4 @@
+dis.gd/0
 dis.gd/1
 dis.gd/2020-in-review
 dis.gd/2020report
