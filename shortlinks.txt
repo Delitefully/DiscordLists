@@ -435,6 +435,7 @@ dis.gd/tcabu2
 dis.gd/teamchaos
 dis.gd/templates
 dis.gd/terms
+dis.gd/test
 dis.gd/testclients
 dis.gd/testflight
 dis.gd/text-in-voice
