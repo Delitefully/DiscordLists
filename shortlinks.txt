@@ -382,6 +382,7 @@ dis.gd/serversubs105
 dis.gd/ServerSubsWaitlist
 dis.gd/servertimeoutfaq-co
 dis.gd/servervideo
+dis.gd/sgfundraiser
 dis.gd/shivfps
 dis.gd/sinnertw
 dis.gd/siphano
