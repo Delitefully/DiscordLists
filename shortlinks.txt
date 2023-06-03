@@ -331,6 +331,7 @@ dis.gd/ournewlookhc
 dis.gd/overlaybb
 dis.gd/overlayredesign
 dis.gd/parkasaurustw
+dis.gd/partnerapps
 dis.gd/partnercoc
 dis.gd/partners
 dis.gd/password
@@ -426,6 +427,7 @@ dis.gd/super-reactions
 dis.gd/support
 dis.gd/swag
 dis.gd/swaggersouls-lastyear
+dis.gd/system-messages
 dis.gd/systemtw
 dis.gd/talk
 dis.gd/tcabu2
