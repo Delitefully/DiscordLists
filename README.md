@@ -57,8 +57,8 @@ Guild Features | Description
 `CHANNEL_EMOJIS_GENERATED` |
 `CHANNEL_HIGHLIGHTS` |
 `CHANNEL_HIGHLIGHTS_DISABLED` | 
-`CLYDE_ENABLED` | Enables ClydeAI for the guild
-`CLYDE_EXPERIMENT_ENABLED` | Probably something from ian 1
+`CLYDE_ENABLED` | 
+`CLYDE_EXPERIMENT_ENABLED` | Enables ClydeAI for the guild
 `CLYDE_DISABLED` |
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_ACCEPTED_NEW_TERMS` |
