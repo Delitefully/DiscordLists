@@ -58,8 +58,8 @@
 | 32768    | 1<<15   | GATEWAY_GUILD_MEMBERS_LIMITED                 | Intent required for bots in under 100 servers to receive member-related events like guild_member_add   | ✔      | ✔          |
 | 65536    | 1<<16   | VERIFICATION_PENDING_GUILD_LIMIT              | Indicates unusual growth of an app that prevents verification.                                         | ❌     | ✔          |
 | 131072   | 1<<17   | EMBEDDED                                      | Indicates if an app is embedded within the Discord client                                              | ❌     | ✔          |
-| 262144   | 1<<18   | GATEWAY_MESSAGE_CONTENT                       | Intent required for bots in 100 or more servers to receive message content                             | ❌     | ✔          |
-| 524288   | 1<<19   | GATEWAY_MESSAGE_CONTENT_LIMITED               | Intent required for bots in under 100 servers to receive message content                               | ❌     | ✔          |
+| 262144   | 1<<18   | GATEWAY_MESSAGE_CONTENT                       | Intent required for bots in 100 or more servers to receive message content                             | ✔      | ✔          |
+| 524288   | 1<<19   | GATEWAY_MESSAGE_CONTENT_LIMITED               | Intent required for bots in under 100 servers to receive message content                               | ✔      | ✔          |
 | 1048576  | 1<<20   | EMBEDDED_FIRST_PARTY                          | Indicates a first-party embedded app                                                                   | ❌     | ❌         |
 | 2097152  | 1<<21   | UNKNOWN_FLAG_21                               |                                                                                                        | ✔      | ❌         |
 | 8388608  | 1<<23   | APPLICATION_COMMAND_BADGE                     | Indicates if an app has registered global application commands                                         | ✔      | ✔          |
