@@ -5,7 +5,7 @@ Community-sourced documentation and data collection project around the Discord a
 
 To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
 
-e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"ANIMATED_ICON", "AUTO_MODERATION", "MEMBER_VERIFICATION_GATE_ENABLED", "PREVIEW_ENABLED", "BANNER", "NEW_THREAD_PERMISSIONS", "WELCOME_SCREEN_ENABLED", "PARTNERED", "VIP_REGIONS", "VERIFIED", "AUTOMOD_TRIGGER_KEYWORD_FILTER", "VANITY_URL", "AUTOMOD_TRIGGER_SPAM_LINK_FILTER", "ANIMATED_BANNER", "INVITE_SPLASH", "THREE_DAY_THREAD_ARCHIVE", "ROLE_ICONS", "PRIVATE_THREADS", "MEMBER_PROFILES", "THREADS_ENABLED", "NEWS", "SEVEN_DAY_THREAD_ARCHIVE", "COMMUNITY", "FEATURABLE", "GUILD_COMMUNICATION_DISABLED_GUILDS"`
+e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"ROLE_ICONS", "GUILD_COMMUNICATION_DISABLED_GUILDS", "FEATURABLE", "VANITY_URL", "CHANNEL_ICON_EMOJIS_GENERATED", "AUTOMOD_TRIGGER_USER_PROFILE", "PARTNERED", "TEXT_IN_STAGE_ENABLED", "GUILD_ONBOARDING_EVER_ENABLED", "PRIVATE_THREADS", "GUILD_SERVER_GUIDE", "ENABLED_DISCOVERABLE_BEFORE", "NEW_THREAD_PERMISSIONS", "BANNER", "AUTOMOD_TRIGGER_SPAM_LINK_FILTER", "INVITE_SPLASH", "AUTO_MODERATION", "AUTOMOD_TRIGGER_KEYWORD_FILTER", "NEWS", "VIP_REGIONS", "GUILD_HOME_OVERRIDE", "MEMBER_PROFILES", "HAS_DIRECTORY_ENTRY", "SOUNDBOARD", "GUILD_ONBOARDING", "PREVIEW_ENABLED", "THREADS_ENABLED", "DISCOVERABLE", "RESTRICT_SPAM_RISK_GUILDS", "ANIMATED_BANNER", "COMMUNITY", "GUILD_ONBOARDING_ADMIN_ONLY", "SEVEN_DAY_THREAD_ARCHIVE", "THREE_DAY_THREAD_ARCHIVE", "ANIMATED_ICON", "CHANNEL_HIGHLIGHTS", "VERIFIED", "COMMUNITY_EXP_LARGE_GATED", "MEMBER_VERIFICATION_GATE_ENABLED", "WELCOME_SCREEN_ENABLED", "GUILD_ONBOARDING_HAS_PROMPTS", "GUILD_WEB_PAGE_VANITY_URL"`
  
  *Cover image created by [Dhanish Danu](https://dhanish.xyz/)*.
  
@@ -59,10 +59,10 @@ Guild Features | Description
 `CHANNEL_HIGHLIGHTS_DISABLED` | 
 `CLYDE_ENABLED` | 
 `CLYDE_EXPERIMENT_ENABLED` | Enables ClydeAI for the guild
-`CLYDE_DISABLED` |
+`CLYDE_DISABLED` | Given when a server administrator disables ClydeAI for the guild
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
 `CREATOR_ACCEPTED_NEW_TERMS` |
-`CREATOR_MONETIZABLE` |
+`CREATOR_MONETIZABLE` | Given to guilds that enabled role subscriptions through the manual approval system
 `CREATOR_MONETIZABLE_DISABLED` |
 `CREATOR_MONETIZABLE_PENDING_NEW_OWNER_ONBOARDING` |
 `CREATOR_MONETIZABLE_PROVISIONAL` |
@@ -89,7 +89,7 @@ Guild Features | Description
 `GUILD_ROLE_SUBSCRIPTIONS` | Given to guilds previously in the `2021-06_guild_role_subscriptions` experiment overrides
 `GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
 `GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds previously in the `2022-01_guild_role_subscription_trials` experiment overrides
-`GUILD_SERVER_GUIDE` |
+`GUILD_SERVER_GUIDE` | Guild has enabled [server guide](https://support.discord.com/hc/en-us/articles/13497665141655)
 `GUILD_WEB_PAGE_VANITY_URL` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
@@ -98,7 +98,7 @@ Guild Features | Description
 `INCREASED_THREAD_LIMIT` | Allows the server to have 1,000+ active threads
 `INTERNAL_EMPLOYEE_ONLY` | Restricts the guild so that only users with the staff flag can join.
 `INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
-`INVITES_DISABLED` | [Prevents new members from joining](https://support.discord.com/hc/en-us/articles/8458903738647-Pause-Invites-FAQ) and shows an error when attemping to join the server.
+`INVITES_DISABLED` | [Prevents new members from joining](https://support.discord.com/hc/en-us/articles/8458903738647) and shows an error when attemping to join the server.
 `LINKED_TO_HUB` | 
 `MARKETPLACES_CONNECTION_ROLES` | 
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
@@ -108,12 +108,12 @@ Guild Features | Description
 `MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to receive role subscription payouts
 `MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
 `MORE_STICKERS` | Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
-`NEWS` | Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531-Channel-Following-FAQ) which can be followed, and shows the Announcements analytics tab in the guild settings.
-`NEW_THREAD_PERMISSIONS` | Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ#h_01FDGC4JW2D665Y230KPKWQZPN).
+`NEWS` | Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531) which can be followed, and shows the Announcements analytics tab in the guild settings.
+`NEW_THREAD_PERMISSIONS` | Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423#h_01FDGC4JW2D665Y230KPKWQZPN).
 `PARTNERED` | Partner badge near the server name and in mutual server lists.
 `PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
-`RAID_ALERTS_DISABLED` | Guilds is opt-out from raid alerts
+`RAID_ALERTS_DISABLED` | Guild is opt-out from raid alerts
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
 `RESTRICT_SPAM_RISK_GUILDS` |
 `ROLE_ICONS` | Ability to set an image or emoji as a role icon.
@@ -154,7 +154,7 @@ Deprecated Guild Features | Description
 `PRIVATE_THREADS` | Ability to create private threads. Is now a base feature.
 `PUBLIC` | Deprecated in favor of `COMMUNITY`
 `PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
-`RAID_ALERTS_ENABLED` | Deprecated in favor of `RAID_ALERTS_DISABLED` since discord switched to an opt-out system.
+`RAID_ALERTS_ENABLED` | Deprecated in favor of `RAID_ALERTS_DISABLED` since Discord switched to an [opt-out system](https://github.com/discord/discord-api-docs/pull/5778#discussion_r1160146853).
 `SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
 `THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
 
@@ -171,7 +171,7 @@ Deprecated Guild Features | Description
 | Server boosting tier 2         |            | ✓             |             | 256kbps               |                    | Boost tier 2 icon       | 100 \(150 total\) | ✓             | ✓      |         |                       |                |                   |                    |      | ✓          |
 | Server boosting tier 3         | ✓          | ✓             |             | 384kbps               |                    | Boost tier 3 icon  i    | 200 \(250 total\) | ✓             | ✓      |         |                       |                |                   |                    | Private Threads          | ✓          |
 | Commerce \(Developer License\) |            |               |             |                       |                    |                         |                   |               |        | ✓       | ✓                     | ✓              |                   |                    |                          |            |
-| Community                      |            |               |             |                       |                    |                         |                   |               |        | ✓       | ✓                     |                |                   | Can apply          |                          |            |
+| Community                      |            |               |             |                       |                    |                         |                   |               |        |         | ✓                     |                |                   | Can apply          |                          |            |
 | Student Hub                    |            |               |             |                       |                    | Directory channel icon  |                   |               |        |         |                       |                | ✓                 |                    |                          |            |
 
 \* If the guild is a hub this will be a directory channel icon with a green instead of a grey background instead.
