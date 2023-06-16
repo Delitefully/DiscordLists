@@ -460,7 +460,6 @@ dis.gd/tosoct18
 dis.gd/townhall
 dis.gd/townhall-activities
 dis.gd/townhall-birthday-survey
-dis.gd/townhall-birthday-survey
 dis.gd/townhall-gamenight
 dis.gd/townhall-member-survey
 dis.gd/townhall-survey
