@@ -442,6 +442,7 @@ dis.gd/terms
 dis.gd/test
 dis.gd/testclients
 dis.gd/testflight
+dis.gd/testgardeninterest
 dis.gd/text-in-voice
 dis.gd/the-herd
 dis.gd/themes
@@ -458,6 +459,7 @@ dis.gd/tos
 dis.gd/tosoct18
 dis.gd/townhall
 dis.gd/townhall-activities
+dis.gd/townhall-birthday-survey
 dis.gd/townhall-birthday-survey
 dis.gd/townhall-gamenight
 dis.gd/townhall-member-survey
