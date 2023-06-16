@@ -298,6 +298,7 @@ dis.gd/modacademy
 dis.gd/modbadge
 dis.gd/moderation
 dis.gd/molt
+dis.gd/Monetization_Terms
 dis.gd/mrfruitatsundown
 dis.gd/msg-intent-faq
 dis.gd/msg-intent-policy
@@ -384,6 +385,8 @@ dis.gd/serversubs105
 dis.gd/ServerSubsWaitlist
 dis.gd/servertimeoutfaq-co
 dis.gd/servervideo
+dis.gd/Server_Subs_Eligibility
+dis.gd/Server_Subs_Policy
 dis.gd/sgfundraiser
 dis.gd/shivfps
 dis.gd/sinnertw
