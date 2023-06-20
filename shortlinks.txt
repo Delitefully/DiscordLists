@@ -374,6 +374,7 @@ dis.gd/scalingwithrust
 dis.gd/scheduled_events_c
 dis.gd/security
 dis.gd/server-subs-survey
+dis.gd/server-subscriptions-updates
 dis.gd/serveravatarsfaq
 dis.gd/serverboosting
 dis.gd/serverid
