@@ -373,6 +373,7 @@ dis.gd/sayhi2servideo
 dis.gd/scalingwithrust
 dis.gd/scheduled_events_c
 dis.gd/security
+dis.gd/server-sub-updates
 dis.gd/server-subs-survey
 dis.gd/server-subscriptions-updates
 dis.gd/serveravatarsfaq
