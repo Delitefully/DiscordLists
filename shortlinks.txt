@@ -487,6 +487,7 @@ dis.gd/verify
 dis.gd/vfqual
 dis.gd/vfs
 dis.gd/vgd-twitter
+dis.gd/VidCon2023panel
 dis.gd/video-backgrounds-co
 dis.gd/video-in-stages
 dis.gd/videotime
