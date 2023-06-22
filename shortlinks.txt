@@ -214,6 +214,7 @@ dis.gd/fourvalues
 dis.gd/frostfangs-paladins
 dis.gd/frostpunk
 dis.gd/fruitnation
+dis.gd/fun-with-friends
 dis.gd/funimation
 dis.gd/fyfu
 dis.gd/gamepass
