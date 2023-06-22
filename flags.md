@@ -64,4 +64,5 @@
 | 2097152  | 1<<21   | UNKNOWN_FLAG_21                               |                                                                                                        | ✔      | ❌         |
 | 8388608  | 1<<23   | APPLICATION_COMMAND_BADGE                     | Indicates if an app has registered global application commands                                         | ✔      | ✔          |
 | 16777216 | 1<<24   | ACTIVE                                        | Indicates if an app is considered active                                                               | ❌     | ✔          |
+| 67108864 | 1<<26   | IFRAME_MODAL                                  | Allows the app to use IFrame modals                                                                    | ✔      | ❌         |
 
