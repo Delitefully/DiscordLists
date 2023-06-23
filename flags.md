@@ -110,3 +110,13 @@
 | 2048 | 1<<11   | SUMMARIES_DISABLED                         | This guild channel has summaries disabled                                                              |
 | 4096 | 1<<12   | APPLICATION_SHELF_CONSENT                  | This private channel's recipients consented to the application shelf                                   |
 | 8192 | 1<<13   | ROLE_SUBSCRIPTION_TEMPLATE_PREVIEW_CHANNEL | This role subscription tier for this guild channel has not been published yet                          |
+
+### System Channel Flags
+| Flag | Bitwise | Internal Name                                            | Description                                                   |
+|------|:-------:|----------------------------------------------------------|---------------------------------------------------------------|
+| 1    | 1<<0    | SUPPRESS_JOIN_NOTIFICATIONS                              | Suppress member join notifications                            |
+| 2    | 1<<1    | SUPPRESS_PREMIUM_SUBSCRIPTIONS                           | Suppress premium subscription (boost) notifications           |
+| 4    | 1<<2    | SUPPRESS_GUILD_REMINDER_NOTIFICATIONS                    | Suppress guild setup tips                                     |
+| 8    | 1<<3    | SUPPRESS_JOIN_NOTIFICATION_REPLIES                       | Hide member join sticker reply buttons                        |
+| 16   | 1<<4    | SUPPRESS_ROLE_SUBSCRIPTION_PURCHASE_NOTIFICATIONS        | Suppress role subscription purchase and renewal notifications |
+| 32   | 1<<5    | SUPPRESS_ROLE_SUBSCRIPTION_PURCHASE_NOTIFICATION_REPLIES | Hide role subscription sticker reply buttons                  |
