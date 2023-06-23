@@ -120,3 +120,11 @@
 | 8    | 1<<3    | SUPPRESS_JOIN_NOTIFICATION_REPLIES                       | Hide member join sticker reply buttons                        |
 | 16   | 1<<4    | SUPPRESS_ROLE_SUBSCRIPTION_PURCHASE_NOTIFICATIONS        | Suppress role subscription purchase and renewal notifications |
 | 32   | 1<<5    | SUPPRESS_ROLE_SUBSCRIPTION_PURCHASE_NOTIFICATION_REPLIES | Hide role subscription sticker reply buttons                  |
+
+### Thread Member Flags
+| Flag | Bitwise | Internal Name  | Description                                                          |
+|------|:-------:|----------------|----------------------------------------------------------------------|
+| 1    | 1<<0    | HAS_INTERACTED | The user has interacted with the thread                              |
+| 2    | 1<<1    | ALL_MESSAGES   | The user receives notifications for all messages                     |
+| 4    | 1<<2    | ONLY_MENTIONS  | The user receives notifications only for messages that @mention them |
+| 8    | 1<<3    | NO_MESSAGES    | The user does not receive any notifications                          |
