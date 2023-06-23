@@ -144,3 +144,11 @@
 | 1024 | 1<<10   | SHOULD_SHOW_LINK_NOT_DISCORD_WARNING   | This message contains a link that impersonates Discord                            |
 | 4096 | 1<<12   | SUPPRESS_NOTIFICATIONS                 | This message will not trigger push and desktop notifications                      |
 | 8192 | 1<<13   | VOICE_MESSAGE                          | This message's audio attachments are rendered as voice messages                   |
+
+### Guild Member Flags
+| Flag | Bitwise | Internal Name           | Description                                                |
+|------|:-------:|-------------------------|------------------------------------------------------------|
+| 1    | 1<<0    | DID_REJOIN              | This guild member has left and rejoined the guild          |
+| 2    | 1<<1    | COMPLETED_ONBOARDING    | This guild member has completed onboarding                 |
+| 4    | 1<<2    | BYPASSES_VERIFICATION\* | This guild member bypasses guild verification requirements |
+| 8    | 1<<3    | STARTED_ONBOARDING      | This guild member has started onboarding                   |
