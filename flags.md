@@ -94,3 +94,19 @@
 | 64   | 1<<6    | PARTY_PRIVACY_FRIENDS       |
 | 128  | 1<<7    | PARTY_PRIVACY_VOICE_CHANNEL |
 | 256  | 1<<8    | EMBEDDED                    |
+
+### Channel Flags
+| Flag | Bitwise | Internal Name                              | Description                                                                                            |
+|------|:-------:|--------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1    | 1<<0    | GUILD_FEED_REMOVED                         | This guild channel has been removed from the guild's feed                                              |
+| 2    | 1<<1    | PINNED                                     | This thread is pinned to the top of its parent forum channel                                           |
+| 4    | 1<<2    | ACTIVE_CHANNELS_REMOVED                    | This guild channel has been removed from the guild's active channels                                   |
+| 16   | 1<<4    | REQUIRE_TAG                                | This forum channel requires a tag to create threads in                                                 |
+| 32   | 1<<5    | SPAM                                       | This channel is marked as spam                                                                         |
+| 128  | 1<<7    | GUILD_RESOURCE_CHANNEL                     | This guild channel is used as a read-only resource for onboarding and is not shown in the channel list |
+| 256  | 1<<8    | CLYDE_AI                                   | This thread is created by Clyde AI, which has full access to all message content                       |
+| 512  | 1<<9    | SCHEDULED_FOR_DELETION                     | This guild channel is scheduled for deletion and is not shown in the UI                                |
+| 1024 | 1<<10   | MEDIA_CHANNEL                              | This forum channel is a media channel                                                                  |
+| 2048 | 1<<11   | SUMMARIES_DISABLED                         | This guild channel has summaries disabled                                                              |
+| 4096 | 1<<12   | APPLICATION_SHELF_CONSENT                  | This private channel's recipients consented to the application shelf                                   |
+| 8192 | 1<<13   | ROLE_SUBSCRIPTION_TEMPLATE_PREVIEW_CHANNEL | This role subscription tier for this guild channel has not been published yet                          |
