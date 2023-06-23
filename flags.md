@@ -128,3 +128,19 @@
 | 2    | 1<<1    | ALL_MESSAGES   | The user receives notifications for all messages                     |
 | 4    | 1<<2    | ONLY_MENTIONS  | The user receives notifications only for messages that @mention them |
 | 8    | 1<<3    | NO_MESSAGES    | The user does not receive any notifications                          |
+
+### Message Flags
+| Flag | Bitwise | Internal Name                          | Description                                                                       |
+|------|:-------:|----------------------------------------|-----------------------------------------------------------------------------------|
+| 1    | 1<<0    | CROSSPOSTED                            | This message has been published to subscribed channels (via Channel Following)    |
+| 2    | 1<<1    | IS_CROSSPOST                           | This message originated from a message in another channel (via Channel Following) |
+| 4    | 1<<2    | SUPPRESS_EMBEDS                        | Embeds will not be included when serializing this message                         |
+| 8    | 1<<3    | SOURCE_MESSAGE_DELETED                 | The source message for this crosspost has been deleted (via Channel Following)    |
+| 16   | 1<<4    | URGENT                                 | This message came from the urgent message system                                  |
+| 32   | 1<<5    | HAS_THREAD                             | This message has an associated thread, with the same ID as the message            |
+| 64   | 1<<6    | EPHEMERAL                              | This message is only visible to the user who invoked the interaction              |
+| 128  | 1<<7    | LOADING                                | This message is an interaction response and the bot is "thinking"                 |
+| 256  | 1<<8    | FAILED_TO_MENTION_SOME_ROLES_IN_THREAD | Some roles were not mentioned and added to the thread                             |
+| 1024 | 1<<10   | SHOULD_SHOW_LINK_NOT_DISCORD_WARNING   | This message contains a link that impersonates Discord                            |
+| 4096 | 1<<12   | SUPPRESS_NOTIFICATIONS                 | This message will not trigger push and desktop notifications                      |
+| 8192 | 1<<13   | VOICE_MESSAGE                          | This message's audio attachments are rendered as voice messages                   |
