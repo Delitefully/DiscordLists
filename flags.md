@@ -48,6 +48,13 @@
 | 4        | 1<<2    | GUILD_BOOST   | The user has purchased a guild boost |
 | 8        | 1<<3    | NITRO_BASIC   | The user has purchased Nitro basic   |
 
+### Premium Usage User Flags
+| Flag     | Bitwise | Internal Name         | Description                                  |
+|----------|:-------:|-----------------------|----------------------------------------------|
+| 1        | 1<<0    | PREMIUM_DISCRIMINATOR | The user has utilized premium discriminators |
+| 2        | 1<<1    | ANIMATED_AVATAR       | The user has utilized animated avatars       |
+| 4        | 1<<2    | PROFILE_BANNER        | The user has utilized profile banners        |
+
 ### Application Flags
 | Flag     | Bitwise | Internal Name                                 | Description                                                                                            | Public | Documented |
 |----------|:-------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------|:------:|:----------:|
