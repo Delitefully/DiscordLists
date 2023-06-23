@@ -81,3 +81,16 @@
 | 8388608  | 1<<23   | APPLICATION_COMMAND_BADGE                     | Indicates if an app has registered global application commands                                         | ✔      | ✔          |
 | 16777216 | 1<<24   | ACTIVE                                        | Indicates if an app is considered active                                                               | ❌     | ✔          |
 | 67108864 | 1<<26   | IFRAME_MODAL                                  | Allows the app to use IFrame modals                                                                    | ✔      | ❌         |
+
+### Activity Flags
+| Flag | Bitwise | Internal Name               |
+|------|:-------:|-----------------------------|
+| 1    | 1<<0    | INSTANCE                    |
+| 2    | 1<<1    | JOIN                        |
+| 4    | 1<<2    | SPECTATE                    |
+| 8    | 1<<3    | JOIN_REQUEST                |
+| 16   | 1<<4    | SYNC                        |
+| 32   | 1<<5    | PLAY                        |
+| 64   | 1<<6    | PARTY_PRIVACY_FRIENDS       |
+| 128  | 1<<7    | PARTY_PRIVACY_VOICE_CHANNEL |
+| 256  | 1<<8    | EMBEDDED                    |
