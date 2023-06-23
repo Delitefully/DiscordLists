@@ -154,3 +154,16 @@
 | 2    | 1<<1    | COMPLETED_ONBOARDING    | This guild member has completed onboarding                 |
 | 4    | 1<<2    | BYPASSES_VERIFICATION\* | This guild member bypasses guild verification requirements |
 | 8    | 1<<3    | STARTED_ONBOARDING      | This guild member has started onboarding                   |
+
+### SKU Flags
+| Flag | Bitwise | Internal Name                  | Description                                                                      |
+|------|:-------:|--------------------------------|----------------------------------------------------------------------------------|
+| 1    | 1<<0    | PREMIUM_PURCHASE               | Whether the SKU is a premium purchase                                            |
+| 2    | 1<<1    | HAS_FREE_PREMIUM_CONTENT       | Whether the SKU is free premium content                                          |
+| 4    | 1<<2    | AVAILABLE                      | Whether the SKU is available for purchase                                        |
+| 8    | 1<<3    | PREMIUM_AND_DISTRIBUTION       | Whether the SKU is a premium or distribution product                             |
+| 16   | 1<<4    | STICKER_PACK                   | Whether the SKU is a premium sticker pack                                        |
+| 32   | 1<<5    | GUILD_ROLE_SUBSCRIPTION        | Whether the SKU is a guild role subscription                                     |
+| 64   | 1<<6    | PREMIUM_SUBSCRIPTION           | Whether the SKU is a Discord premium subscription or related first-party product |
+| 128  | 1<<7    | APPLICATION_GUILD_SUBSCRIPTION | Whether the SKU is a application subscription                                    |
+| 256  | 1<<8    | APPLICATION_USER_SUBSCRIPTION  | Whether the SKU is a application subscription                                    |
