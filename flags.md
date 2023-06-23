@@ -1,4 +1,5 @@
 ## 🏳️ Discord Flags 
+
 ### User Flags
 | Flag             | Bitwise | Internal Name                | Description                                                 | Public | Documented |
 |------------------|:-------:|------------------------------|-------------------------------------------------------------|:------:|:----------:|
@@ -39,6 +40,14 @@
 | 1125899906842624 | 1<<50   | COLLABORATOR                 | User is a collaborator and has staff permissions            | ✔      | ❌        |
 | 2251799813685248 | 1<<51   | RESTRICTED_COLLABORATOR      | User is a restricted collaborator and has staff permissions | ✔      | ❌        |
 
+### Purchased User Flags
+| Flag     | Bitwise | Internal Name | Description                          |
+|----------|:-------:| ------------- |--------------------------------------|
+| 1        | 1<<0    | NITRO_CLASSIC | The user has purchased Nitro classic |
+| 2        | 1<<1    | NITRO         | The user has purchased regular Nitro |
+| 4        | 1<<2    | GUILD_BOOST   | The user has purchased a guild boost |
+| 8        | 1<<3    | NITRO_BASIC   | The user has purchased Nitro basic   |
+
 ### Application Flags
 | Flag     | Bitwise | Internal Name                                 | Description                                                                                            | Public | Documented |
 |----------|:-------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------|:------:|:----------:|
@@ -65,4 +74,3 @@
 | 8388608  | 1<<23   | APPLICATION_COMMAND_BADGE                     | Indicates if an app has registered global application commands                                         | ✔      | ✔          |
 | 16777216 | 1<<24   | ACTIVE                                        | Indicates if an app is considered active                                                               | ❌     | ✔          |
 | 67108864 | 1<<26   | IFRAME_MODAL                                  | Allows the app to use IFrame modals                                                                    | ✔      | ❌         |
-
