@@ -102,7 +102,7 @@ Guild Features | Description
 `LINKED_TO_HUB` | 
 `MARKETPLACES_CONNECTION_ROLES` | 
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
-`MEMBER_SAFETY_PAGE_ROLLOUT` | Assigns the experiment of the `Member Safety` panel to the server
+`MEMBER_SAFETY_PAGE_ROLLOUT` | Assigns the experiment of the `Member Safety` panel and lockdowns to the guild
 `MEMBER_VERIFICATION_GATE_ENABLED` | Has member verification gate enabled, requiring new users to pass the verification gate before interacting with the server.
 `MEMBER_VERIFICATION_MANUAL_APPROVAL` | 
 `MOBILE_WEB_ROLE_SUBSCRIPTION_PURCHASE_PAGE` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
