@@ -110,7 +110,7 @@
 | 2048  | 1<<11   | SUMMARIES_DISABLED                         | Indicates that ai powered summaries are disabled for this channel                                      |
 | 4096  | 1<<12   | APPLICATION_SHELF_CONSENT                  | This that the private channel's recipients consented to the application shelf                          |
 | 8192  | 1<<13   | ROLE_SUBSCRIPTION_TEMPLATE_PREVIEW_CHANNEL | Indicates that this channel is part of a role subscription template preview                            |
-| 16384 | 1<<14   | BROADCASTING                               | Indicates if there is a global broadcast on that channel*                                              |
+| 16384 | 1<<14   | BROADCASTING                               | Indicates if there is a global broadcast on that channel                                             |
 | 32768 | 1<<15   | HIDE_MEDIA_DOWNLOAD_OPTIONS                | Hides the media download options for media channels                                                    |
 
 ### System Channel Flags
