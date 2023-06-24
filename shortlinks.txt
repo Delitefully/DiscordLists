@@ -142,6 +142,7 @@ dis.gd/discord-drops
 dis.gd/discord-link-playstation
 dis.gd/discord-stories
 dis.gd/discord101
+dis.gd/DiscordAtVidCon
 dis.gd/discordJP-link-playstation
 dis.gd/discordlflconcours
 dis.gd/discordswim4
