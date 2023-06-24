@@ -1,4 +1,5 @@
 ## 🏳️ Discord Flags 
+
 ### User Flags
 | Flag             | Bitwise | Internal Name                | Description                                                 | Public | Documented |
 |------------------|:-------:|------------------------------|-------------------------------------------------------------|:------:|:----------:|
@@ -39,6 +40,21 @@
 | 1125899906842624 | 1<<50   | COLLABORATOR                 | User is a collaborator and has staff permissions            | ✔      | ❌        |
 | 2251799813685248 | 1<<51   | RESTRICTED_COLLABORATOR      | User is a restricted collaborator and has staff permissions | ✔      | ❌        |
 
+### Purchased User Flags
+| Flag     | Bitwise | Internal Name | Description                          |
+|----------|:-------:| ------------- |--------------------------------------|
+| 1        | 1<<0    | NITRO_CLASSIC | The user has purchased Nitro classic |
+| 2        | 1<<1    | NITRO         | The user has purchased regular Nitro |
+| 4        | 1<<2    | GUILD_BOOST   | The user has purchased a guild boost |
+| 8        | 1<<3    | NITRO_BASIC   | The user has purchased Nitro basic   |
+
+### Premium Usage User Flags
+| Flag     | Bitwise | Internal Name         | Description                                  |
+|----------|:-------:|-----------------------|----------------------------------------------|
+| 1        | 1<<0    | PREMIUM_DISCRIMINATOR | The user has utilized premium discriminators |
+| 2        | 1<<1    | ANIMATED_AVATAR       | The user has utilized animated avatars       |
+| 4        | 1<<2    | PROFILE_BANNER        | The user has utilized profile banners        |
+
 ### Application Flags
 | Flag     | Bitwise | Internal Name                                 | Description                                                                                            | Public | Documented |
 |----------|:-------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------|:------:|:----------:|
@@ -66,3 +82,88 @@
 | 16777216 | 1<<24   | ACTIVE                                        | Indicates if an app is considered active                                                               | ❌     | ✔          |
 | 67108864 | 1<<26   | IFRAME_MODAL                                  | Allows the app to use IFrame modals                                                                    | ✔      | ❌         |
 
+### Activity Flags
+| Flag | Bitwise | Internal Name               |
+|------|:-------:|-----------------------------|
+| 1    | 1<<0    | INSTANCE                    |
+| 2    | 1<<1    | JOIN                        |
+| 4    | 1<<2    | SPECTATE                    |
+| 8    | 1<<3    | JOIN_REQUEST                |
+| 16   | 1<<4    | SYNC                        |
+| 32   | 1<<5    | PLAY                        |
+| 64   | 1<<6    | PARTY_PRIVACY_FRIENDS       |
+| 128  | 1<<7    | PARTY_PRIVACY_VOICE_CHANNEL |
+| 256  | 1<<8    | EMBEDDED                    |
+
+### Channel Flags
+| Flag  | Bitwise | Internal Name                              | Description                                                                                            |
+|-------|:-------:|--------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1     | 1<<0    | GUILD_FEED_REMOVED                         | This guild channel has been removed from the guild's feed                                              |
+| 2     | 1<<1    | PINNED                                     | This thread is pinned to the top of its parent forum channel                                           |
+| 4     | 1<<2    | ACTIVE_CHANNELS_REMOVED                    | This guild channel has been removed from the guild's active channels                                   |
+| 16    | 1<<4    | REQUIRE_TAG                                | This forum channel requires a tag to create threads in                                                 |
+| 32    | 1<<5    | SPAM                                       | This channel is marked as spam                                                                         |
+| 128   | 1<<7    | GUILD_RESOURCE_CHANNEL                     | This guild channel is used as a read-only resource for onboarding and is not shown in the channel list |
+| 256   | 1<<8    | CLYDE_AI                                   | This thread is created by Clyde AI, which has full access to all message content                       |
+| 512   | 1<<9    | SCHEDULED_FOR_DELETION                     | This guild channel is scheduled for deletion and is not shown in the UI                                |
+| 1024  | 1<<10   | MEDIA_CHANNEL                              | Indicates that this channel is a media channel                                                         |
+| 2048  | 1<<11   | SUMMARIES_DISABLED                         | Indicates that ai powered summaries are disabled for this channel                                      |
+| 4096  | 1<<12   | APPLICATION_SHELF_CONSENT                  | This that the private channel's recipients consented to the application shelf                          |
+| 8192  | 1<<13   | ROLE_SUBSCRIPTION_TEMPLATE_PREVIEW_CHANNEL | Indicates that this channel is part of a role subscription template preview                            |
+| 16384 | 1<<14   | BROADCASTING                               | Indicates if there is a global broadcast on that channel                                             |
+| 32768 | 1<<15   | HIDE_MEDIA_DOWNLOAD_OPTIONS                | Hides the media download options for media channels                                                    |
+
+### System Channel Flags
+| Flag | Bitwise | Internal Name                                            | Description                                                   |
+|------|:-------:|----------------------------------------------------------|---------------------------------------------------------------|
+| 1    | 1<<0    | SUPPRESS_JOIN_NOTIFICATIONS                              | Suppress member join notifications                            |
+| 2    | 1<<1    | SUPPRESS_PREMIUM_SUBSCRIPTIONS                           | Suppress premium subscription (boost) notifications           |
+| 4    | 1<<2    | SUPPRESS_GUILD_REMINDER_NOTIFICATIONS                    | Suppress guild setup tips                                     |
+| 8    | 1<<3    | SUPPRESS_JOIN_NOTIFICATION_REPLIES                       | Hide member join sticker reply buttons                        |
+| 16   | 1<<4    | SUPPRESS_ROLE_SUBSCRIPTION_PURCHASE_NOTIFICATIONS        | Suppress role subscription purchase and renewal notifications |
+| 32   | 1<<5    | SUPPRESS_ROLE_SUBSCRIPTION_PURCHASE_NOTIFICATION_REPLIES | Hide role subscription sticker reply buttons                  |
+
+### Thread Member Flags
+| Flag | Bitwise | Internal Name  | Description                                                          |
+|------|:-------:|----------------|----------------------------------------------------------------------|
+| 1    | 1<<0    | HAS_INTERACTED | The user has interacted with the thread                              |
+| 2    | 1<<1    | ALL_MESSAGES   | The user receives notifications for all messages                     |
+| 4    | 1<<2    | ONLY_MENTIONS  | The user receives notifications only for messages that @mention them |
+| 8    | 1<<3    | NO_MESSAGES    | The user does not receive any notifications                          |
+
+### Message Flags
+| Flag | Bitwise | Internal Name                          | Description                                                                       |
+|------|:-------:|----------------------------------------|-----------------------------------------------------------------------------------|
+| 1    | 1<<0    | CROSSPOSTED                            | This message has been published to subscribed channels (via Channel Following)    |
+| 2    | 1<<1    | IS_CROSSPOST                           | This message originated from a message in another channel (via Channel Following) |
+| 4    | 1<<2    | SUPPRESS_EMBEDS                        | Embeds will not be included when serializing this message                         |
+| 8    | 1<<3    | SOURCE_MESSAGE_DELETED                 | The source message for this crosspost has been deleted (via Channel Following)    |
+| 16   | 1<<4    | URGENT                                 | This message came from the urgent message system                                  |
+| 32   | 1<<5    | HAS_THREAD                             | This message has an associated thread, with the same ID as the message            |
+| 64   | 1<<6    | EPHEMERAL                              | This message is only visible to the user who invoked the interaction              |
+| 128  | 1<<7    | LOADING                                | This message is an interaction response and the bot is "thinking"                 |
+| 256  | 1<<8    | FAILED_TO_MENTION_SOME_ROLES_IN_THREAD | Some roles were not mentioned and added to the thread                             |
+| 1024 | 1<<10   | SHOULD_SHOW_LINK_NOT_DISCORD_WARNING   | This message contains a link that impersonates Discord                            |
+| 4096 | 1<<12   | SUPPRESS_NOTIFICATIONS                 | This message will not trigger push and desktop notifications                      |
+| 8192 | 1<<13   | VOICE_MESSAGE                          | This message's audio attachments are rendered as voice messages                   |
+
+### Guild Member Flags
+| Flag | Bitwise | Internal Name           | Description                                                |
+|------|:-------:|-------------------------|------------------------------------------------------------|
+| 1    | 1<<0    | DID_REJOIN              | This guild member has left and rejoined the guild          |
+| 2    | 1<<1    | COMPLETED_ONBOARDING    | This guild member has completed onboarding                 |
+| 4    | 1<<2    | BYPASSES_VERIFICATION\* | This guild member bypasses guild verification requirements |
+| 8    | 1<<3    | STARTED_ONBOARDING      | This guild member has started onboarding                   |
+
+### SKU Flags
+| Flag | Bitwise | Internal Name                  | Description                                                                      |
+|------|:-------:|--------------------------------|----------------------------------------------------------------------------------|
+| 1    | 1<<0    | PREMIUM_PURCHASE               | Whether the SKU is a premium purchase                                            |
+| 2    | 1<<1    | HAS_FREE_PREMIUM_CONTENT       | Whether the SKU is free premium content                                          |
+| 4    | 1<<2    | AVAILABLE                      | Whether the SKU is available for purchase                                        |
+| 8    | 1<<3    | PREMIUM_AND_DISTRIBUTION       | Whether the SKU is a premium or distribution product                             |
+| 16   | 1<<4    | STICKER_PACK                   | Whether the SKU is a premium sticker pack                                        |
+| 32   | 1<<5    | GUILD_ROLE_SUBSCRIPTION        | Whether the SKU is a guild role subscription                                     |
+| 64   | 1<<6    | PREMIUM_SUBSCRIPTION           | Whether the SKU is a Discord premium subscription or related first-party product |
+| 128  | 1<<7    | APPLICATION_GUILD_SUBSCRIPTION | Whether the SKU is a application subscription                                    |
+| 256  | 1<<8    | APPLICATION_USER_SUBSCRIPTION  | Whether the SKU is a application subscription                                    |
