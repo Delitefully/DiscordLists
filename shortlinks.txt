@@ -132,6 +132,7 @@ dis.gd/devfeedback
 dis.gd/devnewsletter
 dis.gd/devovo
 dis.gd/DevSLFunWFriends
+dis.gd/DevSLFunWFriendsRec
 dis.gd/devstoreform
 dis.gd/devsupport
 dis.gd/dglbugs
