@@ -13,11 +13,13 @@ dis.gd/abcd
 dis.gd/accessibility-updates
 dis.gd/active-developer-badge
 dis.gd/activities
+dis.gd/activites-on-discord
 dis.gd/activities-questions
 dis.gd/activitiesFAQ
 dis.gd/activitiesfeedback
 dis.gd/activitiesingd
 dis.gd/ActivitiesMoving
+dis.gd/activitiesreport
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
 dis.gd/add-trickcordtreat
@@ -41,6 +43,7 @@ dis.gd/automod
 dis.gd/automod-spam-raids
 dis.gd/av1update
 dis.gd/ava
+dis.gd/back2school2022yt
 dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
@@ -72,6 +75,7 @@ dis.gd/building-the-future
 dis.gd/buildyourkingdom
 dis.gd/c-server-subscriptions
 dis.gd/calixta-guide
+dis.gd/campwump22
 dis.gd/capcom-x-discord
 dis.gd/CCreatorPortal
 dis.gd/childsplaydiscordhype
@@ -83,6 +87,7 @@ dis.gd/cohhcarnage
 dis.gd/collegiumdiscordgiveaway
 dis.gd/common-scams
 dis.gd/commonscams
+dis.gd/community-resources
 dis.gd/community-settings-c
 dis.gd/community-updates
 dis.gd/communityprograms
@@ -124,8 +129,10 @@ dis.gd/dcc_safercommunity
 dis.gd/dcc_saferinternetday
 dis.gd/dcc_saferserver
 dis.gd/DDevs8thBDay
+dis.gd/DDevsGameNight
 dis.gd/DDevsGameNightFeedback
 dis.gd/DDevsInterviewPanel
+dis.gd/DDevsInterviewPanelQ+A
 dis.gd/DDevsInterviewPanelRec
 dis.gd/developer-support
 dis.gd/devfeedback
@@ -135,6 +142,7 @@ dis.gd/DevSLFunWFriends
 dis.gd/DevSLFunWFriendsRec
 dis.gd/devstoreform
 dis.gd/devsupport
+dis.gd/DGL
 dis.gd/dglbugs
 dis.gd/dglfeedback
 dis.gd/DGLrole
@@ -387,18 +395,21 @@ dis.gd/sayhi2servideo
 dis.gd/scalingwithrust
 dis.gd/scheduled_events_c
 dis.gd/security
+dis.gd/ServerActivities
 dis.gd/server-sub-updates
 dis.gd/server-subs-survey
 dis.gd/server-subscriptions-updates
 dis.gd/serveravatarsfaq
 dis.gd/serverboosting
 dis.gd/serverid
+dis.gd/serverprofilesFAQ
 dis.gd/serversubs101
 dis.gd/serversubs102
 dis.gd/serversubs103
 dis.gd/serversubs104
 dis.gd/serversubs105
 dis.gd/ServerSubsWaitlist
+dis.gd/servertimeoutFAQ
 dis.gd/servertimeoutfaq-co
 dis.gd/servervideo
 dis.gd/Server_Subs_Eligibility
@@ -521,6 +532,7 @@ dis.gd/wumpus
 dis.gd/wumpus-journey
 dis.gd/wumpus4pride
 dis.gd/wumpusfundraiser
+dis.gd/wumpusplushiejersey
 dis.gd/wumpuswonderventuresgiveaway
 dis.gd/wungus-principles
 dis.gd/xbox-voice
