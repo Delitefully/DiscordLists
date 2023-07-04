@@ -114,6 +114,7 @@ Guild Features | Description
 `PARTNERED` | Partner badge near the server name and in mutual server lists.
 `PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
+`PRODUCTS_AVAILABLE_FOR_PURCHASE` | Guild has server products available for purchase
 `RAID_ALERTS_DISABLED` | Guild is opt-out from raid alerts
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
 `RESTRICT_SPAM_RISK_GUILDS` |
