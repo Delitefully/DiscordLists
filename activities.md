@@ -39,6 +39,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80)  | 910224161476083792  | Putt Party Dev                                            | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/950507686422794280/ff823d8681b22b6c8188742a2ef761be.webp?size=80)  | 950507686422794280  | Know What I Meme Dev                                      | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070097992746541207/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070097992746541207 | Jamspace Dev                                              | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/69130d92956dbe143d1cb2231a3628f0.webp?size=80) | 1070651686932197517 | Color Together - Staging                                  | Unlimited        |
 
 ### Staging versions
 | Icon                                                                                                            | Application ID      | Application name                 | Max participants |
