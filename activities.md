@@ -23,7 +23,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/1007373802981822582/7293b549efff3c5a809999d883f09202.webp?size=80) | 1007373802981822582 | Gartic Phone                                                  | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1011683823555199066/cdc044d1552ae938203583a2672a34b3.webp?size=80) | 1011683823555199066 | Krunker FRVR                                                  | 12               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1037680572660727838/925d0f981612cc56f1f44c9be0c68be6.webp?size=80) | 1037680572660727838 | Chef Showdown                                                 | 15               |
-| ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/cab9ddcb00829a74c48393a9d4bff00b.webp?size=80) | 1039835161136746497 | Color Together                                                | 100              |
+| ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/800aeb4c6899941eb52a743abe773a0b.webp?size=80) | 1039835161136746497 | Color Together                                                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070087967294631976/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070087967294631976 | Jamspace                                                      | Unlimited        |
 
 ### Development versions
