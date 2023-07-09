@@ -5,7 +5,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/755600276941176913/4e0fd3bf009282c0ecd1fb010e621f28.webp?size=80)  | 755600276941176913  | YouTube Together _(Deprecated. Replaced by 'Watch Together')_ | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80)  | 755827207812677713  | Poker Night                                                   | 7                |
 | ![Icon](https://cdn.discordapp.com/app-icons/773336526917861400/0227b2e89ea08d666c43003fbadbc72a.webp?size=80)  | 773336526917861400  | Betrayal.io                                                   | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/814288819477020702/0cafdebe76abfd7d8d9b015c2060512e.webp?size=80)  | 814288819477020702  | Fishington.io                                                 | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/814288819477020702/0cafdebe76abfd7d8d9b015c2060512e.webp?size=80)  | 814288819477020702  | Fishington.io _(URL 'discordsays.com' of the app, removed)_   | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/832012774040141894/3b3981ddf67c8702920fae10b5f123ed.webp?size=80)  | 832012774040141894  | Chess In The Park                                             | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/832013003968348200/97e50fed67f44802dbb4901d74a6f9a1.webp?size=80)  | 832013003968348200  | Checkers In The Park _(Formerly known as 'CG3 Prod'.)_        | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/832025144389533716/6fe6e3dda7657b83758693205a833aa1.webp?size=80)  | 832025144389533716  | Blazing 8s _(Formerly known as 'Ocho' & 'CG4 Prod')_          | 8                |
@@ -39,7 +39,6 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80)  | 910224161476083792  | Putt Party Dev                                            | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/950507686422794280/ff823d8681b22b6c8188742a2ef761be.webp?size=80)  | 950507686422794280  | Know What I Meme Dev                                      | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070097992746541207/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070097992746541207 | Jamspace Dev                                              | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/69130d92956dbe143d1cb2231a3628f0.webp?size=80) | 1070651686932197517 | Color Together - Staging                                  | Unlimited        |
 
 ### Staging versions
 | Icon                                                                                                            | Application ID      | Application name                 | Max participants |
@@ -51,6 +50,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80)  | 893449443918086174  | SpellCast Staging                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80)  | 945732077960188005  | Putt Party Stg                   | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1049916362383962192/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1049916362383962192 | [Deprecated] Colonist.io Staging | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/69130d92956dbe143d1cb2231a3628f0.webp?size=80) | 1070651686932197517 | Color Together - Staging                                  | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1106787009256767498/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1106787009256767498 | Colonist.io Staging              | Unlimited        |
 
 ### QA versions
@@ -67,7 +67,7 @@
 | Icon                                                                                                            	| Application ID      	| Application name                                  	| Max participants 	|
 |-----------------------------------------------------------------------------------------------------------------	|---------------------	|---------------------------------------------------	|------------------	|
 | ❔                                                                                                               	| 832025993019260929  	| CGSample                                          	| 100              	|
-| ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/44c30f5fb9ec99753984f50c47524fc9.webp?size=80)  	| 880559245471408169  	| iframe-playground                                 	| 100              	|
+| ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/7a5360d203a81c8d3518cd470501c2b3.webp?size=80)  	| 880559245471408169  	| iframe-playground                                 	| 100              	|
 | ❔                                                                                                               	| 881732122631634984  	| test-game-001                                     	| Unlimited        	|
 | ![Icon](https://cdn.discordapp.com/app-icons/1001529884625088563/ab01dfd5deb4ca7e1649f5e1d2a982aa.webp?size=80) 	| 1001529884625088563 	| Guestbook                                         	| Unlimited        	|
 | ❔                                                                                                               	| 1100444516957298820 	| Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ 	| Unlimited        	|
