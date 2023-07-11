@@ -259,6 +259,7 @@ dis.gd/halloweenbot2020
 dis.gd/help
 dis.gd/hispanic-latinx-heritage-2022
 dis.gd/holycrap
+dis.gd/how-to-admin
 dis.gd/how-to-set-up-Onboarding
 dis.gd/howtoreport
 dis.gd/hypesquad
