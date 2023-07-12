@@ -17,6 +17,7 @@ dis.gd/activites-on-discord
 dis.gd/activities-questions
 dis.gd/activitiesFAQ
 dis.gd/activitiesfeedback
+dis.gd/activitiesingd
 dis.gd/ActivitiesMoving
 dis.gd/activitiesreport
 dis.gd/activitybugreport
@@ -47,6 +48,7 @@ dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
 dis.gd/bday3
+dis.gd/begginersguide
 dis.gd/beginnersguide
 dis.gd/bhm-2022
 dis.gd/bhm-2023
@@ -71,6 +73,7 @@ dis.gd/bugreport
 dis.gd/bugs
 dis.gd/building-the-future
 dis.gd/buildyourkingdom
+dis.gd/c-server-subscriptions
 dis.gd/calixta-guide
 dis.gd/campwump22
 dis.gd/capcom-x-discord
@@ -83,6 +86,7 @@ dis.gd/clyde
 dis.gd/cohhcarnage
 dis.gd/collegiumdiscordgiveaway
 dis.gd/common-scams
+dis.gd/commonscams
 dis.gd/community-resources
 dis.gd/community-settings-c
 dis.gd/community-updates
@@ -242,6 +246,7 @@ dis.gd/gettingstartedonmobile
 dis.gd/GHhackathon
 dis.gd/goldglove-zombsroyale.io
 dis.gd/golivescreenshare
+dis.gd/google
 dis.gd/googleplaystoreintegration
 dis.gd/guidelines
 dis.gd/gwupdate
@@ -313,6 +318,7 @@ dis.gd/mmsnow18
 dis.gd/mobile-voice-help
 dis.gd/mobilegifpicker
 dis.gd/mobilescreenshare
+dis.gd/mod-channel-ss
 dis.gd/modacademy
 dis.gd/modbadge
 dis.gd/moderation
@@ -403,6 +409,7 @@ dis.gd/serverprofilesFAQ
 dis.gd/serversubs101
 dis.gd/serversubs102
 dis.gd/serversubs103
+dis.gd/serversubs104
 dis.gd/serversubs105
 dis.gd/ServerSubsWaitlist
 dis.gd/servertimeoutFAQ
@@ -452,6 +459,7 @@ dis.gd/summer22nitrobogofr
 dis.gd/sunlightbladesinner
 dis.gd/super-reactions
 dis.gd/support
+dis.gd/swag
 dis.gd/swaggersouls-lastyear
 dis.gd/system-messages
 dis.gd/systemtw
