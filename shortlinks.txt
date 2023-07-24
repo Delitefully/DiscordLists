@@ -12,8 +12,8 @@ dis.gd/aapihm-2022
 dis.gd/abcd
 dis.gd/accessibility-updates
 dis.gd/active-developer-badge
-dis.gd/activities
 dis.gd/activites-on-discord
+dis.gd/activities
 dis.gd/activities-questions
 dis.gd/activitiesFAQ
 dis.gd/activitiesfeedback
@@ -24,6 +24,7 @@ dis.gd/ActivityFeedback&Bugs
 dis.gd/add-trickcordtreat
 dis.gd/age-gate
 dis.gd/ai-on-discord
+dis.gd/alphacast
 dis.gd/alphaking
 dis.gd/alpharad-koth
 dis.gd/androidboogie
@@ -48,6 +49,7 @@ dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
 dis.gd/bday3
 dis.gd/beginnersguide
+dis.gd/benzaie
 dis.gd/bhm-2022
 dis.gd/bhm-2023
 dis.gd/bhmcommunities
@@ -71,6 +73,7 @@ dis.gd/bugreport
 dis.gd/bugs
 dis.gd/building-the-future
 dis.gd/buildyourkingdom
+dis.gd/bwb
 dis.gd/calixta-guide
 dis.gd/campwump22
 dis.gd/capcom-x-discord
@@ -104,6 +107,7 @@ dis.gd/crunchyrollgiveaway22
 dis.gd/CServerSubs
 dis.gd/CServerSubsHC
 dis.gd/cu-automod-blog
+dis.gd/cu-community-update%3E
 dis.gd/CUServerSubs
 dis.gd/customroleiconsfaq
 dis.gd/DAC-FAQ
@@ -200,10 +204,12 @@ dis.gd/dma531
 dis.gd/dmcaform
 dis.gd/dnsswap
 dis.gd/docs
+dis.gd/doigby-tw
 dis.gd/donate
 dis.gd/donate-snowsgiving
 dis.gd/doom49yt
 dis.gd/doom49yt-h&gwwii
+dis.gd/Doom49yt-LastYear
 dis.gd/download
 dis.gd/dragndropFAQ
 dis.gd/dreamcommunity
@@ -240,12 +246,16 @@ dis.gd/gamepass
 dis.gd/GDC2023AppWorkshopQ+A
 dis.gd/gettingstartedonmobile
 dis.gd/GHhackathon
+dis.gd/gikochan
+dis.gd/GoldGlove-DiscordStore
 dis.gd/goldglove-zombsroyale.io
+dis.gd/goldglovenitro
 dis.gd/golivescreenshare
 dis.gd/googleplaystoreintegration
 dis.gd/guidelines
 dis.gd/gwupdate
 dis.gd/H2M_Your_Discord_Community
+dis.gd/hack
 dis.gd/hackedaccount
 dis.gd/hackweek
 dis.gd/hackweekwinners
@@ -259,6 +269,7 @@ dis.gd/how-to-set-up-Onboarding
 dis.gd/howtoreport
 dis.gd/hypesquad
 dis.gd/idle-nightsTW
+dis.gd/iflynnTwitch-ResourceBooster
 dis.gd/imageproxy
 dis.gd/importantupdates
 dis.gd/inbox
@@ -279,12 +290,14 @@ dis.gd/juneteenth
 dis.gd/keyboardnav
 dis.gd/killerqueenb
 dis.gd/kingdoom49-yt
+dis.gd/KingSp4zie
 dis.gd/koth
 dis.gd/kothdevblog
 dis.gd/kothtw
 dis.gd/kothype
 dis.gd/krispmobile
 dis.gd/krispmobilejp
+dis.gd/lamarrwilson
 dis.gd/lang-feedback
 dis.gd/lastyeartw
 dis.gd/latinx2021
@@ -393,10 +406,10 @@ dis.gd/sayhi2servideo
 dis.gd/scalingwithrust
 dis.gd/scheduled_events_c
 dis.gd/security
-dis.gd/ServerActivities
 dis.gd/server-sub-updates
 dis.gd/server-subs-survey
 dis.gd/server-subscriptions-updates
+dis.gd/ServerActivities
 dis.gd/serveravatarsfaq
 dis.gd/serverboosting
 dis.gd/serverid
@@ -413,6 +426,7 @@ dis.gd/Server_Subs_Eligibility
 dis.gd/Server_Subs_Policy
 dis.gd/sgfundraiser
 dis.gd/shivfps
+dis.gd/shobosuke-rt
 dis.gd/sinnertw
 dis.gd/siphano
 dis.gd/skyyart
@@ -434,6 +448,7 @@ dis.gd/soundpackfaq
 dis.gd/sp4zie-warframe
 dis.gd/sp4zieyt-lastyear
 dis.gd/stagesfaq
+dis.gd/Starsnipe-Wasteland2
 dis.gd/starwarshq-darkforces
 dis.gd/starwarshq-jediknight
 dis.gd/starwarshq-kotor
@@ -497,6 +512,7 @@ dis.gd/transparencyh12021
 dis.gd/trickcordtreat
 dis.gd/ttssliderfaq
 dis.gd/tw-aff_atrioc
+dis.gd/tw-thegrefg
 dis.gd/Twitch_Integration_FAQ
 dis.gd/twitter
 dis.gd/unsupportedbugs
