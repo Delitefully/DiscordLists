@@ -349,6 +349,7 @@ dis.gd/niscordditro
 dis.gd/nitro
 dis.gd/nitro-april-drop
 dis.gd/nitro-bogo
+dis.gd/nitro-buy-one-get-one
 dis.gd/nitro5year
 dis.gd/nitrobogo
 dis.gd/nitrobogo22
