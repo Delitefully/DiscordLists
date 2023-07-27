@@ -82,9 +82,9 @@ Guild Features | Description
 `GUILD_HOME_OVERRIDE` | Gives the guild access to the Home feature, enables Treatment 2 of the `2022-01_home_tab_guild` experiment overrides
 `GUILD_HOME_TEST` | Gives the guild access to the Home feature, enables Treatment 1 of the `2022-01_home_tab_guild` experiment
 `GUILD_MEMBER_VERIFICATION_EXPERIMENT` | Given to guilds previously in the `2021-11_member_verification_manual_approval` experiment
-`GUILD_ONBOARDING` | Guild has access to the Onboarding feature
+`GUILD_ONBOARDING` | Guild has enabled onboarding
 `GUILD_ONBOARDING_ADMIN_ONLY` | 
-`GUILD_ONBOARDING_EVER_ENABLED` | 
+`GUILD_ONBOARDING_EVER_ENABLED` | Guild has ever enabled onboarding
 `GUILD_ONBOARDING_HAS_PROMPTS` |
 `GUILD_ROLE_SUBSCRIPTIONS` | Given to guilds previously in the `2021-06_guild_role_subscriptions` experiment overrides
 `GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
