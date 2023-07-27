@@ -25,6 +25,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/1037680572660727838/925d0f981612cc56f1f44c9be0c68be6.webp?size=80) | 1037680572660727838 | Chef Showdown                                                 | 15               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/800aeb4c6899941eb52a743abe773a0b.webp?size=80) | 1039835161136746497 | Color Together                                                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070087967294631976/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070087967294631976 | Jamspace                                                      | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1107689944685748377/fa0a41650eec35aae523f02ea818ab0e.webp?size=80) | 1107689944685748377 | Bobble Bash                                                   | 8                |
 
 ### Development versions
 | Icon                                                                                                            | Application ID      | Application name                                          | Max participants |
