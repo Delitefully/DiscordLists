@@ -88,6 +88,7 @@ Guild Features | Description
 `GUILD_ONBOARDING_HAS_PROMPTS` |
 `GUILD_ROLE_SUBSCRIPTIONS` | Given to guilds previously in the `2021-06_guild_role_subscriptions` experiment overrides
 `GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
+`GUILD_ROLE_SUBSCRIPTION_TIER_TEMPLATE` |
 `GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds previously in the `2022-01_guild_role_subscription_trials` experiment overrides
 `GUILD_SERVER_GUIDE` | Guild has enabled [server guide](https://support.discord.com/hc/en-us/articles/13497665141655)
 `GUILD_WEB_PAGE_VANITY_URL` |
