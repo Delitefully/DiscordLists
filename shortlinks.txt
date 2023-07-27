@@ -17,6 +17,7 @@ dis.gd/activities
 dis.gd/activities-questions
 dis.gd/activitiesFAQ
 dis.gd/activitiesfeedback
+dis.gd/activitiesingdmtw
 dis.gd/ActivitiesMoving
 dis.gd/activitiesreport
 dis.gd/activitybugreport
@@ -37,6 +38,7 @@ dis.gd/appdiscoveryblog
 dis.gd/appeal
 dis.gd/appprofilepages
 dis.gd/apps
+dis.gd/aprilfools23
 dis.gd/ar12
 dis.gd/atsundowntw
 dis.gd/automod
