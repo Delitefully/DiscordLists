@@ -51,7 +51,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80)  | 893449443918086174  | SpellCast Staging                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80)  | 945732077960188005  | Putt Party Stg                   | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1049916362383962192/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1049916362383962192 | [Deprecated] Colonist.io Staging | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/69130d92956dbe143d1cb2231a3628f0.webp?size=80) | 1070651686932197517 | Color Together - Staging                                  | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/c1962e3f45c660e0f9dfc84acc717f98.webp?size=80) | 1070651686932197517 | Color Together - Staging                                  | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1106787009256767498/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1106787009256767498 | Colonist.io Staging              | Unlimited        |
 
 ### QA versions
