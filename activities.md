@@ -25,7 +25,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/1037680572660727838/925d0f981612cc56f1f44c9be0c68be6.webp?size=80) | 1037680572660727838 | Chef Showdown                                                 | 15               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/800aeb4c6899941eb52a743abe773a0b.webp?size=80) | 1039835161136746497 | Color Together                                                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070087967294631976/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070087967294631976 | Jamspace                                                      | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/1107689944685748377/fa0a41650eec35aae523f02ea818ab0e.webp?size=80) | 1107689944685748377 | Bobble Bash                                                   | 8                |
+| ![Icon](https://cdn.discordapp.com/app-icons/1107689944685748377/fa0a41650eec35aae523f02ea818ab0e.webp?size=80) | 1107689944685748377 | Bobble Bash _(Internal Name: 'CG7')_                          | 8                |
 
 ### Development versions
 | Icon                                                                                                            | Application ID      | Application name                                          | Max participants |
@@ -51,7 +51,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80)  | 893449443918086174  | SpellCast Staging                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80)  | 945732077960188005  | Putt Party Stg                   | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1049916362383962192/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1049916362383962192 | [Deprecated] Colonist.io Staging | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/c1962e3f45c660e0f9dfc84acc717f98.webp?size=80) | 1070651686932197517 | Color Together - Staging                                  | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/c1962e3f45c660e0f9dfc84acc717f98.webp?size=80) | 1070651686932197517 | Color Together - Staging         | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1106787009256767498/19afbe4b0494b686252b89856a6fe00e.webp?size=80) | 1106787009256767498 | Colonist.io Staging              | Unlimited        |
 
 ### QA versions
