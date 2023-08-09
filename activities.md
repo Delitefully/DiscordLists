@@ -39,7 +39,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/1b1a929b491a29f9c18b5001ea947c49.webp?size=80)  | 902271746701414431  | Sketch Heads Dev                                          | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80)  | 910224161476083792  | Putt Party Dev                                            | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/950507686422794280/ff823d8681b22b6c8188742a2ef761be.webp?size=80)  | 950507686422794280  | Know What I Meme Dev                                      | 9                |
-| ![Icon](https://cdn.discordapp.com/app-icons/1070097992746541207/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070097992746541207 | Jamspace Dev                                              | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1070097992746541207/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070097992746541207 | Whiteboard DEV _(Formerly known as 'Jamspace Dev')_       | Unlimited        |
 
 ### Staging versions
 | Icon                                                                                                            | Application ID      | Application name                 | Max participants |
