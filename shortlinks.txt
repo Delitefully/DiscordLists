@@ -49,6 +49,17 @@ dis.gd/back2school2022yt
 dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
+dis.gd/bc_brand
+dis.gd/bc_channels
+dis.gd/bc_gettingstarted
+dis.gd/bc_healthy
+dis.gd/bc_home
+dis.gd/bc_insights
+dis.gd/bc_mods
+dis.gd/bc_onboarding
+dis.gd/bc_perms
+dis.gd/bc_promotion
+dis.gd/bc_safeserver
 dis.gd/bday3
 dis.gd/beginnersguide
 dis.gd/benzaie
