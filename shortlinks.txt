@@ -233,6 +233,7 @@ dis.gd/early_access
 dis.gd/earthday
 dis.gd/easier-servers
 dis.gd/emoji-effect
+dis.gd/entrancesounds
 dis.gd/events
 dis.gd/exam
 dis.gd/familycenter
