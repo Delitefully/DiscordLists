@@ -63,6 +63,7 @@ dis.gd/bc_safeserver
 dis.gd/bday3
 dis.gd/beginnersguide
 dis.gd/benzaie
+dis.gd/best-apps-for-students
 dis.gd/bhm-2022
 dis.gd/bhm-2023
 dis.gd/bhmcommunities
