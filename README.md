@@ -45,7 +45,7 @@ Guild Features | Description
 `AUTOMOD_TRIGGER_SPAM_LINK_FILTER` |
 `AUTOMOD_TRIGGER_USER_PROFILE` | Server has enabled AutoMod for user profiles.
 `BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list. 
-`BFG` |  
+`BFG` | Internally documented as `big fun guild`
 `BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
 `BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
@@ -57,11 +57,11 @@ Guild Features | Description
 `CHANNEL_EMOJIS_GENERATED` |
 `CHANNEL_HIGHLIGHTS` |
 `CHANNEL_HIGHLIGHTS_DISABLED` | 
-`CLYDE_ENABLED` | 
+`CLYDE_ENABLED` | Server has enabled Clyde AI
 `CLYDE_EXPERIMENT_ENABLED` | Enables ClydeAI for the guild
 `CLYDE_DISABLED` | Given when a server administrator disables ClydeAI for the guild
 `COMMUNITY` | [Gain access to Server Discovery, Insights, Community Server News, and Announcement Channels](https://support.discord.com/hc/en-us/articles/360035969312-Public-Server-Guidelines).
-`CREATOR_ACCEPTED_NEW_TERMS` |
+`CREATOR_ACCEPTED_NEW_TERMS` | The server owner accepted the new monetization terms.
 `CREATOR_MONETIZABLE` | Given to guilds that enabled role subscriptions through the manual approval system
 `CREATOR_MONETIZABLE_DISABLED` |
 `CREATOR_MONETIZABLE_PENDING_NEW_OWNER_ONBOARDING` |
