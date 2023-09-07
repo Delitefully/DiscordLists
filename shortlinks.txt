@@ -171,6 +171,7 @@ dis.gd/discordlflconcours
 dis.gd/discordswim4
 dis.gd/Discord_to_Patreon_FAQ
 dis.gd/disdevstorform
+dis.gd/disgiftcards
 dis.gd/dispatch-error
 dis.gd/dma
 dis.gd/dma100
