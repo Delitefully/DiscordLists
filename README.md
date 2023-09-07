@@ -133,6 +133,8 @@ Guild Features | Description
 `SUMMARIES_DISABLED_BY_USER` | 
 `SUMMARIES_ENABLED_BY_USER` | 
 `SUMMARIES_LONG_LOOKBACK` |
+`STAFF_LEVEL_COLLABORATOR_REQUIRED` |
+`STAFF_LEVEL_RESTRICTED_COLLABORATOR_REQUIRED` |
 `TEXT_IN_STAGE_ENABLED` | 
 `TEXT_IN_VOICE_ENABLED` | Show a chat button inside voice channels that opens a dedicated text channel in a sidebar similar to thread view.
 `THREADS_ENABLED_TESTING` | Used by bot developers to test their bots with threads in guilds with 5 or less members and a bot. ~~Also gives the premium thread features.~~
