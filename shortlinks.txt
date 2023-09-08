@@ -148,6 +148,7 @@ dis.gd/DDevsGameNightFeedback
 dis.gd/DDevsInterviewPanel
 dis.gd/DDevsInterviewPanelQ+A
 dis.gd/DDevsInterviewPanelRec
+dis.gd/DDevsSept2023
 dis.gd/developer-support
 dis.gd/devfeedback
 dis.gd/devnewsletter
