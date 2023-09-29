@@ -450,6 +450,7 @@ dis.gd/Server_Subs_Policy
 dis.gd/sgfundraiser
 dis.gd/shivfps
 dis.gd/shobosuke-rt
+dis.gd/shop-styles
 dis.gd/sinnertw
 dis.gd/siphano
 dis.gd/skyyart
