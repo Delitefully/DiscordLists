@@ -168,6 +168,7 @@ dis.gd/dgtvcommunity
 dis.gd/discord-drops
 dis.gd/discord-link-playstation
 dis.gd/discord-stories
+dis.gd/discordnitro-syncedgiftpack-promo2023
 dis.gd/discord101
 dis.gd/DiscordAtVidCon
 dis.gd/discordJP-link-playstation
@@ -437,6 +438,7 @@ dis.gd/serveravatarsfaq
 dis.gd/serverboosting
 dis.gd/serverid
 dis.gd/serverprofilesFAQ
+dis.gd/servershopwaitlist
 dis.gd/serversubs101
 dis.gd/serversubs102
 dis.gd/serversubs103
