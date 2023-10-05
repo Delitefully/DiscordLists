@@ -99,6 +99,7 @@ dis.gd/childsplaydiscordhype
 dis.gd/chromium-q-values
 dis.gd/clarifying-server-spaces
 dis.gd/classroom
+dis.gd/clipsbetaFAQ
 dis.gd/clyde
 dis.gd/cohhcarnage
 dis.gd/collegiumdiscordgiveaway
