@@ -12,7 +12,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80)  | 852509694341283871  | SpellCast                                                     | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80)  | 879863686565621790  | Letter League _(Formerly known as 'Letter Tile')_             | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80)  | 880218394199220334  | Watch Together                                                | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/0fbc3e38ea4b26c47d8001eff6b94a7b.webp?size=80)  | 902271654783242291  | Sketch Heads                                                  | 8                |
+| ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/afa9d4ad5d54af60480fde65fb6fed8d.webp?size=80)  | 902271654783242291  | Sketch Heads                                                  | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/0a6b8f4795c66ba12afbc766dd920bfb.webp?size=80)  | 903769130790969345  | Land.io                                                       | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/12ee915c2f75d7f2c7d551819534f158.webp?size=80)  | 945737671223947305  | Putt Party                                                    | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/947957217959759964/b485f75e95e6486a758a4aa5db3352f4.webp?size=80)  | 947957217959759964  | Bobble League                                                 | 8                |
@@ -21,7 +21,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/1000100849122553977/ef2be6cbe3f5b2a87c13d229cc0f8493.webp?size=80) | 1000100849122553977 | Bobble Land: Scrappies                                        | 4                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1006584476094177371/eace9c231b505f0c96fba27d1795c31a.webp?size=80) | 1006584476094177371 | Bash Out                                                      | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1007373802981822582/7293b549efff3c5a809999d883f09202.webp?size=80) | 1007373802981822582 | Gartic Phone                                                  | 16               |
-| ![Icon](https://cdn.discordapp.com/app-icons/1011683823555199066/cdc044d1552ae938203583a2672a34b3.webp?size=80) | 1011683823555199066 | Krunker FRVR                                                  | 12               |
+| ![Icon](https://cdn.discordapp.com/app-icons/1011683823555199066/cdc044d1552ae938203583a2672a34b3.webp?size=80) | 1011683823555199066 | Krunker Strike FRVR                                           | 12               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1037680572660727838/b27f11b43c0ebea952aa1ce60d9c9a8e.webp?size=80) | 1037680572660727838 | Chef Showdown                                                 | 15               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1039835161136746497/800aeb4c6899941eb52a743abe773a0b.webp?size=80) | 1039835161136746497 | Color Together                                                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070087967294631976/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070087967294631976 | Whiteboard _(Formerly known as 'Jamspace')_                   | Unlimited        |
@@ -68,11 +68,11 @@
 ### Other applications
 | Icon                                                                                                            	| Application ID      	| Application name                                  	| Max participants 	|
 |-----------------------------------------------------------------------------------------------------------------	|---------------------	|---------------------------------------------------	|------------------	|
-| ❔                                                                                                               	| 832025993019260929  	| CGSample                                          	| 100              	|
+| ❔                                                                                                               | 832025993019260929  	| CGSample                                          	| 100              	|
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/7a5360d203a81c8d3518cd470501c2b3.webp?size=80)  	| 880559245471408169  	| iframe-playground                                 	| 100              	|
-| ❔                                                                                                               	| 881732122631634984  	| test-game-001                                     	| Unlimited        	|
+| ❔                                                                                                               | 881732122631634984  	| test-game-001                                     	| Unlimited        	|
 | ![Icon](https://cdn.discordapp.com/app-icons/1001529884625088563/ab01dfd5deb4ca7e1649f5e1d2a982aa.webp?size=80) 	| 1001529884625088563 	| Guestbook                                         	| Unlimited        	|
-| ❔                                                                                                               	| 1100444516957298820 	| Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ 	| Unlimited        	|
+| ❔                                                                                                               | 1100444516957298820 	| Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ 	| Unlimited        	|
 
 ### Deleted applications
 | Icon                                                                                                           	  | Application ID      	| Application name                                                          	| Max participants 	|
