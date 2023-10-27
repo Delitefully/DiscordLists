@@ -74,6 +74,7 @@ Guild Features | Description
 `DISCOVERABLE_DISABLED` | Guild is permanently removed from Discovery by Discord.
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
+`ENABLED_MODERATION_EXPERIENCE_FOR_NON_COMMUNITY` |
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to guilds previously in the `2021-11_activities_baseline_engagement_bundle` experiment overrides
 `GUESTS_ENABLED` | Guild has used guest invites
 `GUILD_AUTOMOD_DEFAULT_LIST` | Given to guilds in the `2022-03_guild_automod_default_list` experiment overrides
@@ -93,6 +94,7 @@ Guild Features | Description
 `GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds previously in the `2022-01_guild_role_subscription_trials` experiment overrides
 `GUILD_SERVER_GUIDE` | Guild has enabled [server guide](https://support.discord.com/hc/en-us/articles/13497665141655)
 `GUILD_WEB_PAGE_VANITY_URL` |
+`GUILD_PRODUCTS_ALLOW_ARCHIVED_FILE` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HIDE_FROM_EXPERIMENT_UI` | 
@@ -133,6 +135,8 @@ Guild Features | Description
 `SUMMARIES_DISABLED_BY_USER` | 
 `SUMMARIES_ENABLED_BY_USER` | 
 `SUMMARIES_LONG_LOOKBACK` |
+`SUMMARIES_OPT_OUT_EXPERIENCE` |
+`SUMMARIES_PAUSED` |
 `STAFF_LEVEL_COLLABORATOR_REQUIRED` |
 `STAFF_LEVEL_RESTRICTED_COLLABORATOR_REQUIRED` |
 `TEXT_IN_STAGE_ENABLED` | 
