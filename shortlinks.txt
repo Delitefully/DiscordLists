@@ -1,5 +1,6 @@
 dis.gd/0
 dis.gd/1
+dis.gd/2-weeks-nitro-for-everyone
 dis.gd/2020-in-review
 dis.gd/2020report
 dis.gd/2fa
