@@ -353,7 +353,10 @@ dis.gd/MKBHD_casestudy
 dis.gd/mmsnow18
 dis.gd/mobile-voice-help
 dis.gd/mobilegifpicker
+dis.gd/mobileig
 dis.gd/mobilescreenshare
+dis.gd/mobiletw
+dis.gd/mobileyt
 dis.gd/mod-channel-ss
 dis.gd/modacademy
 dis.gd/modbadge
