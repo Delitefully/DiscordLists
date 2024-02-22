@@ -57,6 +57,7 @@ Guild Features | Description
 `CHANNEL_EMOJIS_GENERATED` |
 `CHANNEL_HIGHLIGHTS` |
 `CHANNEL_HIGHLIGHTS_DISABLED` | 
+`CLAN` | The server is a clan server
 `CLYDE_DISABLED` | Given when a server administrator disables ClydeAI for the guild
 `CLYDE_ENABLED` | Server has enabled Clyde AI
 `CLYDE_EXPERIMENT_ENABLED` | Enables ClydeAI for the guild
