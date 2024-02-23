@@ -149,6 +149,7 @@ dis.gd/dcc_saferinternetday
 dis.gd/dcc_saferserver
 dis.gd/DDevs8thBDay
 dis.gd/DDevsBuildathon2023
+dis.gd/DDevsFigma
 dis.gd/DDevsGameNight
 dis.gd/DDevsGameNightFeedback
 dis.gd/DDevsInterviewPanel
