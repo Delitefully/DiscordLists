@@ -45,7 +45,7 @@ Guild Features | Description
 `AUTOMOD_TRIGGER_SPAM_LINK_FILTER` |
 `AUTOMOD_TRIGGER_USER_PROFILE` | Server has enabled AutoMod for user profiles.
 `BANNER` | Ability to set a [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list. 
-`BFG` | Internally documented as `big fun guild`
+`BFG` | Internally documented as `big funky guild`
 `BOOSTING_TIERS_EXPERIMENT_MEDIUM_GUILD` |
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` |
 `BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
