@@ -24,7 +24,6 @@
 | discordsays.com       | Voice channel activity host              |
 | discordsez.com        | Voice channel activity staging host      |
 | discordstatus.com     | Status page                              |
-| backyard.co           | Voice channel activity API host          |
 
 ## Other
 
