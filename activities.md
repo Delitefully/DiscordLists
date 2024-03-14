@@ -12,7 +12,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80)  | 852509694341283871  | SpellCast                                                     | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80)  | 879863686565621790  | Letter League _(Formerly known as 'Letter Tile')_             | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80)  | 880218394199220334  | Watch Together                                                | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/5e7c221f17f3cb4c189de9284423f7c3.webp?size=80)  | 902271654783242291  | Sketch Heads                                                  | 8                |
+| ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/05f3ad2c91d157cd1a0bd8e904a3182e.webp?size=80)  | 902271654783242291  | Sketch Heads                                                  | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/0a6b8f4795c66ba12afbc766dd920bfb.webp?size=80)  | 903769130790969345  | Land.io                                                       | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/12ee915c2f75d7f2c7d551819534f158.webp?size=80)  | 945737671223947305  | Putt Party                                                    | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/947957217959759964/b485f75e95e6486a758a4aa5db3352f4.webp?size=80)  | 947957217959759964  | Bobble League                                                 | 8                |
@@ -27,6 +27,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/1070087967294631976/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070087967294631976 | Whiteboard _(Formerly known as 'Jamspace')_                   | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1106787098452832296/2f15038b8c83e221182c3c6fb6ea0814.webp?size=80) | 1106787098452832296 | Colonist                                                      | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1107689944685748377/fa0a41650eec35aae523f02ea818ab0e.webp?size=80) | 1107689944685748377 | Bobble Bash                                                   | 8                |
+| ![Icon](https://cdn.discordapp.com/app-icons/1186785228182798556/b1b403f5664929b5dc3fbe643c242ab5.webp?size=80) | 1186785228182798556 | Goober Dash                                                   | 32               |
 
 ### Development versions
 | Icon                                                                                                            | Application ID      | Application name                                          | Max participants |
