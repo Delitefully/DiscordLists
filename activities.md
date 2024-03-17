@@ -75,6 +75,7 @@
 | ❔                                                                                                               | 881732122631634984  	| test-game-001                                     	| Unlimited        	|
 | ![Icon](https://cdn.discordapp.com/app-icons/1001529884625088563/ab01dfd5deb4ca7e1649f5e1d2a982aa.webp?size=80) 	| 1001529884625088563 	| Guestbook                                         	| Unlimited        	|
 | ❔                                                                                                               | 1100444516957298820 	| Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ 	| Unlimited        	|
+| ❔                                                                                                               | 1194681004259029083 	| Thieves [PLAYER FEEDBACK] _(Thieves BETATEST)_ 	| Unlimited        	|
 
 ### Deleted applications
 | Icon                                                                                                           	  | Application ID      	| Application name                                                          	| Max participants 	|
