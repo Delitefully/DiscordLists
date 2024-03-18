@@ -558,6 +558,7 @@ dis.gd/tw-thegrefg
 dis.gd/Twitch_Integration_FAQ
 dis.gd/twitter
 dis.gd/unsupportedbugs
+dis.gd/user-install-apps
 dis.gd/userid
 dis.gd/usernames
 dis.gd/utdallas-blog
