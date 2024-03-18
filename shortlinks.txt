@@ -21,6 +21,7 @@ dis.gd/activitiesfeedback
 dis.gd/activitiesingdmtw
 dis.gd/ActivitiesMoving
 dis.gd/activitiesreport
+dis.gd/activity-guide
 dis.gd/activitybugreport
 dis.gd/ActivityFeedback&Bugs
 dis.gd/add-trickcordtreat
@@ -157,6 +158,9 @@ dis.gd/DDevsInterviewPanelQ+A
 dis.gd/DDevsInterviewPanelRec
 dis.gd/DDevsOct2023
 dis.gd/DDevsSept2023
+dis.gd/dev-support
+dis.gd/develop-activities
+dis.gd/develop-apps
 dis.gd/developer-support
 dis.gd/devfeedback
 dis.gd/devnewsletter
