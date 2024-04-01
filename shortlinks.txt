@@ -335,6 +335,7 @@ dis.gd/lang-feedback
 dis.gd/lastyeartw
 dis.gd/latinx2021
 dis.gd/login
+dis.gd/lootboxes
 dis.gd/macinstall
 dis.gd/magikarpusedfly
 dis.gd/magikarpusedfly-koth
