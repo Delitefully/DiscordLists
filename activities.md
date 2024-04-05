@@ -41,7 +41,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80)  | 832013108234289153  | CG4 Dev _(Also known as 'Blazing 8s Dev')_                | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80)  | 879863753519292467  | Letter League Dev _(Formerly known as 'Letter Tile Dev')_ | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/3f135503dc803ce7bcf555c769b3f577.webp?size=80)  | 880218832743055411  | Watch Together Dev                                        | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80)  | 880218832743055411  | Wagon Dev                                                 | 8                |
+| ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80) | 880218832743055411  | Wagon Dev                                                 | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/1b1a929b491a29f9c18b5001ea947c49.webp?size=80)  | 902271746701414431  | Sketch Heads Dev                                          | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80)  | 910224161476083792  | Putt Party Dev                                            | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/950507686422794280/ff823d8681b22b6c8188742a2ef761be.webp?size=80)  | 950507686422794280  | Know What I Meme Dev                                      | 9                |
@@ -56,7 +56,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832025061657280566/832ff736821811d7f41d0ff09b374ccb.webp?size=80)  | 832025061657280566  | CG4 Staging                      | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/893449443918086174/74d41d680b96eec08562164988be671a.webp?size=80)  | 893449443918086174  | SpellCast Staging                | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/945732077960188005/27881d08b84784b2c98a5aae921c09ae.webp?size=80)  | 945732077960188005  | Putt Party Stg                   | Unlimited        |
-| ❔                                                                                                             | 1049916362383962192 | [Deprecated] Colonist.io Staging | Unlimited        |
+| ❔                                                                                                              | 1049916362383962192 | [Deprecated] Colonist.io Staging | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070651686932197517/c1962e3f45c660e0f9dfc84acc717f98.webp?size=80) | 1070651686932197517 | Color Together - Staging         | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1106787009256767498/2f15038b8c83e221182c3c6fb6ea0814.webp?size=80) | 1106787009256767498 | Colonist.io Staging              | Unlimited        |
 
@@ -73,17 +73,17 @@
 
 ### Other applications
 | Icon                                                                                                            	| Application ID      	| Application name                                  	| Max participants 	|
-|-----------------------------------------------------------------------------------------------------------------	|---------------------	|---------------------------------------------------	|------------------	|
-| ❔                                                                                                               | 832025993019260929  	| CGSample                                          	| 100              	|
+|-------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------------------------------------|-------------------|
+| ❔                                                                                                                | 832025993019260929  	| CGSample                                          	| 100              	|
 | ![Icon](https://cdn.discordapp.com/app-icons/880559245471408169/7a5360d203a81c8d3518cd470501c2b3.webp?size=80)  	| 880559245471408169  	| iframe-playground                                 	| 100              	|
-| ❔                                                                                                               | 881732122631634984  	| test-game-001                                     	| Unlimited        	|
+| ❔                                                                                                                | 881732122631634984  	| test-game-001                                     	| Unlimited        	|
 | ![Icon](https://cdn.discordapp.com/app-icons/1001529884625088563/ab01dfd5deb4ca7e1649f5e1d2a982aa.webp?size=80) 	| 1001529884625088563 	| Guestbook                                         	| Unlimited        	|
-| ❔                                                                                                               | 1100444516957298820 	| Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ 	| Unlimited        	|
-| ❔                                                                                                               | 1194681004259029083 	| Thieves [PLAYER FEEDBACK] _(Thieves BETATEST)_ 	| Unlimited        	|
+| ❔                                                                                                                | 1100444516957298820 	| Chef [PLAYER FEEDBACK] _(Chef Showdown BETATEST)_ 	| Unlimited        	|
+| ❔                                                                                                                | 1194681004259029083 	| Thieves [PLAYER FEEDBACK] _(Thieves BETATEST)_    	| Unlimited        	|
 
 ### Deleted applications
 | Icon                                                                                                           	  | Application ID      	| Application name                                                          	| Max participants 	|
-|----------------------------------------------------------------------------------------------------------------	  |---------------------	|---------------------------------------------------------------------------	|------------------	|
+|-------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------------------------------------------------------------|-------------------|
 | ❔                                                                                                              	| 832012854282158180  	| Delete Me Calla _(Formerly known as 'putt dis' 'click dis' and 'Putts'.)_ 	| 12               	|
 | ❔                                                                                                              	| 832025179659960360  	| Discord Game 14                                                           	|                  	|
 | ❔                                                                                                              	| 832025219526033439  	| Discord Game 15                                                           	|                  	|
@@ -109,8 +109,8 @@
 
 ## MAX CONCURRENT ACTIVITIES
 | Boost tier | Max concurrent activities |
-|   ---   | --- |
-|  Tier 0 |  2  |
-|  Tier 1 |  3  |
-|  Tier 2 |  5  |
+|---------|---------------------------------------------------------------|
+|  Tier 0 |  2                                                            |
+|  Tier 1 |  3                                                            |
+|  Tier 2 |  5                                                            |
 |  Tier 3 | Unlimited <!-- Number.MAX_SAFE_INTEGER = 9007199254740991 --> |
