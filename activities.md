@@ -12,6 +12,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80)  | 852509694341283871  | SpellCast                                                     | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80)  | 879863686565621790  | Letter League _(Formerly known as 'Letter Tile')_             | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80)  | 880218394199220334  | Watch Together                                                | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80)  | 880218394199220334  | Wagon                                                         | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/05f3ad2c91d157cd1a0bd8e904a3182e.webp?size=80)  | 902271654783242291  | Sketch Heads                                                  | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/0a6b8f4795c66ba12afbc766dd920bfb.webp?size=80)  | 903769130790969345  | Land.io                                                       | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/12ee915c2f75d7f2c7d551819534f158.webp?size=80)  | 945737671223947305  | Putt Party                                                    | 8                |
@@ -39,6 +40,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832013108234289153/94ccfd4c1c0749b1ccf7a52feefb0468.webp?size=80)  | 832013108234289153  | CG4 Dev _(Also known as 'Blazing 8s Dev')_                | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863753519292467/09a8b98f5f5c219e7befa6693c7f73e4.webp?size=80)  | 879863753519292467  | Letter League Dev _(Formerly known as 'Letter Tile Dev')_ | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218832743055411/3f135503dc803ce7bcf555c769b3f577.webp?size=80)  | 880218832743055411  | Watch Together Dev                                        | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80)  | 880218832743055411  | Wagon Dev                                                 | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271746701414431/1b1a929b491a29f9c18b5001ea947c49.webp?size=80)  | 902271746701414431  | Sketch Heads Dev                                          | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80)  | 910224161476083792  | Putt Party Dev                                            | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/950507686422794280/ff823d8681b22b6c8188742a2ef761be.webp?size=80)  | 950507686422794280  | Know What I Meme Dev                                      | 9                |
@@ -66,6 +68,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/832025114077298718/ee2edef3edb605a83e5331de070fd49c.webp?size=80)  | 832025114077298718  | CG4 QA            | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/945748195256979606/5f8a388110138fb6fa586eedc73e075a.webp?size=80)  | 945748195256979606  | Putt Party QA     | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1050941315912835122/a380fd3c2d90f436731044cf2c6412e0.webp?size=80) | 1050941315912835122 | Watch Together QA | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80) | 1050941315912835122 | Wagon QA          | 8                |
 
 ### Other applications
 | Icon                                                                                                            	| Application ID      	| Application name                                  	| Max participants 	|
