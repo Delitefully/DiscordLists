@@ -12,7 +12,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/852509694341283871/9a4a52c760994654a416740ae0b19fbb.webp?size=80)  | 852509694341283871  | SpellCast                                                     | 100              |
 | ![Icon](https://cdn.discordapp.com/app-icons/879863686565621790/0096355142a9b00bc2676ec09b9c8dbc.webp?size=80)  | 879863686565621790  | Letter League _(Formerly known as 'Letter Tile')_             | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/880218394199220334/ec48acbad4c32efab4275cb9f3ca3a58.webp?size=80)  | 880218394199220334  | Watch Together                                                | Unlimited        |
-| ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80) | 880218394199220334  | Wagon                                                        | 9                |
+| ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80) | 880218394199220334  | Wagon                                                         | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/902271654783242291/05f3ad2c91d157cd1a0bd8e904a3182e.webp?size=80)  | 902271654783242291  | Sketch Heads                                                  | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/903769130790969345/0a6b8f4795c66ba12afbc766dd920bfb.webp?size=80)  | 903769130790969345  | Land.io                                                       | 16               |
 | ![Icon](https://cdn.discordapp.com/app-icons/945737671223947305/12ee915c2f75d7f2c7d551819534f158.webp?size=80)  | 945737671223947305  | Putt Party                                                    | 8                |
