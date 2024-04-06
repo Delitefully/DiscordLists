@@ -436,6 +436,7 @@ dis.gd/reactwoooo
 dis.gd/refund
 dis.gd/RegEXHC
 dis.gd/report
+dis.gd/report-an-activity
 dis.gd/request
 dis.gd/riotarmyos
 dis.gd/rtgame-sinneryt
