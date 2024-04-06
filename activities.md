@@ -46,6 +46,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/910224161476083792/e69a66ab92d97173757b87ede8b02c36.webp?size=80)  | 910224161476083792  | Putt Party Dev                                            | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/950507686422794280/ff823d8681b22b6c8188742a2ef761be.webp?size=80)  | 950507686422794280  | Know What I Meme Dev                                      | 9                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1070097992746541207/9a04eab3b9f50302006577b769354520.webp?size=80) | 1070097992746541207 | Whiteboard DEV _(Formerly known as 'Jamspace Dev')_       | Unlimited        |
+| ![Icon](https://cdn.discordapp.com/app-icons/1093953453975404625/964a2ec6b6dfdc2441760e9c094d3219.webp?size=80) | 1093953453975404625 | Playscape Dev                                             | Unlimited        |
 
 ### Staging versions
 | Icon                                                                                                            | Application ID      | Application name                 | Max participants |
@@ -70,6 +71,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/945748195256979606/5f8a388110138fb6fa586eedc73e075a.webp?size=80)  | 945748195256979606  | Putt Party QA     | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1050941315912835122/a380fd3c2d90f436731044cf2c6412e0.webp?size=80) | 1050941315912835122 | Watch Together QA | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/1166579889915310151/ec638dee3b319c23b922a0ffeded30ac.webp?size=80) | 1050941315912835122 | Wagon QA          | 8                |
+| ![Icon](https://cdn.discordapp.com/app-icons/1167111018338598912/964a2ec6b6dfdc2441760e9c094d3219.webp?size=80) | 1167111018338598912 | Playscape QA      | Unlimited        |
 
 ### Other applications
 | Icon                                                                                                            	| Application ID      	| Application name                                  	| Max participants 	|
