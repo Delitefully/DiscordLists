@@ -510,6 +510,7 @@ dis.gd/subnauticatw
 dis.gd/summer22nitrobogofr
 dis.gd/sunlightbladesinner
 dis.gd/super-reactions
+dis.gd/supersecretQRcode
 dis.gd/support
 dis.gd/swaggersouls-lastyear
 dis.gd/system-messages
