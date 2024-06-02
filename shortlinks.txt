@@ -39,6 +39,7 @@ dis.gd/app-discovery
 dis.gd/app-pitches-fb-2023
 dis.gd/app-pitches-ig-2023
 dis.gd/app-pitches-tw-2023
+dis.gd/app-quarantine
 dis.gd/app-usernames
 dis.gd/appdiscoveryblog
 dis.gd/appeal
