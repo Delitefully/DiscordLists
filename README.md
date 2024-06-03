@@ -114,6 +114,7 @@ Guild Features | Description
 `MOBILE_WEB_ROLE_SUBSCRIPTION_PURCHASE_PAGE` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
 `MONETIZATION_ENABLED` | Allows the server to set a team in dev portal to receive role subscription payouts
 `MORE_EMOJI` | Adds 150 extra emoji slots to each category (normal and animated emoji). Not used in server boosting.
+`MORE_SOUNDBOARD` | 
 `MORE_STICKERS` | Adds 60 total sticker slots no matter how many it had before. Not used in server boosting.
 `NEWS` | Ability to create and use [~~news~~ announcement channels](https://support.discord.com/hc/en-us/articles/360028384531) which can be followed, and shows the Announcements analytics tab in the guild settings.
 `NEW_THREAD_PERMISSIONS` | Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423#h_01FDGC4JW2D665Y230KPKWQZPN).
