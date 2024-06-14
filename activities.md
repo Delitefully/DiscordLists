@@ -2,6 +2,7 @@
 ### Stable versions
 | Icon                                                                                                            | Application ID      | Application name                                              | Max participants |
 |-----------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------------------------------------|------------------|
+| ![Icon](https://cdn.discordapp.com/app-icons/235088799074484224/8bbffb0f3547424baf6798ecf632831e.webp?size=80)  | 235088799074484224  | Rythm                                                         | 20               |
 | ![Icon](https://cdn.discordapp.com/app-icons/755600276941176913/4e0fd3bf009282c0ecd1fb010e621f28.webp?size=80)  | 755600276941176913  | YouTube Together _(Deprecated. Replaced by 'Watch Together')_ | Unlimited        |
 | ![Icon](https://cdn.discordapp.com/app-icons/755827207812677713/e594da3ca4520c7edde5b59948e97cdc.webp?size=80)  | 755827207812677713  | Poker Night                                                   | 7                |
 | ![Icon](https://cdn.discordapp.com/app-icons/773336526917861400/0227b2e89ea08d666c43003fbadbc72a.webp?size=80)  | 773336526917861400  | Betrayal.io                                                   | Unlimited        |
@@ -30,6 +31,7 @@
 | ![Icon](https://cdn.discordapp.com/app-icons/1186785228182798556/b1b403f5664929b5dc3fbe643c242ab5.webp?size=80) | 1186785228182798556 | Goober Dash                                                   | 32               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1194351737264406548/b8d3b3bd913ea4b4f41420809de73e06.webp?size=80) | 1194351737264406548 | Death by AI                                                   | 10               |
 | ![Icon](https://cdn.discordapp.com/app-icons/1196535986226745437/dc0e398eabc17c23b36961825851ed91.webp?size=80) | 1196535986226745437 | TuneIn Radio & Podcasts                                       | 25               |
+| ![Icon](https://cdn.discordapp.com/app-icons/1199817737728442569/a2eed700e6d2b625fff9147c54e2ef86.webp?size=80) | 1199817737728442569 | BOPZ.io                                                       | 10               |
 | ❔                                                                                                              | 1211781489931452447 | Wagons                                                        | 8                |
 | ![Icon](https://cdn.discordapp.com/app-icons/1217076740820832346/1075425c541a67127a728d0fadd6f820.webp?size=80) | 1217076740820832346 | Playscape                                                     | 8                |
 
