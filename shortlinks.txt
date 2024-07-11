@@ -150,6 +150,7 @@ dis.gd/dcc_saferaccount
 dis.gd/dcc_safercommunity
 dis.gd/dcc_saferinternetday
 dis.gd/dcc_saferserver
+dis.gd/ddevs-july-11
 dis.gd/DDevs8thBDay
 dis.gd/DDevsBuildathon2023
 dis.gd/DDevsFigma
@@ -419,6 +420,7 @@ dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
 dis.gd/playstation
 dis.gd/police2tw
+dis.gd/premium-apps-docs
 dis.gd/pride-2022
 dis.gd/pride2021
 dis.gd/pride2021-donate
