@@ -30,6 +30,7 @@ dis.gd/ai-on-discord
 dis.gd/alphacast
 dis.gd/alphaking
 dis.gd/alpharad-koth
+dis.gd/Amazon-Music-Connection
 dis.gd/androidboogie
 dis.gd/anonymous-dms
 dis.gd/app-directory-appeal
