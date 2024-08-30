@@ -40,4 +40,4 @@
 |----------------|-------------|
 | discordapp.io  | N/A         |
 | discordcdn.com | N/A         |
-| discord.fr     | Taken from [Discord FR](https://dfr.gg/) (not affiliated with discord, french) - *see more (french): [Case FR-2023-03713 (.pdf)](https://syreli.fr/decisions/telecharger/55655)* |
+| discord.fr     | Taken from [Discord FR](https://dfr.gg/) (not affiliated with Discord, french) - *see more (french): [Case FR-2023-03713 (.pdf)](https://syreli.fr/decisions/telecharger/55655)* |
