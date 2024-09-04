@@ -420,6 +420,7 @@ dis.gd/phish
 dis.gd/picsartfaq
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
+dis.gd/play-chess-bots-win-nitro
 dis.gd/playstation
 dis.gd/police2tw
 dis.gd/premium-apps-docs
