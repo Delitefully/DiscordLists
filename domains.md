@@ -32,6 +32,7 @@
 | airhorn.solutions         | [API implementation example](https://github.com/discord/airhornbot) |
 | airhornbot.com            | ^                                                                   |
 | bigbeans.solutions        | [April Fools 2017](https://youtu.be/9Z4GW6Vd6NI)                    |
+| daveprotocol.com          | Discord's Audio & Video End-to-End Encryption (DAVE) protocol       |
 | watchanimeattheoffice.com | HypeSquad form placeholder/meme                                     |
 
 ## Unused
