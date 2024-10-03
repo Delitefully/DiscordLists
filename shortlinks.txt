@@ -417,6 +417,7 @@ dis.gd/partners
 dis.gd/password
 dis.gd/paxeast2023giveaway
 dis.gd/phish
+dis.gd/phone-errors
 dis.gd/picsartfaq
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
