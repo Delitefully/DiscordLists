@@ -283,6 +283,7 @@ dis.gd/gamepass
 dis.gd/GDC2023AppWorkshopQ+A
 dis.gd/gettingstartedonmobile
 dis.gd/GHhackathon
+dis.gd/gift-nitro-get-spooky
 dis.gd/gikochan
 dis.gd/GoldGlove-DiscordStore
 dis.gd/goldglove-zombsroyale.io
