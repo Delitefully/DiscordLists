@@ -422,6 +422,7 @@ dis.gd/phone-errors
 dis.gd/picsartfaq
 dis.gd/pipepunkyt-lastyear
 dis.gd/pixelatedapollo
+dis.gd/platform-updates-oct24
 dis.gd/play-chess-bots-win-nitro
 dis.gd/playstation
 dis.gd/police2tw
