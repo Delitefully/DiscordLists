@@ -156,6 +156,7 @@ Guild Features | Description
 `VOICE_CHANNEL_EFFECTS` |  Given to guilds previously in the `2022-06_voice_channel_effects` experiment overrides
 `VOICE_IN_THREADS` | 
 `WELCOME_SCREEN_ENABLED` | Has welcome screen enabled, a modal shown to new joiners that features different channels, and a short description of the guild.
+`FORWARDING_DISABLED` | Blocks from the API and UX side ability to forward messages from the selected server.
 
 Deprecated Guild Features | Description
 ------------ | -------------
