@@ -340,6 +340,7 @@ dis.gd/lamarrwilson
 dis.gd/lang-feedback
 dis.gd/lastyeartw
 dis.gd/latinx2021
+dis.gd/lofi_survey
 dis.gd/login
 dis.gd/lootboxes
 dis.gd/macinstall
