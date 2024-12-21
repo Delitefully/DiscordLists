@@ -186,7 +186,6 @@ dis.gd/cu-community-update
 dis.gd/cu-meet-admins
 dis.gd/CUServerSubs
 dis.gd/customroleiconsfaq
-dis.gd/customroleiconsFAQ
 dis.gd/cx
 dis.gd/cyril
 dis.gd/cyril-IG
@@ -202,7 +201,6 @@ dis.gd/DAC_RadioDiscord_Onboarding
 dis.gd/dac_s08
 dis.gd/dac_sept
 dis.gd/dac-announcements
-dis.gd/dac-faq
 dis.gd/DAC-FAQ
 dis.gd/DAC-ss0
 dis.gd/DAC-Stage-Automod
@@ -256,7 +254,6 @@ dis.gd/DevSLFunWFriendsRec
 dis.gd/devstoreform
 dis.gd/devsupport
 dis.gd/devupdates
-dis.gd/dgl
 dis.gd/DGL
 dis.gd/dglbugs
 dis.gd/dglfeedback
@@ -420,7 +417,6 @@ dis.gd/help
 dis.gd/hispanic-latinx-heritage-2022
 dis.gd/holycrap
 dis.gd/how-to-admin
-dis.gd/how-to-set-up-onboarding
 dis.gd/how-to-set-up-Onboarding
 dis.gd/howtoreport
 dis.gd/hypesquad
@@ -835,7 +831,6 @@ dis.gd/trickcordtreat
 dis.gd/TryApps
 dis.gd/ts
 dis.gd/ttssliderfaq
-dis.gd/ttssliderFAQ
 dis.gd/TW_LilYachty
 dis.gd/TW_MacDoesIt
 dis.gd/tw-aff_atrioc
