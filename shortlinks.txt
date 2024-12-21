@@ -183,7 +183,7 @@ dis.gd/CServerSubsHC
 dis.gd/cu-automod-blog
 dis.gd/cu-automod-hc
 dis.gd/cu-community
-dis.gd/cu-community-update%3E
+dis.gd/cu-community-update
 dis.gd/cu-meet-admins
 dis.gd/CUServerSubs
 dis.gd/customroleiconsfaq
