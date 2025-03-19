@@ -96,6 +96,7 @@ Guild Features | Description
 `GUILD_ROLE_SUBSCRIPTION_TIER_TEMPLATE` |
 `GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds previously in the `2022-01_guild_role_subscription_trials` experiment overrides
 `GUILD_SERVER_GUIDE` | Guild has enabled [server guide](https://support.discord.com/hc/en-us/articles/13497665141655)
+`GUILD_TAGS` | 
 `GUILD_WEB_PAGE_VANITY_URL` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
