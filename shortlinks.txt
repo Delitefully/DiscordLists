@@ -386,6 +386,7 @@ dis.gd/GDC2023ActivitiesQ+A
 dis.gd/GDC2023AppDirectoryQ+A
 dis.gd/GDC2023AppWorkshopQ+A
 dis.gd/GDC2023Server
+dis.gd/gdc2025
 dis.gd/gdcDDevs2024
 dis.gd/genshinquest
 dis.gd/gettingstartedonmobile
