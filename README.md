@@ -57,8 +57,6 @@ Guild Features | Description
 `CHANNEL_EMOJIS_GENERATED` |
 `CHANNEL_HIGHLIGHTS` |
 `CHANNEL_HIGHLIGHTS_DISABLED` | 
-`CLAN` | The server is a clan server
-`CLAN_PILOT_VALORANT` | 
 `CLYDE_DISABLED` | Given when a server administrator disables ClydeAI for the guild
 `CLYDE_ENABLED` | Server has enabled Clyde AI
 `CLYDE_EXPERIMENT_ENABLED` | Enables ClydeAI for the guild
@@ -106,6 +104,7 @@ Guild Features | Description
 `INTERNAL_EMPLOYEE_ONLY` | Restricts the guild so that only users with the staff flag can join.
 `INVITE_SPLASH` | Ability to set a background image that will display on all invite links.
 `INVITES_DISABLED` | [Prevents new members from joining](https://support.discord.com/hc/en-us/articles/8458903738647) and shows an error when attemping to join the server.
+`LEADERBOARD_ENABLED` |
 `LINKED_TO_HUB` | 
 `MARKETPLACES_CONNECTION_ROLES` | 
 `MEMBER_PROFILES` | Allows members to customize their avatar, banner and bio for that server.
@@ -162,6 +161,10 @@ Guild Features | Description
 Deprecated Guild Features | Description
 ------------ | -------------
 `CHANNEL_BANNER` | Ability to set a channel banner that will display above the Channel Information sidebar.
+`CLAN` | The server is a clan server
+`CLAN_DISCOVERY_DISABLED` | 
+`CLAN_PILOT_VALORANT` | 
+`CLAN_SAFETY_REVIEW_DISABLED` |
 `COMMERCE` | Ability to create and use [store channels](https://discord.com/developers/docs/game-and-server-management/special-channels#store-channels).
 `EXPOSED_TO_BOOSTING_TIERS_EXPERIMENT` |
 `FEATURABLE` | Previously used to control which servers were displayed under the "Featured" category in Discovery
@@ -171,6 +174,7 @@ Deprecated Guild Features | Description
 `PRIVATE_THREADS` | Ability to create private threads. Is now a base feature.
 `PUBLIC` | Deprecated in favor of `COMMUNITY`
 `PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
+`RAPIDASH_TEST` | 
 `RAID_ALERTS_ENABLED` | Deprecated in favor of `RAID_ALERTS_DISABLED` since Discord switched to an [opt-out system](https://github.com/discord/discord-api-docs/pull/5778#discussion_r1160146853).
 `SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
 `THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
