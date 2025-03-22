@@ -124,6 +124,7 @@ Guild Features | Description
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
 `PRODUCTS_AVAILABLE_FOR_PURCHASE` | Guild has server products available for purchase
 `RAID_ALERTS_DISABLED` | Guild is opt-out from raid alerts
+`RAPIDASH_TEST` | 
 `RELAY_ENABLED` | Shards connections to the guild to different nodes that relay information between each other.
 `RESTRICT_SPAM_RISK_GUILDS` |
 `ROLE_ICONS` | Ability to set an image or emoji as a role icon.
@@ -174,7 +175,6 @@ Deprecated Guild Features | Description
 `PRIVATE_THREADS` | Ability to create private threads. Is now a base feature.
 `PUBLIC` | Deprecated in favor of `COMMUNITY`
 `PUBLIC_DISABLED` | Deprecated in favor of `COMMUNITY`
-`RAPIDASH_TEST` | 
 `RAID_ALERTS_ENABLED` | Deprecated in favor of `RAID_ALERTS_DISABLED` since Discord switched to an [opt-out system](https://github.com/discord/discord-api-docs/pull/5778#discussion_r1160146853).
 `SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
 `THREE_DAY_THREAD_ARCHIVE` | Ability to use three-day archive time for threads.
