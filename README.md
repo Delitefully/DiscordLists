@@ -75,6 +75,7 @@ Guild Features | Description
 `DISCOVERABLE` | Visible in Server Discovery.
 `ENABLED_DISCOVERABLE_BEFORE` | Given to servers that have enabled Discovery at any point.
 `ENABLED_MODERATION_EXPERIENCE_FOR_NON_COMMUNITY` | Moves the member list from the guild settings to the member tab for non-community guilds.
+`ENHANCED_ROLE_COLORS` | 
 `EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT` | Given to guilds previously in the `2021-11_activities_baseline_engagement_bundle` experiment overrides
 `GUESTS_ENABLED` | Guild has used guest invites
 `GUILD_AUTOMOD_DEFAULT_LIST` | Given to guilds in the `2022-03_guild_automod_default_list` experiment overrides
