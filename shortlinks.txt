@@ -63,6 +63,7 @@ dis.gd/appdiscoveryblog
 dis.gd/appeal
 dis.gd/appprofilepages
 dis.gd/apps
+dis.gd/apps-dev-portal-error
 dis.gd/AppWorkshopRemix
 dis.gd/aprilfools23
 dis.gd/ar12
