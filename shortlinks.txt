@@ -452,6 +452,7 @@ dis.gd/joinstudenthubs
 dis.gd/jp-servervideo
 dis.gd/june-2024-changelog
 dis.gd/juneteenth
+dis.gd/KeepQuestRewardsLonger
 dis.gd/keyboardnav
 dis.gd/killerqueenb
 dis.gd/Kimblueism
