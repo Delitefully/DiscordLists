@@ -60,6 +60,7 @@ dis.gd/app-pitches-tw-2023
 dis.gd/app-quarantine
 dis.gd/app-usernames
 dis.gd/appdiscoveryblog
+dis.gd/application-growth-disabled
 dis.gd/appeal
 dis.gd/appprofilepages
 dis.gd/apps
