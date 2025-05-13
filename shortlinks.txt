@@ -1,6 +1,7 @@
 dis.gd/0
 dis.gd/1
 dis.gd/10thbday
+dis.gd/10thbdaysweeps
 dis.gd/2-weeks-nitro-for-everyone
 dis.gd/20
 dis.gd/2020-in-review
