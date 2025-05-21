@@ -15,15 +15,16 @@
 | discord.new            | Template shortlinks                      |
 | discord.store          | Merch store                              |
 | discord.tools          | Internal tools                           |
+| discordactivities.com  | Voice channel activity data management   |
 | discordapp.com         | Old app, marketing website, and API; CDN |
 | discordapp.net         | Media Proxy, Client Downloads            |
 | discordmerch.com       | Merch store                              |
-| discordpartygames.com  | Voice channel activity API host          |
-| discord-activities.com | Voice channel activity API host          |
-| discordactivities.com  | Voice channel activity data management   |
+| discordquests.com      | Quest site shortlinks                    |
 | discordsays.com        | Voice channel activity host              |
 | discordsez.com         | Voice channel activity staging host      |
 | discordstatus.com      | Status page                              |
+| discordpartygames.com  | Voice channel activity API host          |
+| discord-activities.com | Voice channel activity API host          |
 
 ## Other
 
