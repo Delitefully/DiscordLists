@@ -151,7 +151,11 @@ Guild Features | Description
 `THREAD_DEFAULT_AUTO_ARCHIVE_DURATION` | Unknown, presumably used for testing changes to the thread default auto archive duration.
 `THREADS_ONLY_CHANNEL` | Given to guilds previously in the `2021-07_threads_only_channel` experiment overrides
 `TICKETED_EVENTS_ENABLED` | Ability to view and manage ticketed events.
-`TICKETING_ENABLED` | 
+`TICKETING_ENABLED` |`
+`TIERLESS_BOOSTING` |  Ability to use the new boosting system, which includes `Server Tags` and `Enhanced Role Styles
+`TIERLESS_BOOSTING_CLIENT_TEST` | Given to guilds previously in the `2025-02_skill_trees` experiment overrides
+`TIERLESS_BOOSTING_SYSTEM_MESSAGE` | Related to `2025-06_tierless_boosting_system_message`
+`TIERLESS_BOOSTING_TEST` | Given to guilds previously in the `2025-02_skill_trees` experiment overrides
 `VANITY_URL` | Ability to set a vanity URL (custom discord.gg invite link).
 `VERIFIED` | Verification checkmark near the server name and in mutual server lists.
 `VIP_REGIONS` | ~~Ability to use special voice regions with better stability: US East VIP, US West VIP, and Amsterdam VIP.~~ Deprecated, replaced with 384kbps max bitrate
