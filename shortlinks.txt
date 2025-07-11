@@ -454,6 +454,7 @@ dis.gd/jhzer
 dis.gd/jobs
 dis.gd/joinstudenthubs
 dis.gd/jp-servervideo
+dis.gd/july25patchnotes
 dis.gd/june-2024-changelog
 dis.gd/juneteenth
 dis.gd/KeepQuestRewardsLonger
