@@ -73,6 +73,7 @@ dis.gd/ar12
 dis.gd/ArcaneShopCL
 dis.gd/atsundownFB
 dis.gd/atsundowntw
+dis.gd/aug25patchnotes
 dis.gd/automod
 dis.gd/automod-spam-raids
 dis.gd/av1update
