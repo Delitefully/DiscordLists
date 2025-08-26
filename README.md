@@ -85,6 +85,7 @@ Guild Features | Description
 `FEATURABLE` | Previously used to control which servers were displayed under the "Featured" category in Discovery
 `FORCE_RELAY` | Shards connections to the guild to different nodes that relay information between each other.
 `FORWARDING_DISABLED` | Blocks from the API and UX side ability to forward messages from the selected server.
+`GAME_SERVER_HOSTING` | 
 `GENERATED_TEST_GUILD` | 
 `GENSHIN_L30` | Related to Genshin Impact
 `GUESTS_ENABLED` | Guild can create guest invites.
