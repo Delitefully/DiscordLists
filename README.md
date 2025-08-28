@@ -38,6 +38,7 @@ Guild Features | Description
 `ACTIVITIES_INTERNAL_DEV` | Internal development access to voice channel activities
 `ACTIVITY_FEED_DISABLED_BY_USER` | User has disabled the activity feed feature
 `ACTIVITY_FEED_ENABLED_BY_USER` | User has enabled the activity feed feature
+`AGE_VERIFICATION_LARGE_GUILD` | 
 `ANIMATED_BANNER` | Ability to upload an animated [banner image](https://support.discord.com/hc/en-us/articles/360028716472-Server-Banner-Background-Invite-Splash-Image) that will display above the channel list.
 `ANIMATED_ICON` | Ability to upload an animated icon, similar to animated profile pictures for Nitro members. Displays on hover and invite links on desktop, and plays constantly on mobile.
 `AUDIO_BITRATE_128_KBPS` | Enables 128kbps audio bitrate for voice channels
