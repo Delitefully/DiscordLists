@@ -538,6 +538,7 @@ dis.gd/mobileyt
 dis.gd/mod
 dis.gd/mod-channel-ss
 dis.gd/modacademy
+dis.gd/modal-components
 dis.gd/modbadge
 dis.gd/moderation
 dis.gd/molt
