@@ -156,6 +156,7 @@ Guild Features | Description
 `SERVER_PROFILES_TEST` | Testing feature for server profiles
 `SEVEN_DAY_THREAD_ARCHIVE` | Ability to use seven-day archive time for threads.
 `SHARD` | 
+`SOCIAL_LAYER_STOREFRONT` | 
 `SOUNDBOARD` | Given to guilds previously in the `2021-12_soundboard` experiment overrides
 `STAGE_CHANNEL_VIEWERS_50` | Increases stage channel viewer limit to 50
 `STAGE_CHANNEL_VIEWERS_150` | Increases stage channel viewer limit to 150
