@@ -135,6 +135,7 @@ Guild Features | Description
 `NEW_THREAD_PERMISSIONS` | Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423#h_01FDGC4JW2D665Y230KPKWQZPN).
 `NON_COMMUNITY_RAID_ALERTS` | Non-community guild is opt-in to raid alerts
 `PARTNERED` | Partner badge near the server name and in mutual server lists.
+`POWERUP_BETA_FEATURES` | 
 `PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
 `PRIVATE_THREADS` | Ability to create private threads. Is now a base feature.
