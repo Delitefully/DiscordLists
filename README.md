@@ -55,6 +55,7 @@ Guild Features | Description
 `BOOSTING_TIERS_EXPERIMENT_SMALL_GUILD` | Small guild in boosting tiers experiment
 `BOT_DEVELOPER_EARLY_ACCESS` | Enables early access features for bot and library developers.
 `BURST_REACTIONS` | Enables burst reactions for the guild
+`BYPASS_SLOWMODE_PERMISSION_MIGRATION_COMPLETE` | 
 `CHANNEL_BANNER` | Ability to set a channel banner that will display above the Channel Information sidebar.
 `CHANNEL_EMOJIS_GENERATED` | 
 `CHANNEL_HIGHLIGHTS` | 
@@ -66,6 +67,8 @@ Guild Features | Description
 `COMMUNITY_EXP_LARGE_GATED` | 
 `COMMUNITY_EXP_LARGE_UNGATED` | 
 `COMMUNITY_EXP_MEDIUM` | 
+`CONFERENCE` |
+`CONSIDERED_EXTERNALLY_DISCOVERABLE` |
 `CREATOR_ACCEPTED_NEW_TERMS` | The server owner accepted the new monetization terms.
 `CREATOR_MONETIZABLE` | Given to guilds that enabled role subscriptions through the manual approval system
 `CREATOR_MONETIZABLE_DISABLED` | 
@@ -86,6 +89,7 @@ Guild Features | Description
 `FEATURABLE` | Previously used to control which servers were displayed under the "Featured" category in Discovery
 `FORCE_RELAY` | Shards connections to the guild to different nodes that relay information between each other.
 `FORWARDING_DISABLED` | Blocks from the API and UX side ability to forward messages from the selected server.
+`GAME_SERVERS` | 
 `GAME_SERVER_HOSTING` | 
 `GENERATED_TEST_GUILD` | 
 `GENSHIN_L30` | Related to Genshin Impact
@@ -105,6 +109,10 @@ Guild Features | Description
 `GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds previously in the `2022-01_guild_role_subscription_trials` experiment overrides
 `GUILD_SERVER_GUIDE` | Guild has enabled [server guide](https://support.discord.com/hc/en-us/articles/13497665141655)
 `GUILD_TAGS` | Ability to create a [server tag](https://support.discord.com/hc/en-us/articles/31444248479639-Server-Tags)
+`GUILD_TAGS_BADGE_PACK_CREEPY_CRAWLIES` |
+`GUILD_TAGS_BADGE_PACK_FLEX` |
+`GUILD_TAGS_BADGE_PACK_PETS` |
+`GUILD_TAGS_BADGE_PACK_PLANT` |
 `GUILD_WEB_PAGE_VANITY_URL` | 
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
@@ -135,6 +143,7 @@ Guild Features | Description
 `NEW_THREAD_PERMISSIONS` | Guild has [new thread permissions](https://support.discord.com/hc/en-us/articles/4403205878423#h_01FDGC4JW2D665Y230KPKWQZPN).
 `NON_COMMUNITY_RAID_ALERTS` | Non-community guild is opt-in to raid alerts
 `PARTNERED` | Partner badge near the server name and in mutual server lists.
+`PIN_PERMISSION_MIGRATION_COMPLETE` | 
 `POWERUP_BETA_FEATURES` | 
 `PREMIUM_TIER_3_OVERRIDE` | Forces the server to server boosting level 3
 `PREVIEW_ENABLED` | Allows a user to view the server without passing membership gating.
