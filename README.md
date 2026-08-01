@@ -3,30 +3,38 @@
 
 Community-sourced documentation and data collection project around the Discord app.
 
-To check the features of a guild via an instant invite code, add the invite code to the following URL: https://discord.com/api/invite/[invitecode] 
+*Cover image created by [Dhanish Danu](https://dhanish.xyz/)*.
 
-e.g.: https://discord.com/api/invite/discord-townhall - the guild's features are `"ROLE_ICONS", "GUILD_COMMUNICATION_DISABLED_GUILDS", "FEATURABLE", "VANITY_URL", "CHANNEL_ICON_EMOJIS_GENERATED", "AUTOMOD_TRIGGER_USER_PROFILE", "PARTNERED", "TEXT_IN_STAGE_ENABLED", "GUILD_ONBOARDING_EVER_ENABLED", "NEW_THREAD_PERMISSIONS", "BANNER", "AUTOMOD_TRIGGER_SPAM_LINK_FILTER", "INVITE_SPLASH", "AUTO_MODERATION", "AUTOMOD_TRIGGER_KEYWORD_FILTER", "NEWS", "VIP_REGIONS", "GUILD_HOME_OVERRIDE", "HAS_DIRECTORY_ENTRY", "SOUNDBOARD", "PREVIEW_ENABLED", "THREADS_ENABLED", "DISCOVERABLE", "RESTRICT_SPAM_RISK_GUILDS", "ANIMATED_BANNER", "COMMUNITY", "GUILD_ONBOARDING_ADMIN_ONLY", "ANIMATED_ICON", "VERIFIED", "COMMUNITY_EXP_LARGE_GATED", "MEMBER_VERIFICATION_GATE_ENABLED", "WELCOME_SCREEN_ENABLED", "GUILD_WEB_PAGE_VANITY_URL", "MAX_FILE_SIZE_100_MB", "VIDEO_QUALITY_720_60FPS", "GUILD_TAGS", "AUDIO_BITRATE_128_KBPS", "ENHANCED_ROLE_COLORS", "VIDEO_QUALITY_1080_60FPS", "TIERLESS_BOOSTING_SYSTEM_MESSAGE", "TIERLESS_BOOSTING", "AUDIO_BITRATE_384_KBPS", "STAGE_CHANNEL_VIEWERS_300", "STAGE_CHANNEL_VIEWERS_150", "STAGE_CHANNEL_VIEWERS_50", "VIDEO_BITRATE_ENHANCED", "MEMBER_SAFETY_PAGE_ROLLOUT", "AUDIO_BITRATE_256_KBPS", "MAX_FILE_SIZE_50_MB"`
+# Checking a guild's features
+To check the guild features of a server using an invite, add the invite code to the following URL: 
+
+`https://discord.com/api/v10/invite/[invite-code]`
+
+### Example
+For the Discord Townhall server (`discord.gg/discord-townhall`), you can use https://discord.com/api/v10/invite/discord-townhall and check the `features` field in the response to see the following list:
+
+`["AUDIO_BITRATE_256_KBPS", "AUTOMOD_TRIGGER_SPAM_LINK_FILTER", "VANITY_URL", "SOUNDBOARD", "STAGE_CHANNEL_VIEWERS_300", "VIDEO_QUALITY_1080_60FPS", "AUDIO_BITRATE_128_KBPS", "GUILD_HOME_OVERRIDE", "GUILD_COMMUNICATION_DISABLED_GUILDS", "GUILD_ONBOARDING_HAS_PROMPTS", "HAS_DIRECTORY_ENTRY", "NEW_THREAD_PERMISSIONS", "PARTNERED", "VERIFIED", "THREADS_ENABLED", "VIDEO_QUALITY_720_60FPS", "GUILD_TAGS", "AUDIO_BITRATE_384_KBPS", "CONSIDERED_EXTERNALLY_DISCOVERABLE", "TIERLESS_BOOSTING", "GUILD_ONBOARDING_EVER_ENABLED", "ENHANCED_ROLE_COLORS", "GUILD_ONBOARDING_ADMIN_ONLY", "PREVIEW_ENABLED", "COMMUNITY_EXP_LARGE_GATED", "WELCOME_SCREEN_ENABLED", "ROLE_ICONS", "MEMBER_VERIFICATION_GATE_ENABLED", "TEXT_IN_STAGE_ENABLED", "MEMBER_SAFETY_PAGE_ROLLOUT", "TIERLESS_BOOSTING_SYSTEM_MESSAGE", "ANIMATED_BANNER", "VIDEO_BITRATE_ENHANCED", "NEWS", "ENABLED_DISCOVERABLE_BEFORE", "GUILD_ONBOARDING", "GUILD_WEB_PAGE_VANITY_URL", "FEATURABLE", "ANIMATED_ICON", "INVITE_SPLASH", "GUILD_TAGS_BADGE_PACK_FLEX", "VIP_REGIONS", "AUTO_MODERATION", "MAX_FILE_SIZE_50_MB", "STAGE_CHANNEL_VIEWERS_150", "AUTOMOD_TRIGGER_USER_PROFILE", "DISCOVERABLE", "CHANNEL_ICON_EMOJIS_GENERATED", "MAX_FILE_SIZE_100_MB", "AUTOMOD_TRIGGER_KEYWORD_FILTER", "BANNER", "COMMUNITY", "STAGE_CHANNEL_VIEWERS_50", "CONTENT_INDEXING", "INCREASED_THREAD_LIMIT"]`
  
- *Cover image created by [Dhanish Danu](https://dhanish.xyz/)*.
+
  
 ----
  
-#### [partners.txt](partners.txt) - Partnered servers ([dis.gd/partners](https://dis.gd/partners))
+#### [partners.txt](partners.txt) - Partnered Servers
 * Features: **`PARTNERED`**, `VANITY_URL`, `VIP_REGIONS`, `INVITE_SPLASH`, `BANNER`, `ANIMATED_ICON`
-* The server owner will have the Partner badge.
+* The server owner will have the Discord Partner badge.
 * Certain very old partnered guilds are missing the `PARTNERED` feature but will have the other features 
 
-#### [verified.txt](verified.txt) - Verified servers ([dis.gd/vfs](https://dis.gd/vfs))
+#### [verified.txt](verified.txt) - Verified Servers ([dis.gd/vfs](https://dis.gd/vfs))
  * Features: **`VERIFIED`**, `VANITY_URL`, `DISCOVERABLE`, `INVITE_SPLASH`
 
-#### HypeSquad Event Organizer servers ([dis.gd/hypesquad](https://dis.gd/hypesquad))
+#### HypeSquad Event Organizer Servers
 * Features: **`VANITY_URL`**, `VIP_REGIONS`, `INVITE_SPLASH`
 * The server owner will have the HypeSquad Events badge.
 
-#### Community servers ([dis.gd/communityservers](https://dis.gd/communityservers))
+#### [Community Servers](https://support.discord.com/hc/en-us/articles/360047132851)
 * Features: **`COMMUNITY`**, `NEWS`
 
-#### Student Hubs ([dis.gd/studenthubs](https://dis.gd/studenthubs))
+#### [Student Hubs](https://support.discord.com/hc/en-us/articles/4406046651927)
 * Features: **`HUB`**
 
 # Guild Feature Glossary
@@ -241,31 +249,31 @@ Deprecated Guild Features | Description
 | Open Source                    | Yes        | Yes           | No          | Not applicable        | Not applicable     | Not applicable          | Not applicable    | No            | Yes    | No      | No                    | No             | No                | No                 | No         |
 | Server boosting tier 1         | No         | Yes           | No          | 128kbps               | Not applicable     | Boost tier 1 icon       | 50 \(100 total\)  | Yes           | No     | No      | No                    | No             | No                | No                 | No         |
 | Server boosting tier 2         | No         | Yes           | No          | 256kbps               | Not applicable     | Boost tier 2 icon       | 100 \(150 total\) | Yes           | Yes    | No      | No                    | No             | No                | No                 | Yes        |
-| Server boosting tier 3         | Yes        | Yes           | No          | 384kbps               | Not applicable     | Boost tier 3 icon  i    | 200 \(250 total\) | Yes           | Yes    | No      | No                    | No             | No                | No                 | Yes        |
+| Server boosting tier 3         | Yes        | Yes           | No          | 384kbps               | Not applicable     | Boost tier 3 icon       | 200 \(250 total\) | Yes           | Yes    | No      | No                    | No             | No                | No                 | Yes        |
 | Commerce \(Developer License\) | No         | No            | No          | Not applicable        | Not applicable     | Not applicable          | Not applicable    | No            | No     | Yes     | Yes                   | Yes            | No                | No                 | No         |
 | Community                      | No         | No            | No          | Not applicable        | Not applicable     | Not applicable          | Not applicable    | No            | No     | No      | Yes                   | No             | No                | Can apply          | No         |
 | Student Hub                    | No         | No            | No          | Not applicable        | Not applicable     | Directory channel icon  | Not applicable    | No            | No     | No      | No                    | No             | Yes               | No                 | No         |
 
-\* If the guild is a hub this will be a directory channel icon with a green instead of a grey background instead.
+\* If the guild is a hub, this will be a directory channel icon with a green background (instead of grey).
 
 #### Server Boost Level Comparison
 
-| Feature               | Base         | Level 1         | Level 2              | Level 3                                |
-|-----------------------|--------------|-----------------|----------------------|----------------------------------------|
-| Emotes/Emojis         | 50           | 100             | 150                  | 250                                    |
-| Sticker Slots         | 5            | 15              | 30                   | 60                                     |
-| Upload Limit          | 8MB          | 8MB             | 50MB for all members | 100MB for all members                  |
-| Soundboard Slots      | 8            | 24              | 36                   | 48                                     |
-| Stream Quality        | 720p @ 30fps | 720p @ 60fps    | 720p @ 60fps         | 720p @ 60fps                           |
-| Audio Quality         | 96kbps       | 128kbps         | 256kbps              | 384kbps                                |
-| Go Live Streams       | 720p @ 60fps | 720p @ 60fps    | 1080p @ 60fps        | 1080p @ 60fps                          |
-| Vanity URL            | No           | No              | No                   | Yes (custom discord.gg link)           |
-| Animated Server Icon  | No           | Yes             | Yes                  | Yes                                    |
-| Server Banner         | No           | No              | Static               | Animated                               |
-| Custom Role Icons     | No           | No              | Yes                  | Yes                                    |
-| Video Channel Members | 25           | 25              | 25                   | 25                                     |
-| Stage Channel Viewers | 10,000       | 10,000          | 10,000               | 10,000                                 |
-| Video Stage Seats     | 50           | 50              | 150                  | 300 (+30 per additional boost past 14) |
+| Feature                | Base         | Level 1         | Level 2               | Level 3                                |
+|------------------------|--------------|-----------------|-----------------------|----------------------------------------|
+| Emojis (for each type) | 50           | 100             | 150                   | 250                                    |
+| Sticker Slots          | 5            | 15              | 30                    | 60                                     |
+| File Upload Limit      | 10 MB        | 10 MB           | 50 MB for all members | 100 MB for all members                 |
+| Soundboard Slots       | 8            | 24              | 36                    | 48                                     |
+| Stream Quality         | 720p @ 30fps | 720p @ 60fps    | 720p @ 60fps          | 720p @ 60fps                           |
+| Audio Quality          | 96kbps       | 128kbps         | 256kbps               | 384kbps                                |
+| Go Live Streams        | 720p @ 60fps | 720p @ 60fps    | 1080p @ 60fps         | 1080p @ 60fps                          |
+| Vanity URL             | No           | No              | No                    | Yes (custom discord.gg link)           |
+| Animated Server Icon   | No           | Yes             | Yes                   | Yes                                    |
+| Server Banner          | No           | No              | Static                | Animated                               |
+| Custom Role Icons      | No           | No              | Yes                   | Yes                                    |
+| Video Channel Members  | 25           | 25              | 25                    | 25                                     |
+| Stage Channel Viewers  | 10,000       | 10,000          | 10,000                | 10,000                                 |
+| Video Stage Seats      | 50           | 50              | 150                   | 300 (+30 per additional boost past 14) |
 
 #### Additional Server Limits
 
@@ -273,25 +281,25 @@ Deprecated Guild Features | Description
 
 - **Total Member Count:** 25 million
 - **Server Categories:** 50 max
-- **Channels (total):** 500 max (includes voice, text, and categories)
+- **Channels:** 500 max (includes voice, text, and categories)
 - **Channels per Category:** 50 max
 - **Roles:** 250 max
 - **Unique Invite Codes:** 999 per server
 - **Audit Log Retention:** 45 days
-- **Followed Announcement Channels:** 10 per channel
+- **Webhooks per Channel:** 15 per channel (includes normal webhooks and followed channels)
 - **Offline Member List:**
-  - Hidden when server reaches 1,000+ members
-  - Reappears when server drops below 800 members
+  - Hidden when the server reaches 1,000 members
+  - Reappears when the server drops below 800 members
 - **Threads:**
-  - 1,000 members max in private/public threads
+  - 1,000 members max per private/public thread
   - 10 roles max mentioned in private threads
 - **Rate Limits:**
-  - No inherent message limits (except when slow mode enabled)
+  - No inherent message limits (except when slow mode is enabled)
   - No limit on raised hands in stage channels
   - 1 shared screen per stage (no camera limit)
 
 **Notes:**
-- All servers get 8MB file upload by default (increased to 50MB at Level 2, 100MB at Level 3)
+- All servers have a 10 MB file upload limit by default (increased to 50 MB at Level 2 and 100 MB at Level 3)
 - Stage channel viewer limits are the same across all tiers (10,000)
 - Video channel member limits remain at 25 for all tiers
-- The "Video Stage Seats" at Level 3 continue increasing by +30 for each boost beyond 14
+- The Video Stage Seat limit continues increasing after Level 3 at a rate of 30 per additional boost beyond the base 14
