@@ -262,7 +262,7 @@ Deprecated Guild Features | Description
 |------------------------|--------------|-----------------|-----------------------|----------------------------------------|
 | Emojis (for each type) | 50           | 100             | 150                   | 250                                    |
 | Sticker Slots          | 5            | 15              | 30                    | 60                                     |
-| File Upload Limit      | 10 MB        | 10 MB           | 50 MB for all members | 100 MB for all members                 |
+| File Upload Limit      | 20 MB        | 20 MB           | 50 MB for all members | 100 MB for all members                 |
 | Soundboard Slots       | 8            | 24              | 36                    | 48                                     |
 | Stream Quality         | 720p @ 30fps | 720p @ 60fps    | 720p @ 60fps          | 720p @ 60fps                           |
 | Audio Quality          | 96kbps       | 128kbps         | 256kbps               | 384kbps                                |
@@ -287,7 +287,7 @@ Deprecated Guild Features | Description
 - **Unique Invite Codes:** 999 per server
 - **Audit Log Retention:** 45 days
 - **Webhooks per Channel:** 15 per channel (includes normal webhooks and followed channels)
-- **Offline Member List:**
+- **Offline Members List:**
   - Hidden when the server reaches 1,000 members
   - Reappears when the server drops below 800 members
 - **Threads:**
@@ -299,7 +299,7 @@ Deprecated Guild Features | Description
   - 1 shared screen per stage (no camera limit)
 
 **Notes:**
-- All servers have a 10 MB file upload limit by default (increased to 50 MB at Level 2 and 100 MB at Level 3)
+- All servers have a 20 MB file upload limit by default (increased to 50 MB at Level 2 and 100 MB at Level 3)
 - Stage channel viewer limits are the same across all tiers (10,000)
 - Video channel member limits remain at 25 for all tiers
 - The Video Stage Seat limit continues increasing after Level 3 at a rate of 30 per additional boost beyond the base 14
